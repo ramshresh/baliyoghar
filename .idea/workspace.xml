@@ -2,200 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="478974d7-dff3-4686-b81e-d9045b14a042" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/CHANGE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/web/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/web/assets/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/web/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/web/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/backend/web/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/mail/layouts/html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/mail/layouts/text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/mail/passwordResetToken-html.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/mail/passwordResetToken-text.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/models/LoginForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/models/User.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/common/widgets/Alert.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/composer.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/composer.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/controllers/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/migrations/m130524_201442_init.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/models/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/console/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/backend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/backend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/backend/web/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/backend/web/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/backend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/common/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/common/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/console/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/console/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/frontend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/frontend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/index-test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/tests/codeception/config/config-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/dev/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/backend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/backend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/backend/web/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/backend/web/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/common/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/common/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/console/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/console/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/frontend/config/main-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/frontend/config/params-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/tests/codeception/config/config-local.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/environments/prod/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/assets/AppAsset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/assets/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/config/bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/config/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/config/params.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/controllers/SiteController.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/models/ContactForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/models/PasswordResetRequestForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/models/ResetPasswordForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/models/SignupForm.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/runtime/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/runtime/sessions/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/layouts/main.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/about.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/contact.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/error.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/requestPasswordResetToken.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/resetPassword.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/views/site/signup.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/frontend/web/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/init" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/init.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/requirements.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/acceptance.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/acceptance/LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/acceptance/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/functional/LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/unit/DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/unit/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/backend/unit/fixtures/data/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/bin/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/bin/yii" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/bin/yii.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/_pages/LoginPage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/_support/FixtureHelper.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/fixtures/UserFixture.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/fixtures/data/init_login.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/templates/fixtures/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit/DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit/fixtures/data/models/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/common/unit/models/LoginFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/backend/acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/backend/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/backend/functional.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/backend/unit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/common/unit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/console/unit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/frontend/acceptance.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/frontend/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/frontend/functional.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/frontend/unit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/functional.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/config/unit.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/unit/DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/unit/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/console/unit/fixtures/data/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/_output/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/_pages/AboutPage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/_pages/ContactPage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/_pages/SignupPage.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/AboutCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/ContactCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/HomeCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/SignupCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/acceptance/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/codeception.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/AboutCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/ContactCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/HomeCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/LoginCept.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/SignupCest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/functional/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit.suite.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/DbTestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/TestCase.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/_bootstrap.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/fixtures/data/models/user.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/models/ContactFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/models/PasswordResetRequestFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/models/ResetPasswordFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/tests/codeception/frontend/unit/models/SignupFormTest.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/recon_yii2/yii.bat" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="recon.iws" />
@@ -376,8 +183,8 @@
               <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/.gitignore">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="30">
-                      <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+                    <state relative-caret-position="60">
+                      <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
                       <folding />
                     </state>
                   </provider>
@@ -463,7 +270,7 @@
     <option name="x" value="65" />
     <option name="y" value="24" />
     <option name="width" value="1301" />
-    <option name="height" value="744" />
+    <option name="height" value="639" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -518,7 +325,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
+              <option name="myItemId" value="nbproject" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,11 +339,11 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
+              <option name="myItemId" value="nbproject" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="private" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -660,22 +467,22 @@
       <workItem from="1473225030771" duration="22121000" />
       <workItem from="1473290461739" duration="20538000" />
       <workItem from="1473991767861" duration="936000" />
-      <workItem from="1473993422233" duration="455000" />
+      <workItem from="1473993422233" duration="1110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49479000" />
+    <option name="totallyTimeSpent" value="50134000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="24" width="1301" height="639" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15987702" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26825517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39344263" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34452298" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.038748138" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1105,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding />
         </state>
       </provider>
