@@ -1,0 +1,46 @@
+/* page styles */
+
+.getBg{
+    background: rgba(242,242,242,0.5);/*#e7ebf2 url('../img/bg.png');*/
+}
+table.dataListing{
+        color: #666666;
+        font: 11px Tahoma,Geneva,sans-serif;
+        border-left: 1px solid #CCCCCC;
+        border-top: 1px solid #CCCCCC;
+    }
+
+    table.dataListing tr {
+        color: #666666;
+        font: 11px Tahoma,Geneva,sans-serif;
+    }
+    table.dataListing th {
+        background: none repeat scroll 0 0 #E6C496;
+        border-bottom: 1px solid #CCCCCC;
+        border-left: 1px solid #F6F6F6;
+        border-right: 1px solid #CCCCCC;
+        color: #333333;
+        font: bold 11px/16px Arial,Helvetica,sans-serif;
+        padding: 5px;
+        text-shadow: 1px 1px 0 #F6F6F6;
+    }
+    table.dataListing tr.whiteTd {
+        background-color: #FFFFFF;
+    }
+    table.dataListing tr.fadeTd td {
+        background-color: #F9F9F9;
+    }
+    table.dataListing td {
+        background: none repeat scroll 0 0 #FCFCFC;
+        border-bottom: 1px solid #CCCCCC;
+        border-left: 1px solid #F6F6F6;
+        border-right: 1px solid #CCCCCC;
+        color: #444444;
+        vertical-align:top;
+        padding: 5px;
+    }
+    table.dataListing td p.text-info{
+        margin:0;
+        padding:0;
+    }
+   

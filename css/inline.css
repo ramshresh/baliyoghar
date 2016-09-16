@@ -1,0 +1,141 @@
+/* 
+    Document   : inline
+    Created on : Apr 18, 2013, 2:35:07 PM
+    Author     : Dell
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.handcursor{
+    cursor:pointer;
+}
+
+.loading-image-block{
+    width:16px;
+    height:16px;
+    display:inline-block;
+}
+.newly-added{
+    background:rgba(255,255,0,0.05);
+}
+
+.inline-block{
+    display:inline-block;
+}
+.size11{
+    font-size: 11px;
+}
+
+.size16{
+    font-size: 16px;
+}
+
+.size14{
+    font-size: 14px;
+}
+.message-error{
+    border : 1px solid #662222;
+    min-width:200px;
+    padding:10px;
+    background-color:rgba(255,30,30,0.2);
+}
+.message-success{
+    border : 1px solid #226622;
+    min-width:200px;
+    padding:10px;
+    background-color:rgba(30,255,30,0.2);
+}
+.message-info{
+    border : 1px solid #389EBC;
+    min-width:200px;
+    padding:10px;
+    background-color:rgba(59,161,191,0.08);
+}
+.curved{
+    border-radius:10px;
+}
+.no-border{
+    border:none;
+}
+.uppercase{
+    text-transform:uppercase;
+}
+.nicefont{
+    font-family: arial,verdana,sans-serif;
+}
+.nicecolor{
+    color:#1f6377;
+}
+  input[type='text'],select,input[type='checkbox'],input[type='radio']{
+        margin-bottom:2px;
+        margin-top:2px;
+    }
+    label{
+        color:#000;
+    }
+    .txt-err{
+        color:#e9322d;
+    }
+.msfont{
+    font-size:1.3em;
+    color:#005580;
+    line-height: 1.538;
+}
+
+.invisible{
+    display:none;
+}
+
+.caret{
+    margin-top:8px;
+}
+
+ul.submenus{
+    padding:3px;
+    background: rgba(245,245,245,1) url('../img/mask2invert.png');
+    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    border-radius:5px;
+    list-style-type: none;
+    min-width:100px;
+    margin-top:-5px;
+    list-style-position: inside;
+    margin-left:15px;
+    z-index:100;
+    
+}
+
+ul.submenus li{
+    margin-left:-10px;
+    padding:3px 0 0 0;
+}
+
+
+ul.submenus li a{
+    text-decoration: none;
+    color:#aaa;
+    display:block;
+    margin-left:7px;
+    padding-bottom:3px;
+    border-bottom:1px dashed #ccc;
+}
+ul.submenus li a:hover{
+    color:#005580;
+}
+
+.navigation{
+    border-bottom:5px solid #005580;
+}
+.w150{
+    width:150px;
+}
+
+/*margin-left negative 50 */
+.mlneg50, ul.mlneg25{
+    margin-left:-19px;
+}
+
+.clear{
+    clear:both;
+}
