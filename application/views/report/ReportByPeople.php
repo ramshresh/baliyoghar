@@ -50,7 +50,7 @@
                                 <td align="center"><?php echo $person_result_array[$i]['dob'];?></td>
                                 <td align="center"><?php echo $person_result_array[$i]['phone'];?></td>
                                 <td align="center"><?php echo $person_result_array[$i]['status'];?></td>
-                                <td align="center"><a href="../person/viewPerson?id=<?php echo $person_result_array[$i]['id'];?>">view</a></td>
+                                <td align="center"><a href="../Person/viewPerson?id=<?php echo $person_result_array[$i]['id'];?>">view</a></td>
                             </tr>
                             <?php } }else
 							echo '<tr><td colspan="7"><span class="red"> Sorry no records found .</span></td></tr>';

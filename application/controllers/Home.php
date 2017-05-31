@@ -9,6 +9,10 @@ class Home extends CI_Controller {
         $this->load->model('eventmodel');
         $this->load->model('coursemodel');
         $this->load->model('personmodel');
+        $this->load->model('certificationstatusmodel');
+        $this->load->model('beneficiarytypemodel');
+        $this->load->model('worktypemodel');
+        $this->load->model('educationlevelmodel');
     }
 
     public function refresh($page = 'Home/home') {
@@ -241,9 +245,7 @@ class Home extends CI_Controller {
             $item_per_page = 30;
             $data['current_page'] = 1;
             $data['person_data'] = $this->personmodel->getPerson('', 0, $item_per_page);
-        
-
-        $data['total_pages'] = $this->personmodel->getTotalPages_person($item_per_page);
+            $data['total_pages'] = $this->personmodel->getTotalPages_person($item_per_page);
             $this->loadpage($data, 'PeopleManagement', 'View people | BALIYOGHAR');
 
     }

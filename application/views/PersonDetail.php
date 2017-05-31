@@ -343,6 +343,7 @@
 			<th width="5%" align="center">#</th>
 			<th width="30%" align="left">Event</th>
 			<th width="15%" align="left">Role</th>
+			<th width="15%" align="left">Beneficiary Type</th>
 			<th width="7%" align="left">year</th>
 			<th width="10%" align="left">Start date</th>
 			<th width="10%" align="left">End date</th>
@@ -355,12 +356,14 @@
 		</tr>
 
 		<?php
+		
 		for ($i = 0; $i < count($participation); $i++) {
 			// echo ' <tr id="row'.$person_id.'_'.$participation[$i][6].'">';
 			echo "<tr id='participant_row_" . $participation[$i][7] . "'>";
 			echo ' <td align="center">' . ($i + 1) . '</td>';
 			echo ' <td align="left"><a href="../Event/viewEvent?id=' . $participation[$i][6] . '">' . $participation[$i][0] . '<a></td>';
 			echo '<td align="left">' . $participation[$i][1] . '</td>';
+			echo '<td align="left">' . $participation[$i][8] . '</td>';
 			echo '<td align="left">' . $participation[$i][2] . '</td>';
 
 			echo '<td align="left">' . $participation[$i][3] . '</td>';

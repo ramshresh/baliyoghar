@@ -1,14 +1,15 @@
 <link href="../leaflet/leaflet.css" rel="stylesheet">
 <link href="../leaflet/label/leaflet.label.css" rel="stylesheet">
 <link href="../leaflet/control/geocoder/dist/Control.Geocoder.css" rel="stylesheet">
+<script src="../js/adminextents/district_vdc_municipality.js">
 
 <style type="text/css">
 
 	#main-organizer-block, #implementing-partner-block {
-		width: 200px;
-		height: 90px;
+		width: 300px;
+		height: 120px;
 		overflow-y: scroll;
-		padding: 10px;
+		padding: 5px;
 		border: 1px solid #ccc;
 		border-radius: 5px;
 	}
@@ -88,192 +89,7 @@
 <script src="../js/popup/jquery.ui.button.js"></script>
 <script src="../js/popup/jquery.ui.dialog.js"></script>
 
-<script type="text/javascript">
-	/*  $(document.body).on('click','#addnewvdc',function(){
-	 $( "#dialog" ).dialog();
-	 $('#location_code_text').val('');
-	 $('#location_text').val('');
-	 });
-	 */
-	$(document.body).on('click', '#location_savebtn', function () {
-		var location = $.trim($('#location_text').val());
-		if (location == '') {
-			alert('Location field is blank');
-		} else {
-			var location_code = $('#location_code_text').val();
-			var level_id = $('#hidden_levelid_identifier').val();
-			//------------------
-			$.ajax({
-				type: "POST",
-				url: "../Home/addCoverageLocation",
-				data: {
-					coverage_location: location,
-					coverage_location_code: location_code,
-					coverage_level: level_id
-				},
-				cache: false,
-				error: function (xhr, status, error) {
-					alert('Error !\n Please try again.\n(Please check your internet connection.)');
-				},
-				success: function (msg) {
-					var success = $.trim(msg);
-					if (success == 'yes') {
-						//if added to database , load the newly added vdc into dropdown and set the value
-						$('#coverage_location').append('<option value="' + location + '">' + location + '</option>');
-						$('#coverage_location').val(location);
 
-						$('.ui-dialog').remove(); //dismiss the popup
-						// $('#dialog').html(''); // reset the form div of popup
-					}
-					else {
-						$('#dialog').html('<p class="text-error size11"><b>Sorry ! your request failed.</b></p>'); // reset the form div of popup
-					}
-				}
-			});
-		}
-		//-----------------
-	});
-
-	$(document.body).on('click', '#location_cancelbtn', function () {
-		$('.ui-dialog').remove(); //dismiss the popup
-		// $('#dialog').html(''); // reset the form div of popup
-	});
-</script>
-<!-- end script import -->
-
-<script type="text/javascript">
-	$(document).ready(function () {
-		//either main organizer can be selected or implementing partner but not both at the same time -eg , vdc, vdc
-//        $(document.body).on('click','input[id^=mainorg_]',function(){
-//            var id =$(this).attr('id');
-//            var array = id.split("_");
-//            if($(this).is(':checked')){
-//                $('#implpartner_'+array[1]).prop('checked', false);
-//            }
-//        });
-//        $(document.body).on('click','input[id^=implpartner_]',function(){
-//            var id =$(this).attr('id');
-//            var array = id.split("_");
-//            if($(this).is(':checked')){
-//                $('#mainorg_'+array[1]).prop('checked', false);
-//            }
-//        });
-
-
-
-			var new_event_marker;
-			var map = new L.Map('map');
-			var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-			var osmAttrib = 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
-			var baseLayerOSM = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 15, attribution: osmAttrib});
-			// start the map in South-East England
-			map.setView(new L.LatLng(27.7, 86.2), 9);
-			map.addLayer(baseLayerOSM);
-
-		L.Control.geocoder().addTo(map);
-			map.on('click', function (e) {
-				createOrUpdateMarkerLatLng(e.latlng);
-				syncLatlngFromMarker();
-			});
-
-			function createOrUpdateMarkerLatLng(latlng){
-				if(typeof(new_event_marker)==='undefined')
-				{
-
-
-					new_event_marker = new L.marker(latlng,{ draggable: true});
-					new_event_marker.addTo(map);
-				}
-				else
-				{
-					new_event_marker.setLatLng(latlng);
-				}
-			}
-			function setMarkerLatLng(latlng){
-				createOrUpdateMarkerLatLng(latlng);
-			}
-			function getMarkerLatLng(){
-				return new_event_marker.latlng;
-			}
-
-		var $lat=$( "input[name='latitude']" );
-		var $lng=$( "input[name='longitude']" );
-
-		function syncLatlngToMarker(){
-			var latVal=$lat.val();
-			var lngVal=$lng.val();
-			if(latVal.length>0 && lngVal.length>0)
-			{
-				setMarkerLatLng([latVal , lngVal]);
-			}else{
-				alert('empty');
-			}
-		}
-		function syncLatlngFromMarker(){
-			$lat.val(new_event_marker.getLatLng().lat);
-			$lng.val(new_event_marker.getLatLng().lng);
-		}
-
-		$lat.on("change paste keyup", function() {
-			if(typeof(new_event_marker)!='undefined')
-			{
-				var lat =$lat.val();
-				var lng =new_event_marker.getLatLng().lng;
-				var latlng ={"lat":lat,"lng":lng};
-				new_event_marker.setLatLng(latlng);
-				map.panTo(new L.LatLng(lat, lng));
-			}
-
-		});
-
-		$lng.on("change paste keyup", function() {
-			if(typeof(new_event_marker)!='undefined')
-			{
-				var lng =$lng.val();
-				var lat =new_event_marker.getLatLng().lat;
-				var latlng ={"lat":lat,"lng":lng};
-				new_event_marker.setLatLng(latlng);
-				map.panTo(new L.LatLng(lat, lng));
-			}
-
-		});
-
-//
-		data = [{iconclass: 'A', lat: 59.915, lon: 10.735}
-			,{iconclass: 'exclamation', lat: 59.9, lon: 10.7}
-			,{iconclass: 'BBL', lat: 59.9, lon: 10.75}
-		];
-
-		var iconclasses = {
-			exclamation: 'font-size: 22px;',
-			A: 'font-size: 22px;'
-		};
-		/*var map = new L.Map('map', {
-			center: [data[0].lat,data[0].lon],
-			zoom: 13
-		});
-		L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
-*/
-		data.forEach(function(row){
-			var pos = new L.LatLng(row.lat,row.lon);
-			var iconclass = iconclasses[row.iconclass]?row.iconclass:'';
-			var iconstyle = iconclass?iconclasses[iconclass]:'';
-			var icontext = iconclass?'':row.iconclass;
-
-			var icon = L.divIcon({
-				className: 'map-marker '+iconclass,
-				iconSize:null,
-				html:'<div class="icon" style="'+iconstyle+'">'+icontext+'</div><div class="arrow" />'
-			});
-
-			L.marker(pos).addTo(map); //reference marker
-			L.marker(pos,{icon: icon}).addTo(map);
-
-		});
-
-
-	});
-</script>
 
 
 <div class="container">
@@ -360,6 +176,54 @@
                             </span>
 						</td>
 					</tr>
+
+                    <tr>
+                        <td style="vertical-align: top">
+                            <label for="main-organizer-block">Main organizer : </label>
+                            <!-- <input type="radio" checked="checked" id="main-organizer-radio" name="organizer-radio">&nbsp; <label for="main-organizer-radio" style="display:inline-block"><span class="text-warning"> select </span></label> -->
+                        </td>
+                        <td>
+                            <input type="hidden" name="org_identifier" id="org_identifier"/>
+                            <div id="main-organizer-block">
+                                <?php
+                                if (isset($organizer_array)) {
+                                    for ($i = 0; $i < count($organizer_array); $i++) {
+                                        if ($i != 0) {
+                                            echo '<br />';
+                                        }
+                                        echo '<input type="checkbox" class="tg" id="mainorg_' . $organizer_array[$i][0] . '" name="mainorg_' . $organizer_array[$i][0] . '" value="' . $organizer_array[$i][1] . '" /> &nbsp; ' . $organizer_array[$i][1];
+                                    }
+                                } else {
+                                    echo "<div class='message-error'><p class='text-error'> Some error occured!</p>
+                                          <p class='text-error'><a href='../Home/newevents'>Click here</a> to retry</p></div>";
+                                }
+                                ?>
+                            </div>
+                        </td>
+                        <td style="width:50px"></td>
+                        <td style="vertical-align: top">
+                            <label for="implementing-partner-block">Implementing partner : </label>
+                            <!--     <input type="radio" id="implementing-partner-radio" name="organizer-radio" />&nbsp;<label for="implementing-partner-radio" style="display:inline-block"><span class="text-warning"> select </span></label> -->
+                        </td>
+                        <td>
+                            <div id="implementing-partner-block">
+                                <?php
+                                if (isset($organizer_array)) {
+                                    for ($i = 0; $i < count($organizer_array); $i++) {
+                                        if ($i != 0) {
+                                            echo '<br />';
+                                        }
+                                        echo '<input type="checkbox" class="tg" id="implpartner_' . $organizer_array[$i][0] . '"  name="implpartner_' . $organizer_array[$i][0] . '" value="' . $organizer_array[$i][1] . '" /> &nbsp; ' . $organizer_array[$i][1];
+                                    }
+                                } else {
+                                    echo "<div class='message-error'><p class='text-error'> Some error occured!</p>
+                                          <p class='text-error'><a href='../HomeController/events'>Click here</a> to retry</p></div>";
+                                }
+                                ?>
+                            </div>
+                        </td>
+                    </tr>
+
 					<tr>
 						<td><label>Coverage level : </label></td>
 						<td>
@@ -374,7 +238,7 @@
 								?>
 							</select>
                             <span style="width:20px;display:inline-block">
-                                <img id="loading_image1" style="margin-top: -10px; padding: 5px; display: none;"
+                                <img id="loading_image" style="margin-top: -10px; padding: 5px; display: none;"
 									 src="../img/loading.gif">
                             </span>
 						</td>
@@ -386,69 +250,55 @@
 						</td>
 					</tr>
 
-					<tr>
-						<td style="vertical-align: top">
-							<label for="main-organizer-block">Main organizer : </label>
-							<!-- <input type="radio" checked="checked" id="main-organizer-radio" name="organizer-radio">&nbsp; <label for="main-organizer-radio" style="display:inline-block"><span class="text-warning"> select </span></label> -->
-						</td>
-						<td>
-							<input type="hidden" name="org_identifier" id="org_identifier"/>
-							<div id="main-organizer-block">
-								<?php
-								if (isset($organizer_array)) {
-									for ($i = 0; $i < count($organizer_array); $i++) {
-										if ($i != 0) {
-											echo '<br />';
-										}
-										echo '<input type="checkbox" class="tg" id="mainorg_' . $organizer_array[$i][0] . '" name="mainorg_' . $organizer_array[$i][0] . '" value="' . $organizer_array[$i][1] . '" /> &nbsp; ' . $organizer_array[$i][1];
-									}
-								} else {
-									echo "<div class='message-error'><p class='text-error'> Some error occured!</p>
-                                          <p class='text-error'><a href='../Home/newevents'>Click here</a> to retry</p></div>";
-								}
-								?>
-							</div>
-						</td>
-						<td style="width:50px"></td>
-						<td style="vertical-align: top">
-							<label for="implementing-partner-block">Implementing partner : </label>
-							<!--     <input type="radio" id="implementing-partner-radio" name="organizer-radio" />&nbsp;<label for="implementing-partner-radio" style="display:inline-block"><span class="text-warning"> select </span></label> -->
-						</td>
-						<td>
-							<div id="implementing-partner-block">
-								<?php
-								if (isset($organizer_array)) {
-									for ($i = 0; $i < count($organizer_array); $i++) {
-										if ($i != 0) {
-											echo '<br />';
-										}
-										echo '<input type="checkbox" class="tg" id="implpartner_' . $organizer_array[$i][0] . '"  name="implpartner_' . $organizer_array[$i][0] . '" value="' . $organizer_array[$i][1] . '" /> &nbsp; ' . $organizer_array[$i][1];
-									}
-								} else {
-									echo "<div class='message-error'><p class='text-error'> Some error occured!</p>
-                                          <p class='text-error'><a href='../HomeController/events'>Click here</a> to retry</p></div>";
-								}
-								?>
-							</div>
-						</td>
-					</tr>
+
+                    <tr>
+                        <td><label>District : </label></td>
+                        <td>
+                            <select name="district" id="district">
+                            </select>
+                            <span style="width:20px;display:inline-block">
+                                <img id="loading_image-district" style="margin-top: -10px; padding: 5px; display: none;"
+                                     src="../img/loading.gif">
+                            </span>
+                        </td>
+                        <td style="width:50px"><span class="text-info"><b>&gt;&gt;</b></span></td>
+                        <td><label>VDC/Municipality : </label></td>
+                        <td>
+                            <span class="text-error size11" id="mandatory_msg-district">*Select district first</span>
+                            <span id="select_vdc_content"></span>
+                        </td>
+                    </tr>
+
+
+                    <tr>
+                        <td><label>Ward No : </label></td>
+                        <td>
+                            <span class="text-error size11" id="mandatory_msg-vdc">*Select vdc first</span>
+                            <span id="select_ward_no_content"></span>
+                        </td>
+                        
+                    </tr>
+
+
+
+
 					<tr>
 						<td><label>Venue : </label></td>
 						<td>
 							<input type="text" name="event_venue" placeholder="Enter venue"/>
 						</td>
 						<td style="width:50px"></td>
-						<td><label>Address : </label></td>
+						<td><label>Tole/Placename : </label></td>
 						<td>
 							<input type="text" name="event_address" placeholder="Enter address"/>
 						</td>
 					</tr>
 					<tr>
 						<td><label>Latitude : </label></td>
-						<td><input type="text" name="latitude" placeholder="Enter Latitude"/></td>
+						<td><input type="number" name="latitude" placeholder="Enter Latitude"/></td>
 						<td style="width:50px"></td>
 						<td><label>Longitude : </label></td>
-						<td><input type="text" name="longitude" placeholder="Enter Longitude"/></td>
+						<td><input type="number" name="longitude" placeholder="Enter Longitude"/></td>
 					</tr>
 					<tr>
 						<td colspan="10">
@@ -479,3 +329,190 @@
 <script src="../leaflet/leaflet-src.js"></script>
 <script src="../leaflet/search/dist/leaflet-search.min.js"></script>
 <script src="../leaflet/control/geocoder/dist/Control.Geocoder.js"></script>
+
+
+<script type="text/javascript">
+    /*  $(document.body).on('click','#addnewvdc',function(){
+     $( "#dialog" ).dialog();
+     $('#location_code_text').val('');
+     $('#location_text').val('');
+     });
+     */
+    $(document.body).on('click', '#location_savebtn', function () {
+      var location = $.trim($('#location_text').val());
+      if (location == '') {
+        alert('Location field is blank');
+      } else {
+        var location_code = $('#location_code_text').val();
+        var level_id = $('#hidden_levelid_identifier').val();
+        //------------------
+        $.ajax({
+          type: "POST",
+          url: "../Home/addCoverageLocation",
+          data: {
+            coverage_location: location,
+            coverage_location_code: location_code,
+            coverage_level: level_id
+          },
+          cache: false,
+          error: function (xhr, status, error) {
+            alert('Error !\n Please try again.\n(Please check your internet connection.)');
+          },
+          success: function (msg) {
+            var success = $.trim(msg);
+            if (success == 'yes') {
+              //if added to database , load the newly added vdc into dropdown and set the value
+              $('#coverage_location').append('<option value="' + location + '">' + location + '</option>');
+              $('#coverage_location').val(location);
+
+              $('.ui-dialog').remove(); //dismiss the popup
+              // $('#dialog').html(''); // reset the form div of popup
+            }
+            else {
+              $('#dialog').html('<p class="text-error size11"><b>Sorry ! your request failed.</b></p>'); // reset the form div of popup
+            }
+          }
+        });
+      }
+      //-----------------
+    });
+
+    $(document.body).on('click', '#location_cancelbtn', function () {
+      $('.ui-dialog').remove(); //dismiss the popup
+      // $('#dialog').html(''); // reset the form div of popup
+    });
+
+
+</script>
+<!-- end script import -->
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    //either main organizer can be selected or implementing partner but not both at the same time -eg , vdc, vdc
+//        $(document.body).on('click','input[id^=mainorg_]',function(){
+//            var id =$(this).attr('id');
+//            var array = id.split("_");
+//            if($(this).is(':checked')){
+//                $('#implpartner_'+array[1]).prop('checked', false);
+//            }
+//        });
+//        $(document.body).on('click','input[id^=implpartner_]',function(){
+//            var id =$(this).attr('id');
+//            var array = id.split("_");
+//            if($(this).is(':checked')){
+//                $('#mainorg_'+array[1]).prop('checked', false);
+//            }
+//        });
+
+
+
+    var new_event_marker;
+    var map = new L.Map('map');
+    var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+    var osmAttrib = 'Map data © <a href="http://openstreetmap.org">OpenStreetMap</a> contributors';
+    var baseLayerOSM = new L.TileLayer(osmUrl, {minZoom: 8, maxZoom: 15, attribution: osmAttrib});
+    // start the map in South-East England
+    map.setView(new L.LatLng(27.7, 86.2), 9);
+    map.addLayer(baseLayerOSM);
+
+    L.Control.geocoder().addTo(map);
+    map.on('click', function (e) {
+      createOrUpdateMarkerLatLng(e.latlng);
+      syncLatlngFromMarker();
+    });
+
+    function createOrUpdateMarkerLatLng(latlng){
+      if(typeof(new_event_marker)==='undefined')
+      {
+
+
+        new_event_marker = new L.marker(latlng,{ draggable: true});
+        new_event_marker.addTo(map);
+      }
+      else
+      {
+        new_event_marker.setLatLng(latlng);
+      }
+    }
+    function setMarkerLatLng(latlng){
+      createOrUpdateMarkerLatLng(latlng);
+    }
+    function getMarkerLatLng(){
+      return new_event_marker.latlng;
+    }
+
+    var $lat=$( "input[name='latitude']" );
+    var $lng=$( "input[name='longitude']" );
+
+    function syncLatlngToMarker(){
+      var latVal=$lat.val();
+      var lngVal=$lng.val();
+      if(latVal.length>0 && lngVal.length>0)
+      {
+        setMarkerLatLng([latVal , lngVal]);
+      }else{
+        alert('empty');
+      }
+    }
+    function syncLatlngFromMarker(){
+      $lat.val(new_event_marker.getLatLng().lat);
+      $lng.val(new_event_marker.getLatLng().lng);
+    }
+
+    $lat.on("change paste keyup", function() {
+      if(typeof(new_event_marker)!='undefined')
+      {
+        var lat =$lat.val();
+        var lng =new_event_marker.getLatLng().lng;
+        var latlng ={"lat":lat,"lng":lng};
+        new_event_marker.setLatLng(latlng);
+        map.panTo(new L.LatLng(lat, lng));
+      }
+
+    });
+
+    $lng.on("change paste keyup", function() {
+      if(typeof(new_event_marker)!='undefined')
+      {
+        var lng =$lng.val();
+        var lat =new_event_marker.getLatLng().lat;
+        var latlng ={"lat":lat,"lng":lng};
+        new_event_marker.setLatLng(latlng);
+        map.panTo(new L.LatLng(lat, lng));
+      }
+
+    });
+
+//
+    data = [{iconclass: 'A', lat: 59.915, lon: 10.735}
+      ,{iconclass: 'exclamation', lat: 59.9, lon: 10.7}
+      ,{iconclass: 'BBL', lat: 59.9, lon: 10.75}
+    ];
+
+    var iconclasses = {
+      exclamation: 'font-size: 22px;',
+      A: 'font-size: 22px;'
+    };
+      /*var map = new L.Map('map', {
+       center: [data[0].lat,data[0].lon],
+       zoom: 13
+       });
+       L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+       */
+    data.forEach(function(row){
+      var pos = new L.LatLng(row.lat,row.lon);
+      var iconclass = iconclasses[row.iconclass]?row.iconclass:'';
+      var iconstyle = iconclass?iconclasses[iconclass]:'';
+      var icontext = iconclass?'':row.iconclass;
+
+      var icon = L.divIcon({
+        className: 'map-marker '+iconclass,
+        iconSize:null,
+        html:'<div class="icon" style="'+iconstyle+'">'+icontext+'</div><div class="arrow" />'
+      });
+
+      L.marker(pos).addTo(map); //reference marker
+      L.marker(pos,{icon: icon}).addTo(map);
+    });
+  });
+</script>

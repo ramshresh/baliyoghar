@@ -1,6 +1,7 @@
 <?php
 
 class Report extends CI_Controller {
+    public $perPage=10;
 
     public function __construct() {
         parent::__construct();
@@ -10,6 +11,7 @@ class Report extends CI_Controller {
         $this->load->model('coursemodel');
     }
 
+	
     public function refresh($page = '/report/peopleReport') {
         redirect($page, 'refresh');
     }
@@ -24,6 +26,45 @@ class Report extends CI_Controller {
         $this->load->View('includes/Footer');
     }
 
+	public function dashboard(){
+		$data = array();
+		$this->loadpage($data, 'report/dashboard', 'BALIYOGHAR | Reports');
+	}
+    public function beneficiaryreport(){
+        $data['coverage_level_array'] = $this->functionsmodel->getCoverageLevel();
+        $data['beneficiary_types_list'] = $this->functionsmodel->getBeneficiaryTypesList();
+
+        if ($this->input->post('clicked')) {
+            $datefrom = $this->input->post('event_start_date');
+            $dateto = $this->input->post('event_end_date');
+            $coverage = $this->input->post('coverage');
+            $location = $this->input->post('location');
+            $event_type = $this->input->post('Event');
+            $course = $this->input->post('course');
+
+            if(trim($datefrom)!=''){$data['datefrom']=$datefrom;}
+            if(trim($dateto )!=''){$data['dateto']=$dateto;}
+            if(trim($coverage)!=''){$data['coverage']=$coverage;}
+            if(trim($location)!=''){$data['location']=$location;}
+            if(trim($event_type)!=''){$data['event_type']=$event_type;}
+            if(trim($course)!=''){$data['course']=$this->coursemodel->getSubCourseName($course);}
+
+            $result = $this->ReportModel->get_report_by_beneficiary($datefrom, $dateto, $coverage, $location, $event_type, $course);
+
+            $data['beneficiaryreport'] = $result;
+
+
+        }
+        $content = "";
+        $query = $this->coursemodel->getCourseResultSet();
+        foreach ($query->result() as $row) {
+            $content .= '<option value="' . $row->course_cat_id . '"';
+            if(isset($event_type) && $row->course_cat_id==$event_type ){$content .=" selected";}
+            $content .= '>' . $row->coursename . '</option>';
+        }
+        $data['CourseContent'] = $content;
+        $this->loadpage($data, 'report/ReportByBeneficiaryType', 'Report by Beneficiary Type | BALIYOGHAR');
+    }
     public function castereport() {
 
         $data['coverage_level_array'] = $this->functionsmodel->getCoverageLevel();
@@ -62,7 +103,7 @@ class Report extends CI_Controller {
 
         $data['CourseContent'] = $content;
 
-        $this->loadpage($data, 'report/ReportByCaste', 'Report by age | BCIPN');
+        $this->loadpage($data, 'report/ReportByCaste', 'Report by Caste | BALIYOGHAR');
     }
 
     public function searchbyname() { // raj
@@ -185,8 +226,7 @@ $data['name']=$name;
     }
 
     function summaryreportresult() {
-        
- 
+
         $coverage_level_array = $this->functionsmodel->getCoverageLevel();
         $data['coverage_level_array'] = $coverage_level_array;
         
@@ -194,29 +234,191 @@ $data['name']=$name;
         $to_date = $this->input->post('event_end_date');
         $coverage = $this->input->post('coverage');
         $location = $this->input->post('location');
-        $event_type = $this->input->post('Event');
-        $course = $this->input->post('course');
+
         
+
+        // $event_type = $this->input->post('event_type');
+        $event_type = $this->input->post('Event');
+        $event = $this->input->post('Event');
+        $course = $this->input->post('course');
+
           if(trim($from_date)!=''){$data['from_date']=$from_date;}
             if(trim($to_date )!=''){$data['to_date']=$to_date;}
             if(trim($coverage)!=''){$data['coverage']=$coverage;}
             if(trim($location)!=''){$data['location']=$location;}
             if(trim($event_type)!=''){$data['event_type']=$event_type;}
+            if(trim($event)!=''){$data['event']=$event;}
             if(trim($course)!=''){$data['course']=$this->coursemodel->getSubCourseName($course);}
-            
-             $content = "";
-        $query = $this->coursemodel->getCourseResultSet();
-        foreach ($query->result() as $row) {
-           $content .= '<option value="' . $row->course_cat_id . '"';
-            if(isset($event_type) && $row->course_cat_id==$event_type ){$content .=" selected";}
-            $content .= '>' . $row->coursename . '</option>';
+
+
+     		 //////////////////////
+        $contentCoverageLevel ='<option value="">All</option>';
+        $coverage_level_array = $this->functionsmodel->getCoverageLevel();
+        foreach ($coverage_level_array as $coverage_level) {
+            $selected = ($coverage == $coverage_level[0] )? "selected":"";
+            $contentCoverageLevel .= '<option value="' . $coverage_level[0] . '" '. $selected .'>' . $coverage_level[1] . '</option>';
         }
+        $data['CoverageLevelContent'] = $contentCoverageLevel;
+
+        $coverageLocations= $this->functionsmodel->getAllCoverageLocationByCoverageLevelID($coverage);
+		$coverageLocationContent= '<option value="">All</option>';
+        foreach($coverageLocations as $coverageLocation){
+            $selected = ($location == $coverageLocation[0] )? "selected":"";
+            $coverageLocationContent .='<option value="'.$coverageLocation[0].'" '.$selected.' >'.$coverageLocation[1].'</option>';
+        }
+        $data['coverageLocationContent']=$coverageLocationContent;
+
+		 ////////////////
+         $content ='<option value="">All</option>';
+         $query = $this->coursemodel->getCourseResultSet();
+
+
+        foreach ($query->result() as $row) {
+            $selected = ($row->course_cat_id==$event)? "selected":"";
+            $content .= '<option value="' . $row->course_cat_id . '" '. $selected. '>' . $row->coursename . '</option>';
+         }
          $data['CourseContent'] = $content;    
 
+        ///
+        $subCourses = $this->functionsmodel->getCourseSubCoursesByCourseCatID($event);
+
+        $contentSubCourse= '<option value="">All</option>';
+        foreach($subCourses as $subCourse){
+            $selected = ($course == $subCourse )? "selected":"";
+            $contentSubCourse .='<option value="'.$subCourse[0].'" '.$selected.' >'.$subCourse[1].'</option>';
+        }
+        $data['ContentSubCourse']=$contentSubCourse;
+        ///
+
         $data['summary_array'] = $this->ReportModel->getSummaryReport($from_date, $to_date, $coverage, $location, $event_type, $course);
-    $data['subcat_report']= $this->ReportModel->getsubcatReport($from_date, $to_date, $coverage, $location, $event_type, $course);
+        $data['subcat_report']= $this->ReportModel->getsubcatReport($from_date, $to_date, $coverage, $location, $event_type, $course);
+
         $this->loadpage($data, 'report/SummaryReport', 'Summary report | BALIYOGHAR');
+
+
 // echo "from : ".$from_date."<br />to : ".$to_date."<br />coverage : ".$coverage."<br />location : ".$location."<br />event type : ".$event_type."<br /> course : ".$course."<br />";
+    }
+
+    public function aggregate(){
+
+        $this->load->model('reportmodel');
+        $this->load->model('coursemodel');
+        
+        /////
+        $per_page=($this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
+
+        $data = array();
+
+        $this->load->model('eventmodel');
+        $this->load->library('Ajax_pagination');
+
+      //$totalRec = count($this->eventmodel->getTotalRowsCount());
+        $reports = $this->reportmodel->get_aggregated_report();
+		$totalRec = count($reports);
+
+        //pagination configuration
+        $config['target']      = '#eventsList';
+        $config['base_url']    = base_url().'report/ajaxAggregateData';
+        $config['total_rows']  = $totalRec;
+        $config['per_page']    = $per_page;
+        $config['link_func']   = 'searchFilter';
+        $this->ajax_pagination->initialize($config);
+
+        //get the posts data
+        $data['events'] =$this->reportmodel->get_aggregated_report(
+            0,//start
+            $per_page,//limit
+            0,//deleted
+            array()//searchParams
+        );
+
+		
+		$content = "";
+        $query = $this->coursemodel->getCourseResultSet();
+        $data['courses'] =array();
+		foreach ($query->result() as $row) {
+            $content .= '<option value="' . $row->course_cat_id . '">' . $row->coursename . '</option>';
+			$data['courses'][$row->course_cat_id] = $row->coursename;
+		}
+        $data['CourseContent'] = $content;
+		
+		
+        //load the view
+        $this->loadpage($data, 'report/aggregate/main', 'Report | Aggregate');
+
+    }
+    public function ajaxAggregateData(){
+        $this->load->model('reportmodel');  $this->load->model('coursemodel');
+        $this->load->library('Ajax_pagination');
+		
+		$searchParams = array();
+		
+		$event_course_cat_id =($this->input->post('event_course_category'))? $this->input->post('event_course_category'):'';
+		$event_district =($this->input->post('district'))? $this->input->post('district'):'';
+		$event_vdc = ($this->input->post('vdc'))?$this->input->post('vdc'):'';
+		$event_ward_no = ($this->input->post('ward_no'))?$this->input->post('ward_no'):'';
+		$per_page=($this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
+
+
+        //calc offset number
+        $page = $this->input->post('page');
+        if(!$page){
+            $offset = 0;
+        }else{
+            $offset = $page;
+        }
+		
+		
+
+		$searchParams['event_course_cat_id']=$event_course_cat_id;
+		$searchParams['event_district']=$event_district;
+		$searchParams['event_vdc']=$event_vdc;
+		$searchParams['event_ward_no']=$event_ward_no;
+		
+        $totalRec = count($this->reportmodel->get_aggregated_report(
+            null,//start
+            null,//limit
+            null,//deleted
+            $searchParams//searchParams
+        ));
+
+        //pagination configuration
+        $config['target']      = '#eventsList';
+        $config['base_url']    = base_url().'report/ajaxAggregateData';
+        $config['total_rows']  = $totalRec;
+        $config['per_page']    = $per_page;
+        $config['link_func']   = 'searchFilter';
+        $this->ajax_pagination->initialize($config);
+
+        //set start and limit
+        $conditions['start'] = $offset;
+        $conditions['limit'] = $per_page;
+
+		
+		
+		
+        //get posts data
+        $events = $this->reportmodel->get_aggregated_report(
+            $offset,//start
+            $per_page,//limit
+            null,//deleted
+            $searchParams//searchParams
+        );
+
+		$data['events']=$events;
+		
+		$content = "";
+        $query = $this->coursemodel->getCourseResultSet();
+		$courses=$query->result();
+        $data['courses'] =array();
+		foreach ($query->result() as $row) {
+            $content .= '<option value="' . $row->course_cat_id . '">' . $row->coursename . '</option>';
+			$data['courses'][$row->course_cat_id] = $row->coursename;
+		}
+        $data['CourseContent'] = $content;
+	
+        //load the view
+        $this->load->view('report/aggregate/ajax', $data, false);
     }
 
 }

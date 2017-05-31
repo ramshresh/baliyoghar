@@ -3,6 +3,10 @@
 require_once('usermodel.php');
 require_once('eventmodel.php');
 require_once('workexperiencemodel.php');
+require_once('educationlevelmodel.php');
+require_once('certificationstatusmodel.php');
+require_once('worktypemodel.php');
+require_once('beneficiarytypemodel.php');
 include('nepali_calendar.php');
 
 class personmodel extends CI_Model
@@ -69,7 +73,9 @@ class personmodel extends CI_Model
 	public function savePersonData($data)
 	{
 
-		if (trim($data['dob_en']) == '' && trim($data['dob_np']) == '') {
+
+		if (trim($data['dob_en']) == '' && trim($data['dob_np']) == '' ) {
+
 
 		} else {
 			if (trim($data['dob_en']) == '') {
@@ -80,28 +86,51 @@ class personmodel extends CI_Model
 				$data['dob_np'] = $this->getNepaliDate($data['dob_en']);
 				echo '<script> alert("given english = ' . $data['dob_en'] . ' converted nepali = ' . $data['dob_np'] . '");</script>';
 			}
+
+			if (isset($data['dob_en']) && !isset($data['age'])) {
+				$data['age'] = $this->calculateAge($data['dob_en'],$data['dob_ref_en']);
+			}
 		}
+
 
 		$success = $this->db->insert('person', $data);
 		return $this->db->insert_id();
 	}
 
-	public function updateParticipatedInData($data,$event_id){
+	public function updateParticipatedInData($data, $event_id)
+	{
 		$this->db->where('event_id', $event_id);
 		$success = $this->db->update('participated_in', $data);
 		return $success;
 	}
+
+	public function updateParticipationInData_participated_in_id($data, $participated_in_id)
+	{
+		$this->db->where('participated_in_id', $participated_in_id);
+		$success = $this->db->update('participated_in', $data);
+		return $success;
+	}
+
 	public function updatePersonData($data, $person_id)
 	{
 
 
 		//if form is submitted without filling both date of birth fields
-		if (trim($data['dob_en']) == '') {
-			$data['dob_en'] = $this->getEnglishDate($data['dob_np']);
+		if (trim($data['dob_en']) == '' && trim($data['dob_np']) == '') {
+
+		} else {
+			if (trim($data['dob_en']) == '') {
+				$data['dob_en'] = $this->getEnglishDate($data['dob_np']);
+			}
+			if (trim($data['dob_np']) == '') {
+				$data['dob_np'] = $this->getNepaliDate($data['dob_en']);
+			}
+			if (trim($data['age']) == '' && trim($data['dob_np']) != ''&& trim($data['dob_en']) != '') {
+				$data['age'] = $this->calculateAge($data['dob_en'],date_create('today'));
+			}
 		}
-		if (trim($data['dob_np']) == '') {
-			$data['dob_np'] = $this->getNepaliDate($data['dob_en']);
-		}
+
+
 		$this->db->where('person_id', $person_id);
 		$success = $this->db->update('person', $data);
 		return $success;
@@ -155,6 +184,23 @@ class personmodel extends CI_Model
 		return $return;
 	}
 
+	public function calculateAge_Today($dob_en){
+		return $this->calculateAge($dob_en,date_create('today'));
+	}
+	/*
+	 * @param $dob Date of Birth in English '1970-02-01'
+	 */
+	public function calculateAge($dob_en = null, $dob_ref_en=null)
+	{
+		if(!isset($dob_ref_en)){
+			$dob_ref_en=date_create('today');
+		}
+		if (isset($dob_en)) {
+			//return date_diff(date_create($dob_en), date_create('today'))->y;
+			return date_diff(date_create($dob_en), $dob_ref_en)->y;
+		}
+	}
+
 	public function getPerson($search_string, $start, $end)
 	{
 		$query = '';
@@ -206,24 +252,40 @@ class personmodel extends CI_Model
 		return $english_date;
 	}
 
+	public function getCurrentAge($dob_en)
+	{
+		if ($dob_en != '0000-00-00') {
+			$time = abs(strtotime($dob_en) - strtotime(date("Y-m-d")));
+			$age = floor($time / (365 * 60 * 60 * 24)) == $time / (365 * 60 * 60 * 24) ? floor($time / (365 * 60 * 60 * 24)) : floor($time / (365 * 60 * 60 * 24)) + 1;
+		} else $age = null;
+
+		return $age;
+	}
+
 	public function getPersonDetail($person_id)
 	{
-		$query = $this->db->query("SELECT * FROM person where person_id=" . $person_id . "  LIMIT 1");
+
+		$selectsArr = array(
+			'*'
+		);
+		$queryStr ="SELECT "
+			.implode(',',$selectsArr)
+			." FROM person p where p.person_id=" . $person_id . "  LIMIT 1";
+
+
+		$query = $this->db->query($queryStr);
 		$personDetail_array = array();
 		//  $i = 0;
 		foreach ($query->result() as $row) {
 			//   $english_date = $this->getEnglishDate($row->dob_en);
-			$english_date = $row->dob_en;
 			// $time = abs(strtotime($row->dob) - strtotime(date("Y-m-d")));
-			if ($english_date != '0000-00-00') {
-				$time = abs(strtotime($english_date) - strtotime(date("Y-m-d")));
-				$age = floor($time / (365 * 60 * 60 * 24)) == $time / (365 * 60 * 60 * 24) ? floor($time / (365 * 60 * 60 * 24)) : floor($time / (365 * 60 * 60 * 24)) + 1;
-			} else $age = 0;
 			$personDetail_array[0] = $row->person_id;
 			$personDetail_array[1] = $row->title;
 			$personDetail_array[2] = $row->fullname;
 			$personDetail_array[3] = $row->dob_en;
-			$personDetail_array[4] = $age;
+			/*$english_date = $row->dob_en;
+			$personDetail_array[4] = $this->getCurrentAge($english_date);*/
+			$personDetail_array[4] = $row->age;
 			$personDetail_array[5] = $row->gender;
 			$personDetail_array[6] = $row->p_address;
 			$personDetail_array[7] = $row->c_address;
@@ -242,11 +304,14 @@ class personmodel extends CI_Model
 			$personDetail_array[20] = $row->created_date;
 			$personDetail_array[25] = $row->caste_ethnicity;  //yo chai pachhi thapeko bhayera last ma pugyo
 			$personDetail_array[26] = $row->citizenship_no;  //yo chai pachhi thapeko bhayera last ma pugyo
-
-			$personDetail_array[27] = $row->education;  //yo chai pachhi thapeko bhayera last ma pugyo
+			$personDetail_array[27] = $row->education_level;  //yo chai pachhi thapeko bhayera last ma pugyo
 			$personDetail_array[28] = $row->work_type_id;  //yo chai pachhi thapeko bhayera last ma pugyo
+			$personDetail_array[29] = $row->education;  //yo chai pachhi thapeko bhayera last ma pugyo
+			$personDetail_array[30] = $row->age;  //yo chai pachhi thapeko bhayera last ma pugyo
+			$personDetail_array[37] = $row->work_experience_years;  //yo chai pachhi thapeko bhayera last ma pugyo
 			// $i++;
 		}
+
 		return $personDetail_array;
 	}
 
@@ -279,7 +344,7 @@ if (file_exists($filename)) {
 			$array = array('person_id' => $id);
 			$success = $this->db->delete('person', $array);
 			if ($success == 1) {
-				if(isset($persong_detail[8])){
+				if (isset($persong_detail[8])) {
 					if (is_file(realpath(APPPATH . '../gallery/' . $persong_detail[8])))
 						unlink(realpath(APPPATH . '../gallery/' . $persong_detail[8]));
 					if (is_file(realpath(APPPATH . '../gallery/thumbs/' . $persong_detail[8])))
@@ -340,11 +405,52 @@ if (file_exists($filename)) {
 			return 0;
 	}
 
-	public function getTypeOfWorkTable($deleted = 0) {
+	public function getTypeOfWorkTable($deleted = 0)
+	{
 		// return $this->db->select('*')->from('course_category')->where(array('deleted'=>$deleted));
 		return $this->db->get_where('course_category', array('deleted' => $deleted));
 	}
 
+	public function getRelatedDropDownSelects()
+	{
+		$data = [];
+
+		//{{
+		$query = $this->certificationstatusmodel->getCertificationStatusTable();
+		$certificationStatusSelect = "";
+		foreach ($query->result() as $row) {
+			$certificationStatusSelect .= '<option value="' . $row->certification_status_id . '">' . $row->certification_status_name . '</option>';
+		}
+		$data['certificationStatusSelect'] = $certificationStatusSelect;
+		//}}
+		//{{{
+		$query = $this->beneficiarytypemodel->getBeneficiaryTypeTable();
+		$beneficiaryTypeSelect = "";
+		foreach ($query->result() as $row) {
+			$beneficiaryTypeSelect .= '<option value="' . $row->beneficiary_type_id . '">' . $row->beneficiary_name . '</option>';
+		}
+		$data['beneficiaryTypeSelect'] = $beneficiaryTypeSelect;
+		//}}}
+		//{{{
+		$query = $this->worktypemodel->getWorkTypeTable();
+		$workTypeSelect = "";
+		foreach ($query->result() as $row) {
+			$workTypeSelect .= '<option value="' . $row->work_type_id . '">' . $row->work_name . '</option>';
+		}
+		$data['WorkTypeSelect'] = $workTypeSelect;
+		//}}}
+
+		//{{{
+		$query = $this->educationlevelmodel->getEducationLevelTable();
+		$educationLevelSelect = "";
+		foreach ($query->result() as $row) {
+			$educationLevelSelect .= '<option value="' . $row->education_level_id . '">' . $row->education_level . '</option>';
+		}
+		$data['educationLevelSelect'] = $educationLevelSelect;
+		//}}}
+
+		return $data;
+	}
 }
 
 ?>

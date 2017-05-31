@@ -90,6 +90,14 @@
 										<!--<input type="text" name="person_dob" placeholder="Type here..."/>-->
 									</td>
 								</tr>
+
+								<tr>
+									<td><label>Age</label></td>
+									<td>
+										<input type="number" name="age" id="age"
+											   value="<?php echo $age; ?>" placeholder="Age"/>
+									</td>
+								</tr>
 								<!--tr>
                                     <td><label>Age*</label> </td>
                                     <td><input type="number" name="person_age" value="<?php echo $age; ?>" placeholder="Enter age"/> </td>
@@ -474,14 +482,21 @@
 										</select></td>
 								</tr>
 
-								<tr>
-									<td><label>Education</label></td>
-									<td><input type="text" name="education" value="<?php echo $education; ?>"
-											   id="education" placeholder="Education"/></td>
-								</tr>
+                                <tr>
+                                    <td><label>Education Level</label></td>
+                                    <td><select name="education_level" id="education_level">
+                                            <option value="">-- SELECT --</option>
+                                            <?php
+                                            if (isset($educationLevelSelect)) {
+                                                echo $educationLevelSelect;
+                                            }
+                                            ?>
+                                        </select>
+                                    </td>
+                                </tr>
 
 								<!--   START:    Profession/Ocupation:  work_type                          -->
-								<tr>
+								<!--<tr>
 									<td style="width:180px;height:50px"><label>Profession/Occupation : </label></td>
 									<td style="width:420px">
 										<input type="hidden" name="dropdownindex" id="dropdownindex">
@@ -490,10 +505,10 @@
 									<select name="work_type_id" id="work_type_id">
 										<option value="">-- SELECT --</option>
 										<?php
-										if (isset($WorkTypeSelect)) {
+/*										if (isset($WorkTypeSelect)) {
 											echo $WorkTypeSelect;
 										}
-										?>
+										*/?>
 									</select>
                                 </span>
                                 <input type="button" id="work_type_btn_add_new" class="btn" value="+ Add new"
@@ -518,9 +533,31 @@
 
 										</div>
 									</td>
-								</tr>
+								</tr>-->
 								<!-- 			END::  Profession:  work_type 					-->
-								
+
+
+                                <tr>
+                                    <td><label>Occupation</label></td>
+                                    <td>
+                                        <select name="work_type_id" id="work_type_id">
+                                            <option value="">-- SELECT --</option>
+                                            <?php
+                                            if (isset($WorkTypeSelect)) {
+                                                echo $WorkTypeSelect;
+                                            }
+                                            ?>
+                                        </select>
+                                    </td>
+                                </tr>
+
+                                <tr>
+									<td><label>Work Experience in Years:</label></td>
+									<td>
+										<input type="number" name="work_experience_years" id="work_experience_years"
+											   value="<?php echo $work_experience_years; ?>" placeholder="Work Experience in Years"/>
+									</td>
+								</tr>
 								<tr>
 									<td colspan="2" align="right">
 										<br/>

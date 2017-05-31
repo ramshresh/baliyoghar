@@ -116,7 +116,7 @@
 
 
         var eventsMarkerStyle = {
-            radius: 15,
+            radius: 20,
             fillColor: "#ff7800",
             color: "#000",
             weight: 1,

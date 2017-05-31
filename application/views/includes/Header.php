@@ -58,13 +58,13 @@ if (!$this->session->userdata('username')) {
         <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
 
         <!-- Files for charts  -->
-        <script type="text/javascript" src="../js/plugins/jquery.jqplot.min.js"></script>
-        <script type="text/javascript" src="../js/plugins/jqplot.barRenderer.js"></script>
-        <script type="text/javascript" src="../js/plugins/jqplot.pieRenderer.min.js"></script>
-        <script type="text/javascript" src="../js/plugins/jqplot.categoryAxisRenderer.min.js"></script>
-        <script type="text/javascript" src="../js/plugins/jqplot.pointLabels.min.js"></script>
+<!--        <script type="text/javascript" src="../js/plugins/jquery.jqplot.min.js"></script>-->
+<!--        <script type="text/javascript" src="../js/plugins/jqplot.barRenderer.js"></script>-->
+<!--        <script type="text/javascript" src="../js/plugins/jqplot.pieRenderer.min.js"></script>-->
+<!--        <script type="text/javascript" src="../js/plugins/jqplot.categoryAxisRenderer.min.js"></script>-->
+<!--        <script type="text/javascript" src="../js/plugins/jqplot.pointLabels.min.js"></script>-->
 
-        <link rel="stylesheet" type="text/css" href="../css/plugins/jquery.jqplot.min.css" />
+<!--        <link rel="stylesheet" type="text/css" href="../css/plugins/jquery.jqplot.min.css" />-->
         <link href="../css/dropdown-menu.css" media="screen" rel="stylesheet" type="text/css" />
 
         <!-- end files for charts -->

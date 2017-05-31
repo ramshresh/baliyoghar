@@ -1,9 +1,29 @@
-#<IfModule mod_rewrite.c >
-    RewriteEngine On
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^(.*)$ /projects/nset-baliyoghar/index.php/$1 [L]
-#</IfModule>
-#<IfModule !mod_rewrite.c >
-#   ErrorDocument 404 /index.php
-#</IfModule>
+RewriteEngine on
+
+# hide files and folders
+RedirectMatch 404 /_protected
+RedirectMatch 404 /\.git
+RedirectMatch 404 /composer\.
+RedirectMatch 404 /.bowerrc
+RedirectMatch 404 /\.idea
+
+RedirectMatch 404 /application
+
+RedirectMatch 404 /databasefile
+
+RedirectMatch 404 /nbproject
+
+RedirectMatch 404 /system
+RedirectMatch 404 /\.gitignore
+RedirectMatch 404 /\.htaccess
+
+# If a directory or a file exists, use the request directly
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Otherwise forward the request to index.php
+
+RewriteRule . index.php
+RewriteRule ./new ./new/baliyoghar/public/index.php

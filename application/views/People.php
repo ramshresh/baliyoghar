@@ -70,6 +70,7 @@
 				?>
 
 				<input type="hidden" name="identifier" value="insert"/>
+				<input type="hidden" name="repeat_page" value="1"/>
 				<input type="hidden" id="event_title" name="event_title" value="<?php echo $event_title; ?>"/>
 				<input type="hidden" id="event_id" name="event_id" value="<?php echo $event_id; ?>"/>
 
@@ -100,6 +101,10 @@
 								&nbsp; |
 								<span class="nicecolor"> DOB(en) : </span>
 								<input type="text" name="person_dob_en" id="person_dob_en" placeholder="DOB"
+									   style="width:70px"/>
+								&nbsp; |
+								<span class="nicecolor"> Age : </span>
+								<input type="number" name="age" id="person_age" placeholder="Age"
 									   style="width:70px"/>
 								&nbsp; |
 								<span class="nicecolor">  Mobile : </span>
@@ -514,16 +519,49 @@
 								</tr>
 
 
-
 								<tr>
-									<td><label>Education</label></td>
-									<td><input type="text" id="education" name="education"
-											   id="education" placeholder="Education"/></td>
+									<td><label>Beneficiary Type</label></td>
+									<td>
+										<select name="beneficiary_type" id="beneficiary_type">
+											<option value="">-- SELECT --</option>
+											<?php
+											if (isset($beneficiaryTypeSelect)) {
+												echo $beneficiaryTypeSelect;
+											}
+											?>
+										</select>
+									</td>
 								</tr>
 
-								<!--   START:    Profession:  work_type                          -->
 								<tr>
-									<td style="width:180px;height:50px"><label>Type of Work : </label></td>
+									<td><label>Certification Status</label></td>
+									<td><select name="certification_status" id="certification_status">
+										<option value="">-- SELECT --</option>
+										<?php
+										if (isset($certificationStatusSelect)) {
+											echo $certificationStatusSelect;
+										}
+										?>
+									</select>
+									<td>
+								</tr>
+
+								<tr>
+									<td><label>Education Level</label></td>
+									<td><select name="education_level" id="education_level">
+											<option value="">-- SELECT --</option>
+											<?php
+											if (isset($educationLevelSelect)) {
+												echo $educationLevelSelect;
+											}
+											?>
+										</select>
+									</td>
+								</tr>
+
+								<!--   START:    Profession/Ocupation:  work_type                          -->
+								<!--<tr>
+									<td style="width:180px;height:50px"><label>Profession/Occupation : </label></td>
 									<td style="width:420px">
 										<input type="hidden" name="dropdownindex" id="dropdownindex">
                             <span id="hiddenspan_existing_work_type" style="">
@@ -531,10 +569,10 @@
 									<select name="work_type_id" id="work_type_id">
 										<option value="">-- SELECT --</option>
 										<?php
-										if (isset($WorkTypeSelect)) {
+/*										if (isset($WorkTypeSelect)) {
 											echo $WorkTypeSelect;
 										}
-										?>
+										*/?>
 									</select>
                                 </span>
                                 <input type="button" id="work_type_btn_add_new" class="btn" value="+ Add new"
@@ -559,10 +597,30 @@
 
 										</div>
 									</td>
-								</tr>
+								</tr>-->
 								<!-- 			END::  Profession:  work_type 					-->
 
 
+
+								<tr>
+									<td><label>Occupation</label></td>
+									<td>
+                                        <select name="work_type_id" id="work_type_id">
+                                            <option value="">-- SELECT --</option>
+                                            <?php
+                                            if (isset($WorkTypeSelect)) {
+                                                echo $WorkTypeSelect;
+                                            }
+                                            ?>
+                                        </select>
+                                    </td>
+								</tr>
+
+								<tr>
+									<td><label>Experience(in Years)</label></td>
+									<td><input type="number" id="person_work_experience_years" name="person_work_experience_years"
+											   placeholder="Work Experience (In Years)"/></td>
+								</tr>
 
 
 								<tr>

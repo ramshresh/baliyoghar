@@ -157,7 +157,7 @@ class functionsmodel extends CI_Model {
     }
 
     function getSliderImages($visible, $all) {
-        $query;
+        $query=null;
         if ($all == 0) {
             $query = $this->db->query("SELECT * FROM slider where visible=" . $visible);
         } else {
@@ -211,7 +211,7 @@ class functionsmodel extends CI_Model {
         return $pages;
     }
 
-    public function addInstructor($personId, $eventId, $event_instructor, $person_age) {
+    public function addInstructor($personId, $eventId, $event_instructor, $person_age, $beneficiary_type=null,$certification_status=null) {
         /*
          */
         $count = 0;
@@ -225,15 +225,25 @@ class functionsmodel extends CI_Model {
             $is_instructor = $row->is_instructor;
             $count++;
         }
+		
+		
         if ($count == 0) {
             $data = array(
                 'participated_in_id' => NULL,
                 'person_id' => $personId,
                 'event_id' => $eventId,
                 'is_instructor' => $event_instructor,
-                'person_age' => $person_age
+                'person_age' => $person_age,
+				
             );
 
+			if(isset($beneficiary_type)){
+				$data['beneficiary_type']=$beneficiary_type;
+			}
+            if(isset($certification_status)){
+                $data['certification_status']=$certification_status;
+            }
+			
             $success = $this->db->insert('participated_in', $data);
             return $success;
         } else if ($count == 1) {
@@ -420,6 +430,18 @@ class functionsmodel extends CI_Model {
         return $caste_ethnicity_list;
     }
 
+    function getBeneficiaryTypesList() {
+        $query = $this->db->query("SELECT * FROM beneficiary_type where deleted=0");
+        $beneficiary_types_array = array();
+        $i = 0;
+        foreach ($query->result() as $row) {
+            $beneficiary_types_array[$row->beneficiary_type_id] = $row->beneficiary_name;
+            $i++;
+        }
+        return $beneficiary_types_array;
+    }
+
+
     function getAllCoverageLocations($coverage_level_id) {
         $query = $this->db->query("SELECT * FROM coverage_location where coverage_level='" . $coverage_level_id . "'");
         $coverage_location_array = array();
@@ -464,7 +486,7 @@ class functionsmodel extends CI_Model {
     }
 
     public function updateOrganizer($organizer_name) {
-        $this->db->where('id', $party_id);
+        //$this->db->where('id', $party_id);
         $success = $this->db->update('organizer_master', array('organizer' => $organizer_name));
         return $success;
     }
@@ -483,6 +505,16 @@ class functionsmodel extends CI_Model {
         }
     }
 
+	public function getAllCoverageLocationByCoverageLevelID($coverage_level_id){
+		$this->load->model('eventmodel');
+		return $this->eventmodel->getCoverageLocation($coverage_level_id);
+	}
+
+    public function getCourseSubCoursesByCourseCatID($course_id){
+		$this->load->model('eventmodel');
+        return $this->eventmodel->getCourseSubCourses($course_id);
+	}
+	
 }
 
 ?>

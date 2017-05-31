@@ -26,7 +26,16 @@
 
                 <hr/>
                 <h5 class="text-success size16" style="text-align: center">Event detail </h5>
-                <hr/>
+                <div class="pull-right">
+				
+				<?php if(isset($previous_event_id)):?>
+				<a href="<?=base_url()?>Event/viewEvent?id=<?=$previous_event_id?>" class="button">Previous</a>
+				<?php endif;?>
+				<?php if(isset($next_event_id)):?>
+				<a href="<?=base_url()?>Event/viewEvent?id=<?=$next_event_id?>" class="button">Next</a>
+						</div>
+						<?php endif;?>
+				<hr/>
 
                 <br/>
 
@@ -54,7 +63,22 @@
                         <th align="left" width="20%">Coverage location</th>
                         <td align="left" width="80%"><?php if (isset($location)) echo $location; ?></td>
                     </tr>
+                    
+					<tr>
+                        <th align="left" width="20%">District</th>
+                        <td align="left" width="80%"><?php if (isset($district)) echo $district; ?></td>
+                    </tr>
                     <tr>
+                        <th align="left" width="20%">VDC</th>
+                        <td align="left" width="80%"><?php if (isset($vdc)) echo $vdc; ?></td>
+                    </tr> <tr>
+                        <th align="left" width="20%">Ward No</th>
+                        <td align="left" width="80%"><?php if (isset($ward_no)) echo $ward_no; ?></td>
+                    </tr>
+                    
+					
+					
+					<tr>
                         <th align="left" width="20%">Longitude</th>
                         <td align="left" width="80%"><?php if (isset($longitude)) echo $longitude; ?></td>
                     </tr>
@@ -79,11 +103,16 @@
                         <td align="left" width="80%"><?php if (isset($venue)) echo $venue; ?></td>
                     </tr>
                     <tr>
-                        <th align="left" width="20%">Address</th>
+                        <th align="left" width="20%">Placename/Tole/Address</th>
                         <td align="left" width="80%"><?php if (isset($address)) echo $address; ?></td>
                     </tr>
                 </table>
-
+				<div class="pull-right">
+				<a href="<?=base_url()?>Event/editEvent?id=<?=$event_id?>" class="btn text-success"
+                   style="margin-top:-6px;float: right;margin-bottom:0px;margin-right:5px" id=""><img
+                        src="../img/edit.png"/>&nbsp;Edit</a>
+			
+				</div>
                 <br/>
 
 
@@ -311,8 +340,10 @@
                         <th align="left" width="15%">Email</th>
                         <th align="left" width="15%">Address</th>
                         <th width="10%" align="center">Mobile</th>
-                        <th width="7%" align="center">Type</th>
-                        <th width="8%" align="center">View</th>
+                        <th width="7%" align="center">Participated As</th>
+                        <th width="8%" align="center">Beneficiary Type</th>
+                        <th width="8%" align="center">Certification Status</th>
+                        <th width="8%" align="center">Ations</th>
                     </tr>
 
                     <?php
@@ -323,8 +354,9 @@
                                 echo "<td data-name= data-label=S.N align='left'>" . ($i + 1) . "</td>";
                                 echo "<td data-name= data-label=Name align='left'><p class='text-info'>" . $participants_array[$i][1] . "</p></td>";
                                 echo "<td data-name= data-label=Email align='left'>" . $participants_array[$i][4] . "</td>";
-                                echo "<td data-name= data-label=Address align='left'>" . $participants_array[$i][3] . "</td>";
+                                echo "<td data-name= data-label=Address align='left'>" . $participants_array[$i][3] . "</td>"; /* */
                                 echo "<td data-name= data-label=Mobile align='center'>" . $participants_array[$i][5] . "</td>";
+
                                 if ($participants_array[$i][2] == 0) {
                                     echo "<td data-name= data-label=Type align='center'>Participant</td>";
                                 } else if ($participants_array[$i][2] == 1) {
@@ -332,10 +364,14 @@
                                 } else {
                                     echo "<td data-name= data-label=Type align='center'>Asst. Instructor</td>";
                                 }
+
+                                echo "<td data-name= data-label=Mobile align='center'>" . $participants_array[$i][6] . "</td>";/* Beneficiary Type*/
+                                echo "<td data-name= data-label=Mobile align='center'>" . $participants_array[$i][7] . "</td>";/* Certification Status*/
+
                                 echo '<td data-name= data-label=View align="center">
                                 <a class= "text-success" href="../Person/viewPerson?id=' . $participants_array[$i][0] . '">view</a>
                                   &nbsp; | &nbsp;
-                                <a class= "text-error handcursor" id="editcandidate_' . $participants_array[$i][0] . '">edit</a>  
+                                <a class= "text-error handcursor" id="editparticipation_' . $participants_array[$i][0] . '">edit</a>  
                                   &nbsp; | &nbsp;
                                 <a class= "text-error handcursor" id="removecandidate_' . $participants_array[$i][0] . '">unselect</a>
                             </td>';

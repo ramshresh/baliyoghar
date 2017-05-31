@@ -8,9 +8,17 @@
  */
 class worktypemodel extends CI_Model
 {
-	public function getWorkTypeTable($deleted = 0){
-		return $this->db->get_where('work_type', array('deleted' => $deleted));
+	public function getWorkTypeTable($deleted = 0,$course_category_id=null){
+		$params =array();
+		$params['deleted']=$deleted;
+		if($course_category_id!=null){
+			$params['course_category_id']=$course_category_id;
+		}
+		return $this->db->get_where('work_type', $params);
 	}
+    public function getWorkTypeTableByCourseCategoryID($course_ctg_id){
+        return $this->db->get_where('work_type', array('deleted' => 0,'course_category_id'=>$course_ctg_id));
+    }
 
 	public function getWorkName($work_type_id,$deleted = 0){
 		$query = $this->db->get_where('work_type', array(

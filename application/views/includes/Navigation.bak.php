@@ -245,7 +245,7 @@
                                         <li class="list"><a href="#" class="icon-bar-chart">Report</a>
                                             <ul class="nav-sub">
                                                 <li><a href="../Report/peoplereport">By People</a></li>
-
+                                                <li><a href="../Report/beneficiaryreport">By Beneficiary Type</a></li>
                                                 <li><a href="../Report/coveragereport">By Coverage</a></li>
                                                 <li><a href="../Report/agereport">By age</a></li>
                                                 <li><a href="../Report/summaryreport">Summary Report</a></li>

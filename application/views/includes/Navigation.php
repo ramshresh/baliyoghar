@@ -358,7 +358,7 @@
                             <table border="0" width="100%" style="background:transparent">
                                 <tr>
                                     <td rowspan="2" style="padding-top:5px; text-align: left;width: 33%;">
-                                        <img src="../img/usaid.png"  style="float:left;background:transparent"/>
+                                        <img src="../img/usaid.png"  style="float:left;background:transparent;height: 70px;"/>
                                     </td>
                                     <td rowspan="2" style="padding-top:15px; text-align: center;width: 33%;">
                                     <span style="color: #005580;text-shadow:1px 1px 2px rgba(0,0,0,0.5);font-size: 22px;">
@@ -366,7 +366,7 @@
                                     </span>
                                     </td>
                                     <td rowspan="2" style="text-align:right;width: 33%;">
-                                        <img src="../img/nsetlogo.png")}}   style="padding-top:3px"/>
+                                        <img src="../img/nsetlogo.png")}}   style="padding-top:3px;height: 85px;"/>
                                     </td>
                                 </tr>
                                 <tr>
@@ -384,7 +384,7 @@
 </div>
 <ul id="menu">
     <li><a href="../Home/home">Home</a></li>
-    <li>
+    <!--<li>
         <a href="#">Baliyo Ghar Units</a>
         <ul>
             <li><a href="#">Teams</a></li>
@@ -393,8 +393,8 @@
             <li><a href="#">Staff Deployments</a></li>
             <li><a href="#">+Add Staff</a></li>
         </ul>
-    </li>
-    <li>
+    </li>-->
+    <!--<li>
         <a href="#">Program Area</a>
         <ul>
             <li><a href="#">Program Coverages</a></li>
@@ -402,7 +402,7 @@
             <li><a href="#">+Add VDCs</a></li>
             <li><a href="#">Team Deployments</a></li>
         </ul>
-    </li>
+    </li>-->
     <li>
         <a href="../Home/course">Activities</a>
         <ul>
@@ -412,23 +412,25 @@
         </ul>
     </li>
     <li><a href="../Home/people">People</a></li>
-    <li><a href="#">Report</a>
+    <li><a href="<?=base_url();?>Report/dashboard">Report</a>
         <ul>
-            <li><a href="../Report/peoplereport">By People</a></li>
+            <li><a href="../Report/aggregate">Event Summary</a></li>
+            <!--<li><a href="../Report/peoplereport">By People</a></li>
+            <li><a href="../Report/beneficiaryreport">By Beneficiary Type</a></li>
             <li><a href="../Report/castereport">By Caste</a></li>
             <li><a href="../Report/coveragereport">By Coverage</a></li>
             <li><a href="../Report/agereport">By Age</a></li>
-            <li><a href="../Report/summaryreport">Summary Report</a></li>
+            <li><a href="../Report/summaryreport">Summary Report</a></li>-->
         </ul>
     </li>
 
-    <li><a href="#">Map</a>
+    <!--<li><a href="#">Map</a>
         <ul>
             <li><a href="../Map/coverages">Program Area</a></li>
             <li><a href="../Map/events">Events</a></li>
         </ul>
     </li>
-
+-->
     <?php if ($this->session->userdata('role') == 'superadmin') { ?>
     <li><a href="#">Admin</a>
         <ul>
