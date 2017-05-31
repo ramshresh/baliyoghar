@@ -302,8 +302,9 @@ $data['name']=$name;
     public function aggregate(){
 
         $this->load->model('reportmodel');
+        $this->load->model('eventmodel');
         $this->load->model('coursemodel');
-        
+
         /////
         $per_page=($this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
 
@@ -341,18 +342,34 @@ $data['name']=$name;
 			$data['courses'][$row->course_cat_id] = $row->coursename;
 		}
         $data['CourseContent'] = $content;
-		
-		
+
+        $eventYearsContent = "";
+        $eventYearsResult = $this->eventmodel->getEventYears();
+        $data['eventYears'] =array();
+        if($eventYearsResult && is_array($eventYearsResult)){
+            foreach ($eventYearsResult as $eventYear) {
+                $eventYearsContent .= '<option value="' . $eventYear . '">' . $eventYear . '</option>';
+                $data['eventYears'][$eventYear] = $eventYear;
+            }
+        }
+
+        $data['eventYearsContent'] = $eventYearsContent;
+
+
         //load the view
         $this->loadpage($data, 'report/aggregate/main', 'Report | Aggregate');
 
     }
     public function ajaxAggregateData(){
-        $this->load->model('reportmodel');  $this->load->model('coursemodel');
+        $this->load->model('reportmodel');
+        $this->load->model('coursemodel');
+        $this->load->model('eventmodel');
         $this->load->library('Ajax_pagination');
 		
 		$searchParams = array();
 		
+		$event_year =($this->input->post('event_year'))? $this->input->post('event_year'):'';
+		$event_month =($this->input->post('event_month'))? $this->input->post('event_month'):'';
 		$event_course_cat_id =($this->input->post('event_course_category'))? $this->input->post('event_course_category'):'';
 		$event_district =($this->input->post('district'))? $this->input->post('district'):'';
 		$event_vdc = ($this->input->post('vdc'))?$this->input->post('vdc'):'';
@@ -370,6 +387,8 @@ $data['name']=$name;
 		
 		
 
+		$searchParams['event_year']=$event_year;
+		$searchParams['event_month']=$event_month;
 		$searchParams['event_course_cat_id']=$event_course_cat_id;
 		$searchParams['event_district']=$event_district;
 		$searchParams['event_vdc']=$event_vdc;
@@ -406,17 +425,41 @@ $data['name']=$name;
         );
 
 		$data['events']=$events;
-		
+
+
+
+
 		$content = "";
         $query = $this->coursemodel->getCourseResultSet();
-		$courses=$query->result();
         $data['courses'] =array();
 		foreach ($query->result() as $row) {
             $content .= '<option value="' . $row->course_cat_id . '">' . $row->coursename . '</option>';
 			$data['courses'][$row->course_cat_id] = $row->coursename;
 		}
         $data['CourseContent'] = $content;
-	
+
+
+		$eventYearsContent = "";
+        $eventYearsResult = $this->eventmodel->getEventYears();
+        $data['eventYears'] =array();
+        if($eventYearsResult && is_array($eventYearsResult)){
+            foreach ($eventYearsResult as $eventYear) {
+                $eventYearsContent .= '<option value="' . $eventYear . '">' . $eventYear . '</option>';
+                $data['eventYears'][$eventYear] = $eventYear;
+            }
+        }
+        $data['eventYearsContent'] = $eventYearsContent;
+
+		$data['applied_filters']=array();
+        $data['applied_filters']['event_year'] = $event_year;
+        $this->load->helper('english_dates_helper');
+        $data['applied_filters']['event_month'] = numToEngMonth($event_month);
+        $data['applied_filters']['event_course_cat_id'] = $event_course_cat_id;
+        $data['applied_filters']['event_type'] = $this->coursemodel->getCourseName($event_course_cat_id);
+        $data['applied_filters']['event_district'] = $event_district;
+        $data['applied_filters']['event_vdc'] = $event_vdc;
+        $data['applied_filters']['event_ward_no'] = $event_ward_no;
+
         //load the view
         $this->load->view('report/aggregate/ajax', $data, false);
     }

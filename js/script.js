@@ -1443,6 +1443,31 @@ $(document).ready(function () {
 //}}} [1]
 
 
+
+  //||--------Event Year  and Event Month -------||//
+  (function ($) {
+    $(document.body).on('change', '#event_year', function () {
+      var event_year = $('#event_year').val();
+
+      setEventMonthSelects(event_year);
+
+      function setEventMonthSelects(event_year){
+        if(typeof event_year !='undefined' && event_year!=''){
+          $('#mandatory_msg-event_year_month').hide();
+          $('#span_event_month').show();
+          $('#event_month').removeAttr('disabled');
+
+        }else{
+          $('#mandatory_msg-event_year_month').show();
+          $('#span_event_month').hide();
+          $('#event_month').attr('disabled','disabled');
+        }
+      }
+
+    });
+  })(window.$);
+  //||--------END: Event Year  and Event Month -------||//
+
   //||--------District Vdc Ward Number -------||//
   (function ($, adminExtents) {
     if (typeof adminExtents != 'undefined') {
@@ -1585,6 +1610,7 @@ $(document).ready(function () {
       $(document.body).on('change', '#district', function () {
         var district = $('#district').val();
         setVdcSelectList(district);
+        setWardList(district, '', '');
       });
       $(document.body).on('change', '#vdc', function () {
         var district = $('#district').val();
@@ -1594,6 +1620,9 @@ $(document).ready(function () {
       });
     }
   })(window.$, window.districtAndVdc);
+
+
+
 
 
 });

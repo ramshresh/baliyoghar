@@ -1016,7 +1016,15 @@ class eventmodel extends CI_Model
 	
 
 	
-	
+	function getEventYears($deleted=0){
+	    //SELECT DISTINCT YEAR(created) FROM table
+        $sql = "select DISTINCT(YEAR(start_date)) as event_year from events where deleted = ".$deleted;
+        $query = $this->db->query($sql);
+        $rows = $query->result_array();
+
+        return (count($rows) > 0) ? $query->result_array()[0] : FALSE;
+    }
+
 }
 
 ?>
