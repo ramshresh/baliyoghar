@@ -471,7 +471,6 @@
                     </tbody>
                 </table>
 
-
             </td>
             <td  style="width:16px; border-bottom-right-radius: 10px; border-top-right-radius: 10px; color:#fff" class="btn-info right_a"><img class="table_img_a" src="../img/arrow_rt.png"  style="margin:0;padding:0"/></td>
         </tr>
@@ -509,4 +508,6 @@
     <?php } ?>
 </div>
 
+<!--main content wrapper should be closed in Footer-->
+<!--<div class="getBg">-->
 

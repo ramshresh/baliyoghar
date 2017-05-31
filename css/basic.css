@@ -1,7 +1,7 @@
 /* page styles */
 
 .getBg{
-    background: rgba(242,242,242,0.5);/*#e7ebf2 url('../img/bg.png');*/
+    background: rgba(242,242,242,0.9);/*#e7ebf2 url('../img/bg.png');*/
 }
 table.dataListing{
         color: #666666;

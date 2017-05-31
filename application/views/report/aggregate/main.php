@@ -13,7 +13,8 @@
     <div class="row">
         <div class="row">
             <div class="col-md-8">
-                <h3>Events Participation Summary Report</h3>
+                <h3 class="uppercase nicefont nicecolor"><b class=""></b> &nbsp;
+                    Events Participation Summary Report </h3>
             </div>
         </div>
         <div class="row">
@@ -67,9 +68,9 @@
                                     <select name="event_year" id="event_year">
                                         <option value="">-- SELECT --</option>
                                         <?php
-                                            if (isset($eventYearsContent)) {
-                                             echo $eventYearsContent;
-                                            }
+                                        if (isset($eventYearsContent)) {
+                                            echo $eventYearsContent;
+                                        }
                                         ?>
                                     </select>
                                     <span style="width:20px;display:inline-block">
@@ -105,7 +106,6 @@
                                 </td>
 
                             </tr>
-
 
 
                             <!--                    District VDC Ward No-->
@@ -154,8 +154,6 @@
         </div>
     </div>
 
-</div>
-</div>
 </div>
 
 <script>

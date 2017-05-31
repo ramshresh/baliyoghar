@@ -13,7 +13,7 @@
     <div class="row">
         <div class="row">
             <div class="col-md-8">
-                <h3>List of Events</h3>
+                <h3 class="uppercase nicefont nicecolor"><b class=""></b> &nbsp;List of Events </h3>
             </div>
         </div>
         <div class="row">
@@ -155,8 +155,6 @@
         </div>
     </div>
 
-</div>
-</div>
 </div>
 
 <script>
