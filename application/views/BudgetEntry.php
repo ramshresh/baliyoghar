@@ -19,7 +19,8 @@
 if (isset($event_id)) {
     echo '<span class="nicecolor">Budget entry for </span><span class="text-info"><a href="../Event/viewEvent?id=' . $event_id . '">' . $event_title . "</a></span>";
 } else {
-    redirect('Home/event', 'refresh');
+    //redirect('Home/event', 'refresh');
+    redirect('Event/event_list_pagination', 'refresh');
 }
 ?> </h5>
 

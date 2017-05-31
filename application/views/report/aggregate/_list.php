@@ -66,7 +66,7 @@
                         Id
                     </th>
                     <th align="left" width="3%">
-                        Course Category
+                        Event Type
                     </th>
                     <th align="left" width="8%">
                         Title
@@ -131,10 +131,9 @@
 
                 <?php foreach ($events as $event) { ?>
                     <?php
-
-                    //["event_deleted","event_event_id","event_title","event_course_cat_id","event_district","event_vdc","event_ward_no","event_year","event_start_date","event_end_date","event_venue","event_address","event_latitude","event_longitude","event_code","participation_deleted","participation_person_id","participation_person_age","participation_is_instructor","participation_beneficiary_type","participation_certification_status","person_deleted","person_work_type_id","person_fullname","person_dob_en","person_gender","person_p_address","person_c_address","person_photo","person_country","person_phone","person_mobile"
-                    //,"age_below_14","age_15_19","age_20_24","age_25_29","age_30_34","age_35_above",
-                    //"Other","Daily Wages","Business","Student","Service","Housewife","Agriculture","Sub\/Asst. engineers","Contractors","Architects","Engineers","House Owner","Non House Owner","Existing Mason","New Mason"]
+                        //["event_deleted","event_event_id","event_title","event_course_cat_id","event_district","event_vdc","event_ward_no","event_year","event_start_date","event_end_date","event_venue","event_address","event_latitude","event_longitude","event_code","participation_deleted","participation_person_id","participation_person_age","participation_is_instructor","participation_beneficiary_type","participation_certification_status","person_deleted","person_work_type_id","person_fullname","person_dob_en","person_gender","person_p_address","person_c_address","person_photo","person_country","person_phone","person_mobile"
+                        //,"age_below_14","age_15_19","age_20_24","age_25_29","age_30_34","age_35_above",
+                        //"Other","Daily Wages","Business","Student","Service","Housewife","Agriculture","Sub\/Asst. engineers","Contractors","Architects","Engineers","House Owner","Non House Owner","Existing Mason","New Mason"]
                     ; ?>
                     <tr>
                         <td>

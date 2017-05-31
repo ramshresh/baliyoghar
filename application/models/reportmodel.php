@@ -805,7 +805,7 @@ events e where event_id in (" . $event_ids . ") order by course_cat_id,course_su
         $select_str = <<<SQL
 		SELECT 
 		agg.*,
-		 COUNT(*) as total_participants
+		 COUNT(participation_person_id) as total_participants
 		, SUM(CASE  WHEN person_gender = 'male'  THEN 1 ELSE 0 END) as gender_male
 		, SUM(CASE  WHEN person_gender = 'female'  THEN 1 ELSE 0 END) as gender_female
 		, SUM(CASE  WHEN person_gender  = 'other'  THEN 1 ELSE 0 END) as gender_other
@@ -840,7 +840,7 @@ events e where event_id in (" . $event_ids . ") order by course_cat_id,course_su
 		p.deleted as person_deleted, p.work_type_id as person_work_type_id, p.fullname as person_fullname, p.dob_en as person_dob_en, p.gender as person_gender, p.p_address as person_p_address, p.c_address as person_c_address, p.photo as person_photo,p.country as person_country, p.phone as person_phone, p.mobile as person_mobile 
 		FROM (SELECT YEAR(e.start_date) as event_sd_year, MONTH(e.start_date) as event_sd_month,  e.deleted as event_deleted, e.event_id as event_event_id, e.title as event_title, e.course_cat_id as event_course_cat_id, e.district as event_district, e.vdc as event_vdc,e.ward_no as event_ward_no, e.year as event_year,e.start_date as event_start_date,e.end_date as event_end_date,e.venue as event_venue,e.address as event_address, e.latitude as event_latitude,e.longitude as event_longitude, e.event_code,
 t.deleted as participation_deleted, t.person_id as participation_person_id, t.person_age as participation_person_age, t.is_instructor as participation_is_instructor,t.beneficiary_type as participation_beneficiary_type,t.certification_status as participation_certification_status
-FROM events  e JOIN participated_in t ON e.event_id = t.event_id) AS et JOIN person p ON p.person_id  = et.participation_person_id
+FROM events  e LEFT JOIN participated_in t ON e.event_id = t.event_id) AS et LEFT JOIN person p ON p.person_id  = et.participation_person_id
 ) as agg 
 SQL;
 

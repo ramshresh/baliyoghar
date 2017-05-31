@@ -345,16 +345,18 @@ $data['name']=$name;
 
         $eventYearsContent = "";
         $eventYearsResult = $this->eventmodel->getEventYears();
+
         $data['eventYears'] =array();
+
         if($eventYearsResult && is_array($eventYearsResult)){
-            foreach ($eventYearsResult as $eventYear) {
+            foreach ($eventYearsResult as $eventYearItem) {
+                $eventYear = $eventYearItem['event_year'];
                 $eventYearsContent .= '<option value="' . $eventYear . '">' . $eventYear . '</option>';
                 $data['eventYears'][$eventYear] = $eventYear;
             }
         }
 
         $data['eventYearsContent'] = $eventYearsContent;
-
 
         //load the view
         $this->loadpage($data, 'report/aggregate/main', 'Report | Aggregate');
@@ -368,24 +370,21 @@ $data['name']=$name;
 		
 		$searchParams = array();
 		
-		$event_year =($this->input->post('event_year'))? $this->input->post('event_year'):'';
-		$event_month =($this->input->post('event_month'))? $this->input->post('event_month'):'';
-		$event_course_cat_id =($this->input->post('event_course_category'))? $this->input->post('event_course_category'):'';
-		$event_district =($this->input->post('district'))? $this->input->post('district'):'';
-		$event_vdc = ($this->input->post('vdc'))?$this->input->post('vdc'):'';
-		$event_ward_no = ($this->input->post('ward_no'))?$this->input->post('ward_no'):'';
-		$per_page=($this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
-
+		$event_year =(null !== $this->input->post('event_year'))? $this->input->post('event_year'):'';
+		$event_month =(null !== $this->input->post('event_month'))? $this->input->post('event_month'):'';
+		$event_course_cat_id =(null !== $this->input->post('event_course_category'))? $this->input->post('event_course_category'):'';
+		$event_district =(null !== $this->input->post('district'))? $this->input->post('district'):'';
+		$event_vdc = (null !== $this->input->post('vdc'))?$this->input->post('vdc'):'';
+		$event_ward_no = (null !== $this->input->post('ward_no'))?$this->input->post('ward_no'):'';
+        $per_page=(null !== $this->input->post('per_page') && '' != $this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
 
         //calc offset number
         $page = $this->input->post('page');
-        if(!$page){
+        if(null ===$page || '' ==$page ){
             $offset = 0;
         }else{
             $offset = $page;
         }
-		
-		
 
 		$searchParams['event_year']=$event_year;
 		$searchParams['event_month']=$event_month;
@@ -416,7 +415,7 @@ $data['name']=$name;
 		
 		
 		
-        //get posts data
+        //get report data
         $events = $this->reportmodel->get_aggregated_report(
             $offset,//start
             $per_page,//limit
@@ -443,7 +442,8 @@ $data['name']=$name;
         $eventYearsResult = $this->eventmodel->getEventYears();
         $data['eventYears'] =array();
         if($eventYearsResult && is_array($eventYearsResult)){
-            foreach ($eventYearsResult as $eventYear) {
+            foreach ($eventYearsResult as $eventYearItem) {
+                $eventYear = $eventYearItem['event_year'];
                 $eventYearsContent .= '<option value="' . $eventYear . '">' . $eventYear . '</option>';
                 $data['eventYears'][$eventYear] = $eventYear;
             }
@@ -460,7 +460,7 @@ $data['name']=$name;
         $data['applied_filters']['event_vdc'] = $event_vdc;
         $data['applied_filters']['event_ward_no'] = $event_ward_no;
 
-        //load the view
+        //load the partial view
         $this->load->view('report/aggregate/ajax', $data, false);
     }
 

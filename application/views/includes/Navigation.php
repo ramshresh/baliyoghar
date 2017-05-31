@@ -407,14 +407,15 @@
         <a href="../Home/course">Activities</a>
         <ul>
             <li><a href="../Home/newevents">+Add Events</a></li>
-            <li><a href="../Home/event">View Events</a></li>
+<!--            <li><a href="../Home/event">View Events</a></li>-->
+            <li><a href="../Event/event_list_pagination">View Events</a></li>
             <li><a href="../Home/course">Master Event</a></li>
         </ul>
     </li>
     <li><a href="../Home/people">People</a></li>
     <li><a href="<?=base_url();?>Report/dashboard">Report</a>
         <ul>
-            <li><a href="../Report/aggregate">Event Summary</a></li>
+            <li><a href="../Report/aggregate">Event Participation Summary</a></li>
             <!--<li><a href="../Report/peoplereport">By People</a></li>
             <li><a href="../Report/beneficiaryreport">By Beneficiary Type</a></li>
             <li><a href="../Report/castereport">By Caste</a></li>
@@ -434,10 +435,10 @@
     <?php if ($this->session->userdata('role') == 'superadmin') { ?>
     <li><a href="#">Admin</a>
         <ul>
-            <li><a href="../Home/costSharing">Cost Sharing</a></li>
-            <li><a href="../Home/eventOrganizer">Organiser Entry</a></li>
-            <li><a href="../Home/newcourses">Event Entry</a></li>
-            <li><a href="../Home/newCoverage">Coverage Entry</a></li>
+<!--            <li><a href="../Home/costSharing">Cost Sharing</a></li>-->
+<!--            <li><a href="../Home/eventOrganizer">Organiser Entry</a></li>-->
+<!--            <li><a href="../Home/newcourses">Event Entry</a></li>-->
+<!--            <li><a href="../Home/newCoverage">Coverage Entry</a></li>-->
         </ul>
     </li>
     <?php } ?>
@@ -507,4 +508,5 @@
         </div>
     <?php } ?>
 </div>
+
 

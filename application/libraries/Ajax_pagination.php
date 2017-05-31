@@ -155,7 +155,7 @@ class Ajax_pagination{
         // Render the "First" link
         if  ($this->cur_page > $this->num_links){
             $output .= $this->first_tag_open
-                . $this->getAJAXlink( '' , $this->first_link)
+                . $this->getAJAXlink( 0 , $this->first_link)
                 . $this->first_tag_close;
         }
 

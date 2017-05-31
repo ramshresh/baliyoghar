@@ -13,7 +13,7 @@
     <div class="row">
         <div class="row">
             <div class="col-md-8">
-                <h3>Events Summary Report</h3>
+                <h3>Events Participation Summary Report</h3>
             </div>
         </div>
         <div class="row">
@@ -33,6 +33,33 @@
                         <table>
                             <tbody>
 
+                            <tr>
+                                <td style="width:150px"><label for="event_course_category">Event type : </label></td>
+                                <td style="width:300px">
+                                    <select name="event_course_category" id="event_course_category">
+                                        <option value="">-- SELECT --</option>
+                                        <?php
+                                        if (isset($CourseContent)) {
+                                            echo $CourseContent;
+                                        }
+                                        ?>
+                                    </select>
+                                    <span style="width:20px;display:inline-block">
+                                <img src="../img/loading.gif" style="margin-top: -10px; padding:5px;display:none"
+                                     id="loading_image"/>
+                            </span>
+                                </td>
+                                <!--                                    <td style="width:50px"><span class="text-info"><b>&gt;&gt;</b></span></td>-->
+                                <!--                                    <td style="width:150px"><label for="event_course_subcategory">Course : </label></td>-->
+                                <!--                                    <td style="width:300px">-->
+                                <!--                                    <span id="getSubCourse">-->
+                                <!--                                    <select name="event_course_subcategory" id="event_course_subcategory" disabled="disabled">-->
+                                <!--                                        <option value="">-- SELECT --</option>-->
+                                <!--                                    </select>-->
+                                <!--                                    </span>-->
+                                <!--                                    </td>-->
+
+                            </tr>
 
                             <tr>
                                 <td style="width:150px"><label for="event_year">Year : </label></td>
@@ -79,33 +106,7 @@
 
                             </tr>
 
-                            <tr>
-                                <td style="width:150px"><label for="event_course_category">Event type : </label></td>
-                                <td style="width:300px">
-                                    <select name="event_course_category" id="event_course_category">
-                                        <option value="">-- SELECT --</option>
-                                        <?php
-                                        if (isset($CourseContent)) {
-                                            echo $CourseContent;
-                                        }
-                                        ?>
-                                    </select>
-                                    <span style="width:20px;display:inline-block">
-                                <img src="../img/loading.gif" style="margin-top: -10px; padding:5px;display:none"
-                                     id="loading_image"/>
-                            </span>
-                                </td>
-<!--                                    <td style="width:50px"><span class="text-info"><b>&gt;&gt;</b></span></td>-->
-<!--                                    <td style="width:150px"><label for="event_course_subcategory">Course : </label></td>-->
-<!--                                    <td style="width:300px">-->
-<!--                                    <span id="getSubCourse">-->
-<!--                                    <select name="event_course_subcategory" id="event_course_subcategory" disabled="disabled">-->
-<!--                                        <option value="">-- SELECT --</option>-->
-<!--                                    </select>-->
-<!--                                    </span>-->
-<!--                                    </td>-->
 
-                            </tr>
 
                             <!--                    District VDC Ward No-->
                             <tr>
@@ -161,7 +162,6 @@
 
   $('#searchForm').on('submit', function (e) {
     e.preventDefault();
-
     searchFilter(0);
   });
   function searchFilter(page_num) {

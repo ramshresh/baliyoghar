@@ -98,7 +98,7 @@
 			<td style="padding:20px">
 				<h3 class="uppercase nicefont nicecolor"><b class=""></b> &nbsp;Report Activity/Event </h3>
 				<hr/>
-				<?php echo validation_errors(); ?>
+
 				<span style="color:green"><?php if (isset($insert)) echo $insert . "<br />"; ?></span>
 				<?php echo form_open('Event/createEvent', array('id' => 'event_entry_form', 'name' => 'event_entry_form')); ?>
 				<input type="hidden" name="identifier" value="insert"/>
@@ -107,14 +107,19 @@
 						<td><label for="event_title">Title : </label></td>
 						<td colspan="4">
 							<input type="text" style="width:712px" id="event_title" name="event_title"
-								   placeholder="Enter title"/>
+								   placeholder="Enter title"
+                                   value="<?php echo set_value('event_title') ?>"
+                            />
 						</td>
 					</tr>
 					<tr>
 						<td><label for="event_code">Code : </label></td>
 						<td colspan="4">
 							<input type="text" style="width:712px" id="event_code" name="event_code"
-								   placeholder="Enter Code"/>
+								   placeholder="Enter Code"
+                                   value="<?php echo set_value('event_code') ?>"
+                            />
+                            <?= form_error('event_code','<label for="event_code" generated="true" class="error">','</label>')?>
 						</td>
 					</tr>
 					<tr>
@@ -124,17 +129,22 @@
 									<td style="width:148px"><label for="event_start_date">Start date : </label></td>
 									<td style="width:220px;">
 										<input type="text" name="event_start_date" id="event_start_date"
-											   class="datepicker" placeholder="Enter start date" style="width:150px;"/>
+											   class="datepicker" placeholder="Enter start date"
+                                               value="<?php echo set_value('event_start_date') ?>"
+                                               style="width:150px;"/>
+                                        <?= form_error('event_start_date','<label for="event_code" generated="true" class="error">','</label>')?>
 									</td>
 									<td style="width:90px"><label for="event_end_date">End date : </label></td>
 									<td style="width:202px">
 										<input type="text" name="event_end_date" id="event_end_date" class="datepicker"
-											   placeholder="Enter end date" style="width:150px;"/>
+											   placeholder="Enter end date" value="<?php echo set_value('event_end_date') ?>"
+                                               style="width:150px;"/>
+                                        <?= form_error('event_end_date','<label for="event_code" generated="true" class="error">','</label>')?>
 									</td>
-									<td style="width:100px"><label for="event_year">Event year : </label></td>
-									<td>
+<!--									<td style="width:100px"><label for="event_year">Event year : </label></td>-->
+									<!--<td>
 										<select name="event_year" id="event_year" style="width:107px;">
-											<option value="2012">2012</option>
+											<option value="2012" >2012</option>
 											<option value="2013" selected>2013</option>
 											<option value="2014">2014</option>
 											<option value="2015">2015</option>
@@ -144,7 +154,7 @@
 											<option value="2019">2019</option>
 											<option value="2020">2020</option>
 										</select>
-									</td>
+									</td>-->
 								</tr>
 							</table>
 						</td>
@@ -160,6 +170,7 @@
 								}
 								?>
 							</select>
+                            <?= form_error('event_course_category','<label for="event_course_category" generated="true" class="error">','</label>')?>
                             <span style="width:20px;display:inline-block">
                                 <img src="../img/loading.gif" style="margin-top: -10px; padding:5px;display:none"
 									 id="loading_image"/>
@@ -173,6 +184,7 @@
 										disabled="disabled">
 									<option value="">-- SELECT --</option>
 								</select>
+                                <?= form_error('event_course_category','<label for="event_course_category" generated="true" class="error">','</label>')?>
                             </span>
 						</td>
 					</tr>
@@ -256,6 +268,8 @@
                         <td>
                             <select name="district" id="district">
                             </select>
+                            <?= form_error('district','<label for="district" generated="true" class="error">','</label>')?>
+
                             <span style="width:20px;display:inline-block">
                                 <img id="loading_image-district" style="margin-top: -10px; padding: 5px; display: none;"
                                      src="../img/loading.gif">
@@ -266,6 +280,8 @@
                         <td>
                             <span class="text-error size11" id="mandatory_msg-district">*Select district first</span>
                             <span id="select_vdc_content"></span>
+                            <?= form_error('vdc','<label for="vdc" generated="true" class="error">','</label>')?>
+
                         </td>
                     </tr>
 
@@ -275,30 +291,47 @@
                         <td>
                             <span class="text-error size11" id="mandatory_msg-vdc">*Select vdc first</span>
                             <span id="select_ward_no_content"></span>
+                            <?= form_error('ward_no','<label for="ward_no" generated="true" class="error">','</label>')?>
+
                         </td>
                         
                     </tr>
 
-
-
-
 					<tr>
 						<td><label>Venue : </label></td>
 						<td>
-							<input type="text" name="event_venue" placeholder="Enter venue"/>
-						</td>
+							<input type="text" name="event_venue" placeholder="Enter venue"
+                                   value="<?php echo set_value('event_venue') ?>"
+                            />
+                            <?= form_error('event_venue','<label for="event_venue" generated="true" class="error">','</label>')?>
+
+                        </td>
 						<td style="width:50px"></td>
 						<td><label>Tole/Placename : </label></td>
 						<td>
-							<input type="text" name="event_address" placeholder="Enter address"/>
-						</td>
+							<input type="text" name="event_address" placeholder="Enter address"
+                                   value="<?php echo set_value('event_address') ?>"
+                            />
+                            <?= form_error('event_address','<label for="event_address" generated="true" class="error">','</label>')?>
+
+                        </td>
 					</tr>
 					<tr>
 						<td><label>Latitude : </label></td>
-						<td><input type="number" name="latitude" placeholder="Enter Latitude"/></td>
+						<td><input type="number" name="latitude" placeholder="Enter Latitude"
+                                   value="<?php echo set_value('latitude') ?>"
+                            />
+                            <?= form_error('latitude','<label for="latitude" generated="true" class="error">','</label>')?>
+
+                        </td>
 						<td style="width:50px"></td>
 						<td><label>Longitude : </label></td>
-						<td><input type="number" name="longitude" placeholder="Enter Longitude"/></td>
+						<td><input type="number" name="longitude" placeholder="Enter Longitude"
+                                   value="<?php echo set_value('longitude') ?>"
+                            />
+                            <?= form_error('longitude','<label for="longitude" generated="true" class="error">','</label>')?>
+
+                        </td>
 					</tr>
 					<tr>
 						<td colspan="10">

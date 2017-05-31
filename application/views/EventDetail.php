@@ -369,9 +369,9 @@
                                 echo "<td data-name= data-label=Mobile align='center'>" . $participants_array[$i][7] . "</td>";/* Certification Status*/
 
                                 echo '<td data-name= data-label=View align="center">
-                                <a class= "text-success" href="../Person/viewPerson?id=' . $participants_array[$i][0] . '">view</a>
+                                <a class= "text-success" href="../Person/viewPerson?id=' . $participants_array[$i][0] . '" >view</a>
                                   &nbsp; | &nbsp;
-                                <a class= "text-error handcursor" id="editparticipation_' . $participants_array[$i][0] . '">edit</a>  
+                                <a class= "text-error handcursor" id="editparticipation_' . $participants_array[$i][0] . '" >edit</a>  
                                   &nbsp; | &nbsp;
                                 <a class= "text-error handcursor" id="removecandidate_' . $participants_array[$i][0] . '">unselect</a>
                             </td>';

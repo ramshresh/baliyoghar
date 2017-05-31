@@ -1468,6 +1468,13 @@ $(document).ready(function () {
   })(window.$);
   //||--------END: Event Year  and Event Month -------||//
 
+
+  //|| ----- Check
+  $("#checkAll").change(function () {
+    $("input:checkbox").prop('checked', $(this).prop("checked"));
+  });
+
+
   //||--------District Vdc Ward Number -------||//
   (function ($, adminExtents) {
     if (typeof adminExtents != 'undefined') {
@@ -1620,6 +1627,9 @@ $(document).ready(function () {
       });
     }
   })(window.$, window.districtAndVdc);
+
+
+
 
 
 

@@ -220,6 +220,8 @@ class Home extends CI_Controller {
         $this->loadpage($data, 'Events', 'Add new event | BALIYO GHAR');
     }
 
+
+
     /*
      * from view : header.php
      * when : 

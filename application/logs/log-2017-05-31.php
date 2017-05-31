@@ -7439,3 +7439,13803 @@ DEBUG - 2017-05-31 13:27:50 --> File loaded: application/views/report/aggregate/
 DEBUG - 2017-05-31 13:27:50 --> File loaded: application/views/report/aggregate/ajax.php
 DEBUG - 2017-05-31 13:27:50 --> Final output sent to browser
 DEBUG - 2017-05-31 13:27:50 --> Total execution time: 0.4149
+DEBUG - 2017-05-31 14:14:18 --> Config Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:14:18 --> URI Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Router Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> No URI present. Default controller set.
+DEBUG - 2017-05-31 14:14:18 --> Output Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Security Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Input Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:14:18 --> Language Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:14:18 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:14:18 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Session Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:14:18 --> Session routines successfully run
+DEBUG - 2017-05-31 14:14:18 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Config Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:14:18 --> URI Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Router Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Output Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Security Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Input Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:14:18 --> Language Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:14:18 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:14:18 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Session Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:14:18 --> Session routines successfully run
+DEBUG - 2017-05-31 14:14:18 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> Model Class Initialized
+DEBUG - 2017-05-31 14:14:18 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:14:18 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:14:19 --> File loaded: application/views/Home.php
+DEBUG - 2017-05-31 14:14:19 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:14:19 --> Final output sent to browser
+DEBUG - 2017-05-31 14:14:19 --> Total execution time: 0.4526
+DEBUG - 2017-05-31 14:14:19 --> Config Class Initialized
+DEBUG - 2017-05-31 14:14:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:14:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:14:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:14:19 --> URI Class Initialized
+DEBUG - 2017-05-31 14:14:19 --> Router Class Initialized
+ERROR - 2017-05-31 14:14:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:14:20 --> Config Class Initialized
+DEBUG - 2017-05-31 14:14:20 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:14:20 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:14:20 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:14:20 --> URI Class Initialized
+DEBUG - 2017-05-31 14:14:20 --> Router Class Initialized
+ERROR - 2017-05-31 14:14:20 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:16:03 --> Config Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:16:03 --> URI Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Router Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Output Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Security Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Input Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:16:03 --> Language Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:16:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:16:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Session Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:16:03 --> Session routines successfully run
+DEBUG - 2017-05-31 14:16:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:16:03 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:16:03 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:16:03 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:16:03 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:16:03 --> Final output sent to browser
+DEBUG - 2017-05-31 14:16:03 --> Total execution time: 0.2422
+DEBUG - 2017-05-31 14:16:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:16:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Router Class Initialized
+ERROR - 2017-05-31 14:16:04 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:16:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:16:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:16:04 --> Router Class Initialized
+ERROR - 2017-05-31 14:16:04 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:25:50 --> Config Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:25:50 --> URI Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Router Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Output Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Security Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Input Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:25:50 --> Language Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:25:50 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:25:50 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Session Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:25:50 --> Session routines successfully run
+DEBUG - 2017-05-31 14:25:50 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Model Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:25:51 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:25:51 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:25:51 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:25:51 --> Final output sent to browser
+DEBUG - 2017-05-31 14:25:51 --> Total execution time: 0.4615
+DEBUG - 2017-05-31 14:25:51 --> Config Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:25:51 --> URI Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Router Class Initialized
+ERROR - 2017-05-31 14:25:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:25:51 --> Config Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:25:51 --> URI Class Initialized
+DEBUG - 2017-05-31 14:25:51 --> Router Class Initialized
+ERROR - 2017-05-31 14:25:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:26:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:26:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Router Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Output Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Security Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Input Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:26:04 --> Language Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:26:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:26:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Session Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:26:04 --> Session routines successfully run
+DEBUG - 2017-05-31 14:26:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:26:04 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:26:04 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:26:04 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:26:04 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:26:04 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:26:04 --> Final output sent to browser
+DEBUG - 2017-05-31 14:26:04 --> Total execution time: 0.4328
+DEBUG - 2017-05-31 14:26:05 --> Config Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:26:05 --> URI Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Router Class Initialized
+ERROR - 2017-05-31 14:26:05 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:26:05 --> Config Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:26:05 --> URI Class Initialized
+DEBUG - 2017-05-31 14:26:05 --> Router Class Initialized
+ERROR - 2017-05-31 14:26:05 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:30 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:30 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Router Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Output Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Security Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Input Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:28:30 --> Language Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:28:30 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:28:30 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:28:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Session Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:28:33 --> Session routines successfully run
+DEBUG - 2017-05-31 14:28:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:33 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:28:33 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:28:33 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:28:33 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:28:33 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:28:33 --> Final output sent to browser
+DEBUG - 2017-05-31 14:28:33 --> Total execution time: 3.5002
+DEBUG - 2017-05-31 14:28:35 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:35 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:35 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:36 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:36 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:36 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:45 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:45 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> Router Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> Output Class Initialized
+DEBUG - 2017-05-31 14:28:45 --> Security Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Input Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:28:46 --> Language Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:28:46 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:28:46 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Session Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:28:46 --> Session routines successfully run
+DEBUG - 2017-05-31 14:28:46 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:46 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:28:46 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:28:46 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:28:46 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:28:46 --> Final output sent to browser
+DEBUG - 2017-05-31 14:28:46 --> Total execution time: 0.6097
+DEBUG - 2017-05-31 14:28:47 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:47 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:47 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:47 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:47 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:47 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:47 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:58 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:58 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Router Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Output Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Security Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Input Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:28:58 --> Language Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:28:58 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:28:58 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Session Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:28:58 --> Session routines successfully run
+DEBUG - 2017-05-31 14:28:58 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:28:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:28:58 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:28:58 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:28:58 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:28:58 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:28:58 --> Final output sent to browser
+DEBUG - 2017-05-31 14:28:58 --> Total execution time: 0.4138
+DEBUG - 2017-05-31 14:28:59 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:59 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:28:59 --> Config Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:28:59 --> URI Class Initialized
+DEBUG - 2017-05-31 14:28:59 --> Router Class Initialized
+ERROR - 2017-05-31 14:28:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:38:15 --> Config Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:38:15 --> URI Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Router Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Output Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Security Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Input Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:38:15 --> Language Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:38:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:38:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Session Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:38:15 --> Session routines successfully run
+DEBUG - 2017-05-31 14:38:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:15 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Config Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:38:49 --> URI Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Router Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Output Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Security Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Input Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:38:49 --> Language Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:38:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:38:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:38:50 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Session Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:38:50 --> Session routines successfully run
+DEBUG - 2017-05-31 14:38:50 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Model Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:38:50 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:38:50 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:38:50 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:38:50 --> Final output sent to browser
+DEBUG - 2017-05-31 14:38:50 --> Total execution time: 0.4335
+DEBUG - 2017-05-31 14:38:50 --> Config Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:38:50 --> URI Class Initialized
+DEBUG - 2017-05-31 14:38:50 --> Router Class Initialized
+ERROR - 2017-05-31 14:38:50 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:38:51 --> Config Class Initialized
+DEBUG - 2017-05-31 14:38:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:38:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:38:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:38:51 --> URI Class Initialized
+DEBUG - 2017-05-31 14:38:51 --> Router Class Initialized
+ERROR - 2017-05-31 14:38:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:03 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:03 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Router Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> No URI present. Default controller set.
+DEBUG - 2017-05-31 14:39:03 --> Output Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Security Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Input Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:39:03 --> Language Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:39:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:39:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Session Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:39:03 --> Session routines successfully run
+DEBUG - 2017-05-31 14:39:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:03 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Router Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Output Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Security Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Input Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:39:03 --> Language Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:39:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:39:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Session Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:39:03 --> Session routines successfully run
+DEBUG - 2017-05-31 14:39:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:39:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:39:04 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:39:04 --> File loaded: application/views/Home.php
+DEBUG - 2017-05-31 14:39:04 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:39:04 --> Final output sent to browser
+DEBUG - 2017-05-31 14:39:04 --> Total execution time: 0.3838
+DEBUG - 2017-05-31 14:39:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:04 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:04 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:04 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:06 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:06 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Router Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Output Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Security Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Input Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:39:06 --> Language Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:39:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:39:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Session Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:39:06 --> Session routines successfully run
+DEBUG - 2017-05-31 14:39:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:06 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:39:06 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:39:06 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:39:06 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:39:06 --> Final output sent to browser
+DEBUG - 2017-05-31 14:39:06 --> Total execution time: 0.3899
+DEBUG - 2017-05-31 14:39:07 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:07 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:07 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:07 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:07 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:18 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:18 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Router Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Output Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Security Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Input Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:39:18 --> Language Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:39:18 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:39:19 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:39:19 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Session Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:39:19 --> Session routines successfully run
+DEBUG - 2017-05-31 14:39:19 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:39:19 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:39:19 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:39:19 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:39:19 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:39:19 --> Final output sent to browser
+DEBUG - 2017-05-31 14:39:19 --> Total execution time: 0.4315
+DEBUG - 2017-05-31 14:39:19 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:19 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:19 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:39:20 --> Config Class Initialized
+DEBUG - 2017-05-31 14:39:20 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:39:20 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:39:20 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:39:20 --> URI Class Initialized
+DEBUG - 2017-05-31 14:39:20 --> Router Class Initialized
+ERROR - 2017-05-31 14:39:20 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:41:39 --> Config Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:41:39 --> URI Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Router Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Output Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Security Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Input Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:41:39 --> Language Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:41:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:41:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Session Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:41:39 --> Session routines successfully run
+DEBUG - 2017-05-31 14:41:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:39 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:41:40 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:41:40 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:41:40 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:41:40 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:41:40 --> Final output sent to browser
+DEBUG - 2017-05-31 14:41:40 --> Total execution time: 0.4222
+DEBUG - 2017-05-31 14:41:40 --> Config Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:41:40 --> URI Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Router Class Initialized
+ERROR - 2017-05-31 14:41:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:41:40 --> Config Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:41:40 --> URI Class Initialized
+DEBUG - 2017-05-31 14:41:40 --> Router Class Initialized
+ERROR - 2017-05-31 14:41:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:31 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:31 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Router Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Output Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Security Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Input Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:47:31 --> Language Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:47:31 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:47:31 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Session Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:47:31 --> Session routines successfully run
+DEBUG - 2017-05-31 14:47:31 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:47:31 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:47:31 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:47:31 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:47:31 --> Final output sent to browser
+DEBUG - 2017-05-31 14:47:31 --> Total execution time: 0.3937
+DEBUG - 2017-05-31 14:47:31 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:31 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:31 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:31 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:32 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:32 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:32 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:32 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:35 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:35 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Router Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Output Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Security Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Input Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:47:35 --> Language Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:47:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:47:35 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Session Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:47:35 --> Session routines successfully run
+DEBUG - 2017-05-31 14:47:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:35 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:47:35 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:47:35 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:47:35 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:47:35 --> Final output sent to browser
+DEBUG - 2017-05-31 14:47:35 --> Total execution time: 0.3772
+DEBUG - 2017-05-31 14:47:36 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:36 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:36 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:36 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:36 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:43 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:43 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Router Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Output Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Security Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Input Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:47:43 --> Language Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:47:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:47:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Session Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:47:43 --> Session routines successfully run
+DEBUG - 2017-05-31 14:47:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:47:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:47:43 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:47:43 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:47:43 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:47:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:47:44 --> Final output sent to browser
+DEBUG - 2017-05-31 14:47:44 --> Total execution time: 0.3992
+DEBUG - 2017-05-31 14:47:44 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:44 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:47:44 --> Config Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:47:44 --> URI Class Initialized
+DEBUG - 2017-05-31 14:47:44 --> Router Class Initialized
+ERROR - 2017-05-31 14:47:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:05 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:05 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Router Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Output Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Security Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Input Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:48:05 --> Language Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:48:05 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:48:05 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Session Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:48:05 --> Session routines successfully run
+DEBUG - 2017-05-31 14:48:05 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:05 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:48:05 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:48:05 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:48:05 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:48:05 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:48:06 --> Final output sent to browser
+DEBUG - 2017-05-31 14:48:06 --> Total execution time: 0.4674
+DEBUG - 2017-05-31 14:48:06 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:06 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:06 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:06 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:06 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:29 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:29 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Router Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Output Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Security Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Input Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:48:29 --> Language Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:48:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:48:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Session Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:48:29 --> Session routines successfully run
+DEBUG - 2017-05-31 14:48:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:29 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:48:29 --> Unable to find validation rule: _is_valid_date_range
+DEBUG - 2017-05-31 14:48:29 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:48:29 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:48:30 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 14:48:30 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:48:30 --> Final output sent to browser
+DEBUG - 2017-05-31 14:48:30 --> Total execution time: 0.5459
+DEBUG - 2017-05-31 14:48:30 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:30 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:30 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:32 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:32 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:32 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:32 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:32 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:32 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:32 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:45 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:45 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Router Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Output Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Security Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Input Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:48:45 --> Language Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:48:45 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:48:45 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Session Class Initialized
+DEBUG - 2017-05-31 14:48:45 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:48:45 --> Session routines successfully run
+DEBUG - 2017-05-31 14:48:46 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:48:46 --> Unable to find validation rule: _is_valid_date_range
+DEBUG - 2017-05-31 14:48:46 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:48:46 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:48:46 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:48:46 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:48:46 --> Final output sent to browser
+DEBUG - 2017-05-31 14:48:46 --> Total execution time: 0.4216
+DEBUG - 2017-05-31 14:48:46 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:46 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:46 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:48:47 --> Config Class Initialized
+DEBUG - 2017-05-31 14:48:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:48:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:48:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:48:47 --> URI Class Initialized
+DEBUG - 2017-05-31 14:48:47 --> Router Class Initialized
+ERROR - 2017-05-31 14:48:47 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:16 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:16 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Router Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Output Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Security Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Input Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:50:16 --> Language Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:50:16 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:50:16 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Session Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:50:16 --> Session routines successfully run
+DEBUG - 2017-05-31 14:50:16 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:16 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:50:16 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:50:16 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:50:16 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:50:16 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:50:16 --> Final output sent to browser
+DEBUG - 2017-05-31 14:50:16 --> Total execution time: 0.4764
+DEBUG - 2017-05-31 14:50:17 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:17 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:17 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:17 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:17 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:23 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:23 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Router Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Output Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Security Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Input Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:50:23 --> Language Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:50:23 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:50:23 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Session Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:50:23 --> Session routines successfully run
+DEBUG - 2017-05-31 14:50:23 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:23 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:50:23 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:50:23 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:50:23 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:50:23 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:50:23 --> Final output sent to browser
+DEBUG - 2017-05-31 14:50:23 --> Total execution time: 0.4100
+DEBUG - 2017-05-31 14:50:24 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:24 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:24 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:24 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:25 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:25 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:25 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:27 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:27 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Router Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Output Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Security Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Input Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:50:27 --> Language Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:50:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:50:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Session Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:50:27 --> Session routines successfully run
+DEBUG - 2017-05-31 14:50:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:27 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:50:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:50:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:50:27 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:50:27 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:50:27 --> Final output sent to browser
+DEBUG - 2017-05-31 14:50:27 --> Total execution time: 0.4515
+DEBUG - 2017-05-31 14:50:28 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:28 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:28 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:28 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:28 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:32 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:32 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Router Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Output Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Security Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Input Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:50:32 --> Language Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:50:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:50:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Session Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:50:32 --> Session routines successfully run
+DEBUG - 2017-05-31 14:50:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:32 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:50:33 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:50:33 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:50:33 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:50:33 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:50:33 --> Final output sent to browser
+DEBUG - 2017-05-31 14:50:33 --> Total execution time: 0.4770
+DEBUG - 2017-05-31 14:50:33 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:33 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:33 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:33 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:33 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:43 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:43 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Router Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Output Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Security Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Input Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:50:43 --> Language Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:50:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:50:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Session Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:50:43 --> Session routines successfully run
+DEBUG - 2017-05-31 14:50:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Model Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:50:43 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:50:43 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:50:43 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 14:50:43 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:50:43 --> Final output sent to browser
+DEBUG - 2017-05-31 14:50:43 --> Total execution time: 0.5362
+DEBUG - 2017-05-31 14:50:43 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:43 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:43 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:50:44 --> Config Class Initialized
+DEBUG - 2017-05-31 14:50:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:50:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:50:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:50:44 --> URI Class Initialized
+DEBUG - 2017-05-31 14:50:44 --> Router Class Initialized
+ERROR - 2017-05-31 14:50:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:51:02 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:02 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Router Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Output Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Security Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Input Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:51:02 --> Language Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:51:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:51:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Session Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:51:02 --> Session routines successfully run
+DEBUG - 2017-05-31 14:51:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:02 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:51:03 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:51:03 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:51:03 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:51:03 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:51:03 --> Final output sent to browser
+DEBUG - 2017-05-31 14:51:03 --> Total execution time: 0.3781
+DEBUG - 2017-05-31 14:51:03 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:03 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Router Class Initialized
+ERROR - 2017-05-31 14:51:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:51:03 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:03 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:03 --> Router Class Initialized
+ERROR - 2017-05-31 14:51:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:51:58 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:58 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Router Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Output Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Security Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Input Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:51:58 --> Language Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:51:58 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:51:58 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Session Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:51:58 --> Session routines successfully run
+DEBUG - 2017-05-31 14:51:58 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Model Class Initialized
+DEBUG - 2017-05-31 14:51:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:51:58 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:51:58 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:51:58 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:51:58 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:51:58 --> Final output sent to browser
+DEBUG - 2017-05-31 14:51:58 --> Total execution time: 0.4962
+DEBUG - 2017-05-31 14:51:59 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:59 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Router Class Initialized
+ERROR - 2017-05-31 14:51:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:51:59 --> Config Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:51:59 --> URI Class Initialized
+DEBUG - 2017-05-31 14:51:59 --> Router Class Initialized
+ERROR - 2017-05-31 14:51:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:52:24 --> Config Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:52:24 --> URI Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Router Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Output Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Security Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Input Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:52:24 --> Language Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:52:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:52:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Session Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:52:24 --> Session routines successfully run
+DEBUG - 2017-05-31 14:52:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:52:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:52:24 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:52:24 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:52:24 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 14:52:24 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:52:24 --> Final output sent to browser
+DEBUG - 2017-05-31 14:52:24 --> Total execution time: 0.5064
+DEBUG - 2017-05-31 14:52:25 --> Config Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:52:25 --> URI Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Router Class Initialized
+ERROR - 2017-05-31 14:52:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:52:25 --> Config Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:52:25 --> URI Class Initialized
+DEBUG - 2017-05-31 14:52:25 --> Router Class Initialized
+ERROR - 2017-05-31 14:52:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:53:24 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:24 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Router Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Output Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Security Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Input Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:53:24 --> Language Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:53:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:53:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Session Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:53:24 --> Session routines successfully run
+DEBUG - 2017-05-31 14:53:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:53:24 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:53:24 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:53:24 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:53:24 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:53:24 --> Final output sent to browser
+DEBUG - 2017-05-31 14:53:24 --> Total execution time: 0.4358
+DEBUG - 2017-05-31 14:53:25 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:25 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Router Class Initialized
+ERROR - 2017-05-31 14:53:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:53:25 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:25 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:25 --> Router Class Initialized
+ERROR - 2017-05-31 14:53:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:53:40 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:40 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Router Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Output Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Security Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Input Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:53:40 --> Language Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:53:40 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:53:40 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Session Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:53:40 --> Session routines successfully run
+DEBUG - 2017-05-31 14:53:40 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Model Class Initialized
+DEBUG - 2017-05-31 14:53:40 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:53:40 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:53:40 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:53:40 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 14:53:40 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:53:40 --> Final output sent to browser
+DEBUG - 2017-05-31 14:53:40 --> Total execution time: 0.4882
+DEBUG - 2017-05-31 14:53:41 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:41 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Router Class Initialized
+ERROR - 2017-05-31 14:53:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:53:41 --> Config Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:53:41 --> URI Class Initialized
+DEBUG - 2017-05-31 14:53:41 --> Router Class Initialized
+ERROR - 2017-05-31 14:53:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:54:24 --> Config Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:54:24 --> URI Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Router Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Output Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Security Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Input Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:54:24 --> Language Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:54:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:54:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Session Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:54:24 --> Session routines successfully run
+DEBUG - 2017-05-31 14:54:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:54:49 --> Config Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:54:49 --> URI Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Router Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Output Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Security Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Input Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:54:49 --> Language Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:54:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:54:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Session Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:54:49 --> Session routines successfully run
+DEBUG - 2017-05-31 14:54:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:54:49 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:55:19 --> Config Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:55:19 --> URI Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Router Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Output Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Security Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Input Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:55:19 --> Language Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:55:19 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:55:19 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Session Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:55:19 --> Session routines successfully run
+DEBUG - 2017-05-31 14:55:19 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:19 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:55:45 --> Config Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:55:45 --> URI Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Router Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Output Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Security Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Input Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:55:45 --> Language Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:55:45 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:55:45 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Session Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:55:45 --> Session routines successfully run
+DEBUG - 2017-05-31 14:55:45 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:55:45 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Model Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:55:46 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:55:46 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:55:46 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:55:46 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:55:46 --> Final output sent to browser
+DEBUG - 2017-05-31 14:55:46 --> Total execution time: 0.4187
+DEBUG - 2017-05-31 14:55:46 --> Config Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:55:46 --> URI Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Router Class Initialized
+ERROR - 2017-05-31 14:55:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:55:46 --> Config Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:55:46 --> URI Class Initialized
+DEBUG - 2017-05-31 14:55:46 --> Router Class Initialized
+ERROR - 2017-05-31 14:55:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:56:04 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:04 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Router Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Output Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Security Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Input Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:56:04 --> Language Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:56:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:56:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Session Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:56:04 --> Session routines successfully run
+DEBUG - 2017-05-31 14:56:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:04 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:56:04 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:56:04 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:56:04 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:56:04 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:56:04 --> Final output sent to browser
+DEBUG - 2017-05-31 14:56:04 --> Total execution time: 0.4470
+DEBUG - 2017-05-31 14:56:05 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:05 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Router Class Initialized
+ERROR - 2017-05-31 14:56:05 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:56:05 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:05 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:05 --> Router Class Initialized
+ERROR - 2017-05-31 14:56:05 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:56:49 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:49 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Router Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Output Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Security Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Input Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:56:49 --> Language Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:56:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:56:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Session Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:56:49 --> Session routines successfully run
+DEBUG - 2017-05-31 14:56:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Model Class Initialized
+DEBUG - 2017-05-31 14:56:49 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:56:49 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:56:49 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:56:49 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:56:49 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:56:49 --> Final output sent to browser
+DEBUG - 2017-05-31 14:56:49 --> Total execution time: 0.4522
+DEBUG - 2017-05-31 14:56:50 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:50 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Router Class Initialized
+ERROR - 2017-05-31 14:56:50 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:56:50 --> Config Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:56:50 --> URI Class Initialized
+DEBUG - 2017-05-31 14:56:50 --> Router Class Initialized
+ERROR - 2017-05-31 14:56:50 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:58:27 --> Config Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:58:27 --> URI Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Router Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Output Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Security Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Input Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:58:27 --> Language Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:58:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:58:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Session Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:58:27 --> Session routines successfully run
+DEBUG - 2017-05-31 14:58:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Model Class Initialized
+DEBUG - 2017-05-31 14:58:27 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:58:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:58:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:58:27 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:58:27 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:58:27 --> Final output sent to browser
+DEBUG - 2017-05-31 14:58:27 --> Total execution time: 0.5573
+DEBUG - 2017-05-31 14:58:28 --> Config Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:58:28 --> URI Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Router Class Initialized
+ERROR - 2017-05-31 14:58:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:58:28 --> Config Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:58:28 --> URI Class Initialized
+DEBUG - 2017-05-31 14:58:28 --> Router Class Initialized
+ERROR - 2017-05-31 14:58:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:58:59 --> Config Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:58:59 --> URI Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Router Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Output Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Security Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Input Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:58:59 --> Language Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:58:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:59:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:59:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Session Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:59:00 --> Session routines successfully run
+DEBUG - 2017-05-31 14:59:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:59:00 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:59:00 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:59:00 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:59:00 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:59:00 --> Final output sent to browser
+DEBUG - 2017-05-31 14:59:00 --> Total execution time: 0.5544
+DEBUG - 2017-05-31 14:59:00 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:00 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:00 --> Router Class Initialized
+ERROR - 2017-05-31 14:59:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:59:01 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:01 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:01 --> Router Class Initialized
+ERROR - 2017-05-31 14:59:01 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:59:06 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:06 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Router Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Output Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Security Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Input Class Initialized
+DEBUG - 2017-05-31 14:59:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:59:06 --> Language Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:59:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:59:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Session Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:59:07 --> Session routines successfully run
+DEBUG - 2017-05-31 14:59:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 14:59:07 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 14:59:07 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 14:59:07 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 14:59:07 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 14:59:07 --> Final output sent to browser
+DEBUG - 2017-05-31 14:59:07 --> Total execution time: 0.4877
+DEBUG - 2017-05-31 14:59:07 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:08 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> Router Class Initialized
+ERROR - 2017-05-31 14:59:08 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:59:08 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:08 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:08 --> Router Class Initialized
+ERROR - 2017-05-31 14:59:08 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 14:59:55 --> Config Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 14:59:55 --> URI Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Router Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Output Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Security Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Input Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 14:59:55 --> Language Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Loader Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 14:59:55 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 14:59:55 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Session Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 14:59:55 --> Session routines successfully run
+DEBUG - 2017-05-31 14:59:55 --> Controller Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> User Agent Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Model Class Initialized
+DEBUG - 2017-05-31 14:59:55 --> Final output sent to browser
+DEBUG - 2017-05-31 14:59:55 --> Total execution time: 0.3534
+DEBUG - 2017-05-31 15:01:07 --> Config Class Initialized
+DEBUG - 2017-05-31 15:01:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:01:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:01:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:01:07 --> URI Class Initialized
+DEBUG - 2017-05-31 15:01:07 --> Router Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Output Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Security Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Input Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:01:08 --> Language Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:01:08 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:01:08 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Session Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:01:08 --> Session routines successfully run
+DEBUG - 2017-05-31 15:01:08 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:08 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:09 --> Final output sent to browser
+DEBUG - 2017-05-31 15:01:09 --> Total execution time: 1.4132
+DEBUG - 2017-05-31 15:01:17 --> Config Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:01:18 --> URI Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Router Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Output Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Security Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Input Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:01:18 --> Language Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:01:18 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:01:18 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Session Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:01:18 --> Session routines successfully run
+DEBUG - 2017-05-31 15:01:18 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:18 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:01:19 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:19 --> Model Class Initialized
+DEBUG - 2017-05-31 15:01:19 --> Final output sent to browser
+DEBUG - 2017-05-31 15:01:19 --> Total execution time: 1.5572
+DEBUG - 2017-05-31 15:05:50 --> Config Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:05:50 --> URI Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Router Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Output Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Security Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Input Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:05:50 --> Language Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:05:50 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:05:50 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Session Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:05:50 --> Session routines successfully run
+DEBUG - 2017-05-31 15:05:50 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Model Class Initialized
+DEBUG - 2017-05-31 15:05:50 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 15:05:50 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:05:50 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:05:50 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:05:50 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:05:50 --> Final output sent to browser
+DEBUG - 2017-05-31 15:05:50 --> Total execution time: 0.5679
+DEBUG - 2017-05-31 15:05:51 --> Config Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:05:51 --> URI Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Router Class Initialized
+ERROR - 2017-05-31 15:05:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:05:51 --> Config Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:05:51 --> URI Class Initialized
+DEBUG - 2017-05-31 15:05:51 --> Router Class Initialized
+ERROR - 2017-05-31 15:05:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:06:52 --> Config Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:06:52 --> URI Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Router Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Output Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Security Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Input Class Initialized
+DEBUG - 2017-05-31 15:06:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:06:52 --> Language Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:06:53 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:06:53 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Session Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:06:53 --> Session routines successfully run
+DEBUG - 2017-05-31 15:06:53 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Model Class Initialized
+DEBUG - 2017-05-31 15:06:53 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 15:06:53 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:06:53 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:06:53 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:06:53 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:06:53 --> Final output sent to browser
+DEBUG - 2017-05-31 15:06:53 --> Total execution time: 0.8135
+DEBUG - 2017-05-31 15:06:54 --> Config Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:06:54 --> URI Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Router Class Initialized
+ERROR - 2017-05-31 15:06:54 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:06:54 --> Config Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:06:54 --> URI Class Initialized
+DEBUG - 2017-05-31 15:06:54 --> Router Class Initialized
+ERROR - 2017-05-31 15:06:54 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:13:22 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:23 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Router Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Output Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Security Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Input Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:13:23 --> Language Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:13:23 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:13:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:13:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Session Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:13:24 --> Session routines successfully run
+DEBUG - 2017-05-31 15:13:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:13:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:13:25 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:13:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:13:25 --> Final output sent to browser
+DEBUG - 2017-05-31 15:13:25 --> Total execution time: 2.8672
+DEBUG - 2017-05-31 15:13:26 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:26 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Router Class Initialized
+ERROR - 2017-05-31 15:13:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:13:26 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:26 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:26 --> Router Class Initialized
+ERROR - 2017-05-31 15:13:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:13:42 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:43 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Router Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Output Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Security Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Input Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:13:43 --> Language Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:13:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:13:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:13:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Session Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:13:44 --> Session routines successfully run
+DEBUG - 2017-05-31 15:13:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:44 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Model Class Initialized
+DEBUG - 2017-05-31 15:13:45 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 15:13:45 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:13:45 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:13:45 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:13:45 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:13:45 --> Final output sent to browser
+DEBUG - 2017-05-31 15:13:45 --> Total execution time: 2.3854
+DEBUG - 2017-05-31 15:13:46 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:46 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Router Class Initialized
+ERROR - 2017-05-31 15:13:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:13:46 --> Config Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:13:46 --> URI Class Initialized
+DEBUG - 2017-05-31 15:13:46 --> Router Class Initialized
+ERROR - 2017-05-31 15:13:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:15:24 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:24 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Router Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Output Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Security Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Input Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:15:24 --> Language Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:15:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:15:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Session Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:15:24 --> Session routines successfully run
+DEBUG - 2017-05-31 15:15:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:24 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 15:15:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:15:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:15:25 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:15:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:15:25 --> Final output sent to browser
+DEBUG - 2017-05-31 15:15:25 --> Total execution time: 1.0534
+DEBUG - 2017-05-31 15:15:26 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:26 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Router Class Initialized
+ERROR - 2017-05-31 15:15:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:15:26 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:26 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:26 --> Router Class Initialized
+ERROR - 2017-05-31 15:15:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:15:46 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:46 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Router Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Output Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Security Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Input Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:15:46 --> Language Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:15:46 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:15:46 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Session Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:15:46 --> Session routines successfully run
+DEBUG - 2017-05-31 15:15:46 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> User Agent Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Model Class Initialized
+DEBUG - 2017-05-31 15:15:46 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 15:15:47 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:15:47 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:15:47 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 15:15:47 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:15:47 --> Final output sent to browser
+DEBUG - 2017-05-31 15:15:47 --> Total execution time: 0.6888
+DEBUG - 2017-05-31 15:15:47 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:47 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> Router Class Initialized
+ERROR - 2017-05-31 15:15:47 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:15:47 --> Config Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:15:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:15:48 --> URI Class Initialized
+DEBUG - 2017-05-31 15:15:48 --> Router Class Initialized
+ERROR - 2017-05-31 15:15:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:17:04 --> Config Class Initialized
+DEBUG - 2017-05-31 15:17:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:17:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:17:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:17:04 --> URI Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Router Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Output Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Security Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Input Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:17:05 --> Language Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:17:05 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:17:05 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Session Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:17:05 --> Session routines successfully run
+DEBUG - 2017-05-31 15:17:05 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> Model Class Initialized
+DEBUG - 2017-05-31 15:17:05 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:17:05 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:17:05 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 15:17:05 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 15:17:05 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:17:05 --> Final output sent to browser
+DEBUG - 2017-05-31 15:17:05 --> Total execution time: 0.8886
+DEBUG - 2017-05-31 15:17:06 --> Config Class Initialized
+DEBUG - 2017-05-31 15:17:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:17:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:17:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:17:06 --> URI Class Initialized
+DEBUG - 2017-05-31 15:17:06 --> Router Class Initialized
+ERROR - 2017-05-31 15:17:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:17:07 --> Config Class Initialized
+DEBUG - 2017-05-31 15:17:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:17:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:17:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:17:07 --> URI Class Initialized
+DEBUG - 2017-05-31 15:17:07 --> Router Class Initialized
+ERROR - 2017-05-31 15:17:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:33:34 --> Config Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:33:34 --> URI Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Router Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Output Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Security Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Input Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:33:34 --> Language Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:33:34 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:33:34 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Session Class Initialized
+DEBUG - 2017-05-31 15:33:34 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:33:35 --> Session routines successfully run
+DEBUG - 2017-05-31 15:33:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Model Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:33:35 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:33:35 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 15:33:35 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:33:35 --> Final output sent to browser
+DEBUG - 2017-05-31 15:33:35 --> Total execution time: 1.1102
+DEBUG - 2017-05-31 15:33:35 --> Config Class Initialized
+DEBUG - 2017-05-31 15:33:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:33:36 --> URI Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> Router Class Initialized
+ERROR - 2017-05-31 15:33:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:33:36 --> Config Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:33:36 --> URI Class Initialized
+DEBUG - 2017-05-31 15:33:36 --> Router Class Initialized
+ERROR - 2017-05-31 15:33:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:35:31 --> Config Class Initialized
+DEBUG - 2017-05-31 15:35:31 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:35:31 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:35:32 --> URI Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> Router Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> Output Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> Security Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> Input Class Initialized
+DEBUG - 2017-05-31 15:35:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 15:35:33 --> Language Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 15:35:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 15:35:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Session Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 15:35:33 --> Session routines successfully run
+DEBUG - 2017-05-31 15:35:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> Model Class Initialized
+DEBUG - 2017-05-31 15:35:33 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 15:35:33 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 15:35:33 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 15:35:33 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 15:35:33 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 15:35:33 --> Final output sent to browser
+DEBUG - 2017-05-31 15:35:33 --> Total execution time: 2.4417
+DEBUG - 2017-05-31 15:35:34 --> Config Class Initialized
+DEBUG - 2017-05-31 15:35:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:35:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:35:35 --> URI Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> Router Class Initialized
+ERROR - 2017-05-31 15:35:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 15:35:35 --> Config Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 15:35:35 --> URI Class Initialized
+DEBUG - 2017-05-31 15:35:35 --> Router Class Initialized
+ERROR - 2017-05-31 15:35:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:34:43 --> Config Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:34:43 --> URI Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Router Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Output Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Security Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Input Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:34:43 --> Language Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:34:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:34:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:34:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Session Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:34:44 --> Session routines successfully run
+DEBUG - 2017-05-31 16:34:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:34:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:34:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:34:45 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:34:45 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:34:45 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:34:45 --> Final output sent to browser
+DEBUG - 2017-05-31 16:34:45 --> Total execution time: 1.8332
+DEBUG - 2017-05-31 16:34:45 --> Config Class Initialized
+DEBUG - 2017-05-31 16:34:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:34:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:34:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:34:45 --> URI Class Initialized
+DEBUG - 2017-05-31 16:34:45 --> Router Class Initialized
+ERROR - 2017-05-31 16:34:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:34:46 --> Config Class Initialized
+DEBUG - 2017-05-31 16:34:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:34:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:34:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:34:46 --> URI Class Initialized
+DEBUG - 2017-05-31 16:34:46 --> Router Class Initialized
+ERROR - 2017-05-31 16:34:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:36:32 --> Config Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:36:32 --> URI Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Router Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Output Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Security Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Input Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:36:32 --> Language Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:36:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:36:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Session Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:36:32 --> Session routines successfully run
+DEBUG - 2017-05-31 16:36:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:32 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:36:32 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:36:32 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:36:32 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:36:32 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:36:32 --> Final output sent to browser
+DEBUG - 2017-05-31 16:36:32 --> Total execution time: 0.4384
+DEBUG - 2017-05-31 16:36:33 --> Config Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:36:33 --> URI Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Router Class Initialized
+ERROR - 2017-05-31 16:36:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:36:33 --> Config Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:36:33 --> URI Class Initialized
+DEBUG - 2017-05-31 16:36:33 --> Router Class Initialized
+ERROR - 2017-05-31 16:36:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:36:38 --> Config Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:36:38 --> URI Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Router Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Output Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Security Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Input Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:36:38 --> Language Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:36:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:36:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Session Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:36:38 --> Session routines successfully run
+DEBUG - 2017-05-31 16:36:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:36:39 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 16:36:39 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:36:39 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 16:36:39 --> Final output sent to browser
+DEBUG - 2017-05-31 16:36:39 --> Total execution time: 0.5367
+DEBUG - 2017-05-31 16:37:14 --> Config Class Initialized
+DEBUG - 2017-05-31 16:37:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:37:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:37:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:37:15 --> URI Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Router Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Output Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Security Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Input Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:37:15 --> Language Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:37:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:37:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Session Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:37:15 --> Session routines successfully run
+DEBUG - 2017-05-31 16:37:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:15 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Config Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:37:17 --> URI Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Router Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Output Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Security Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Input Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:37:17 --> Language Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:37:17 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:37:17 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Session Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:37:17 --> Session routines successfully run
+DEBUG - 2017-05-31 16:37:17 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:17 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:37:18 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:01 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:01 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:38 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:38 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:38:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:38:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Session Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:38:38 --> Session routines successfully run
+DEBUG - 2017-05-31 16:38:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:38 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:38:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:38:39 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:38:39 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:38:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:38:39 --> Final output sent to browser
+DEBUG - 2017-05-31 16:38:39 --> Total execution time: 0.5440
+DEBUG - 2017-05-31 16:38:39 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:39 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Router Class Initialized
+ERROR - 2017-05-31 16:38:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:38:39 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:39 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:39 --> Router Class Initialized
+ERROR - 2017-05-31 16:38:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:38:40 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:40 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:40 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:38:40 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:38:41 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:38:41 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Session Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:38:41 --> Session routines successfully run
+DEBUG - 2017-05-31 16:38:41 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:41 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:44 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:44 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:38:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:38:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Session Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:38:44 --> Session routines successfully run
+DEBUG - 2017-05-31 16:38:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:44 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:55 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:55 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:38:55 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:38:55 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Session Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:38:55 --> Session routines successfully run
+DEBUG - 2017-05-31 16:38:55 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> Model Class Initialized
+DEBUG - 2017-05-31 16:38:55 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:38:55 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:38:55 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:38:55 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:38:55 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:38:55 --> Final output sent to browser
+DEBUG - 2017-05-31 16:38:55 --> Total execution time: 0.6776
+DEBUG - 2017-05-31 16:38:56 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:56 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Router Class Initialized
+ERROR - 2017-05-31 16:38:56 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:38:56 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:56 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:56 --> Router Class Initialized
+ERROR - 2017-05-31 16:38:56 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:38:59 --> Config Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:38:59 --> URI Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Router Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Output Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Security Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Input Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:38:59 --> Language Class Initialized
+DEBUG - 2017-05-31 16:38:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:39:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:39:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Session Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:39:00 --> Session routines successfully run
+DEBUG - 2017-05-31 16:39:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:00 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 16:39:00 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:39:00 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 16:39:00 --> Final output sent to browser
+DEBUG - 2017-05-31 16:39:00 --> Total execution time: 0.9305
+DEBUG - 2017-05-31 16:39:45 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:45 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Router Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Output Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Security Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Input Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:39:45 --> Language Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:39:45 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:39:45 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Session Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:39:45 --> Session garbage collection performed.
+DEBUG - 2017-05-31 16:39:45 --> Session routines successfully run
+DEBUG - 2017-05-31 16:39:45 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:45 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 16:39:45 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:39:45 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 16:39:45 --> Final output sent to browser
+DEBUG - 2017-05-31 16:39:45 --> Total execution time: 0.4829
+DEBUG - 2017-05-31 16:39:49 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:49 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Router Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Output Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Security Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Input Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:39:49 --> Language Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:39:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:39:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Session Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:39:49 --> Session routines successfully run
+DEBUG - 2017-05-31 16:39:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:49 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 16:39:50 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:39:50 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 16:39:50 --> Final output sent to browser
+DEBUG - 2017-05-31 16:39:50 --> Total execution time: 0.5176
+DEBUG - 2017-05-31 16:39:53 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:53 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> Router Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> Output Class Initialized
+DEBUG - 2017-05-31 16:39:53 --> Security Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Input Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:39:54 --> Language Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:39:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:39:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Session Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:39:54 --> Session routines successfully run
+DEBUG - 2017-05-31 16:39:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:54 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 16:39:54 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:39:54 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 16:39:54 --> Final output sent to browser
+DEBUG - 2017-05-31 16:39:54 --> Total execution time: 0.3892
+DEBUG - 2017-05-31 16:39:57 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:57 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Router Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Output Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Security Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Input Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:39:57 --> Language Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:39:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:39:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Session Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:39:57 --> Session routines successfully run
+DEBUG - 2017-05-31 16:39:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> User Agent Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> Model Class Initialized
+DEBUG - 2017-05-31 16:39:57 --> XSS Filtering completed
+DEBUG - 2017-05-31 16:39:57 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:39:57 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:39:58 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 16:39:58 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:39:58 --> Final output sent to browser
+DEBUG - 2017-05-31 16:39:58 --> Total execution time: 0.5833
+DEBUG - 2017-05-31 16:39:58 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:58 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> Router Class Initialized
+ERROR - 2017-05-31 16:39:58 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:39:58 --> Config Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:39:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:39:59 --> URI Class Initialized
+DEBUG - 2017-05-31 16:39:59 --> Router Class Initialized
+ERROR - 2017-05-31 16:39:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:40:12 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:12 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Router Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Output Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Security Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Input Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:40:12 --> Language Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:40:12 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:40:12 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Session Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:40:12 --> Session routines successfully run
+DEBUG - 2017-05-31 16:40:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:12 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:40:13 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:40:13 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:40:13 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:40:13 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:40:13 --> Final output sent to browser
+DEBUG - 2017-05-31 16:40:13 --> Total execution time: 0.4528
+DEBUG - 2017-05-31 16:40:13 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:13 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Router Class Initialized
+ERROR - 2017-05-31 16:40:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:40:13 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:13 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:13 --> Router Class Initialized
+ERROR - 2017-05-31 16:40:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:40:24 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:24 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Router Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Output Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Security Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Input Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:40:24 --> Language Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:40:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:40:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Session Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:40:24 --> Session routines successfully run
+DEBUG - 2017-05-31 16:40:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:24 --> Model Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:40:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:40:25 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:40:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:40:25 --> Final output sent to browser
+DEBUG - 2017-05-31 16:40:25 --> Total execution time: 0.4977
+DEBUG - 2017-05-31 16:40:25 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:25 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Router Class Initialized
+ERROR - 2017-05-31 16:40:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:40:25 --> Config Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:40:25 --> URI Class Initialized
+DEBUG - 2017-05-31 16:40:25 --> Router Class Initialized
+ERROR - 2017-05-31 16:40:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:21 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:21 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Router Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Output Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Security Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Input Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:42:21 --> Language Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:42:21 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:42:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:42:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Session Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:42:22 --> Session routines successfully run
+DEBUG - 2017-05-31 16:42:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:22 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:42:22 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:42:22 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:42:22 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:42:22 --> Final output sent to browser
+DEBUG - 2017-05-31 16:42:22 --> Total execution time: 0.6011
+DEBUG - 2017-05-31 16:42:23 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:23 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:23 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:23 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:23 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:24 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:29 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:29 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Router Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Output Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Security Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Input Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:42:29 --> Language Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:42:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:42:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Session Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:42:29 --> Session routines successfully run
+DEBUG - 2017-05-31 16:42:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:29 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:42:29 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:42:29 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:42:29 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:42:29 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:42:29 --> Final output sent to browser
+DEBUG - 2017-05-31 16:42:29 --> Total execution time: 0.4747
+DEBUG - 2017-05-31 16:42:30 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:30 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:30 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:30 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:30 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:40 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:40 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Router Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Output Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Security Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Input Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:42:40 --> Language Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:42:40 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:42:40 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Session Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:42:40 --> Session garbage collection performed.
+DEBUG - 2017-05-31 16:42:40 --> Session routines successfully run
+DEBUG - 2017-05-31 16:42:40 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> User Agent Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:40 --> XSS Filtering completed
+DEBUG - 2017-05-31 16:42:41 --> XSS Filtering completed
+DEBUG - 2017-05-31 16:42:41 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:42:41 --> File loaded: application/views/includes/Navigation.php
+ERROR - 2017-05-31 16:42:41 --> Severity: Notice  --> Undefined variable: total_pages C:\xampp\htdocs\baliyoghar\application\views\EventManagement.php 99
+DEBUG - 2017-05-31 16:42:41 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:42:41 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:42:41 --> Final output sent to browser
+DEBUG - 2017-05-31 16:42:41 --> Total execution time: 0.6608
+DEBUG - 2017-05-31 16:42:42 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:42 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:42 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:42 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:42 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:42 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:42 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:53 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:53 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Router Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Output Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Security Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Input Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:42:53 --> Language Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:42:53 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:42:53 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Session Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:42:53 --> Session routines successfully run
+DEBUG - 2017-05-31 16:42:53 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> Model Class Initialized
+DEBUG - 2017-05-31 16:42:53 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:42:53 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:42:54 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:42:54 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:42:54 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:42:54 --> Final output sent to browser
+DEBUG - 2017-05-31 16:42:54 --> Total execution time: 0.4614
+DEBUG - 2017-05-31 16:42:54 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:55 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:42:55 --> Config Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:42:55 --> URI Class Initialized
+DEBUG - 2017-05-31 16:42:55 --> Router Class Initialized
+ERROR - 2017-05-31 16:42:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:43:05 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:05 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Router Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Output Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Security Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Input Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:43:05 --> Language Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:43:05 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:43:05 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Session Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:43:05 --> Session routines successfully run
+DEBUG - 2017-05-31 16:43:05 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> User Agent Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:05 --> XSS Filtering completed
+DEBUG - 2017-05-31 16:43:05 --> XSS Filtering completed
+DEBUG - 2017-05-31 16:43:05 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:43:05 --> File loaded: application/views/includes/Navigation.php
+ERROR - 2017-05-31 16:43:05 --> Severity: Notice  --> Undefined variable: total_pages C:\xampp\htdocs\baliyoghar\application\views\EventManagement.php 99
+DEBUG - 2017-05-31 16:43:05 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:43:05 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:43:05 --> Final output sent to browser
+DEBUG - 2017-05-31 16:43:05 --> Total execution time: 0.7177
+DEBUG - 2017-05-31 16:43:06 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:06 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:06 --> Router Class Initialized
+ERROR - 2017-05-31 16:43:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:43:07 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:07 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:07 --> Router Class Initialized
+ERROR - 2017-05-31 16:43:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:43:39 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:39 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Router Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Output Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Security Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Input Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:43:39 --> Language Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:43:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:43:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Session Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:43:39 --> Session routines successfully run
+DEBUG - 2017-05-31 16:43:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:39 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> Model Class Initialized
+DEBUG - 2017-05-31 16:43:40 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:43:40 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:43:40 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:43:40 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:43:40 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:43:40 --> Final output sent to browser
+DEBUG - 2017-05-31 16:43:40 --> Total execution time: 0.4957
+DEBUG - 2017-05-31 16:43:41 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:41 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Router Class Initialized
+ERROR - 2017-05-31 16:43:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:43:41 --> Config Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:43:41 --> URI Class Initialized
+DEBUG - 2017-05-31 16:43:41 --> Router Class Initialized
+ERROR - 2017-05-31 16:43:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:22 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:22 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:22 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:22 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:22 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:22 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:22 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:45:22 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:45:22 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:22 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:22 --> Total execution time: 0.4409
+DEBUG - 2017-05-31 16:45:23 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:23 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:23 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:23 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:23 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:25 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:25 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:25 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:25 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:25 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:25 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:25 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:25 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 16:45:25 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 16:45:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:25 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:25 --> Total execution time: 0.4731
+DEBUG - 2017-05-31 16:45:25 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:26 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:26 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:26 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:26 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:26 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:26 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:27 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:27 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 16:45:27 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:27 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:27 --> Total execution time: 0.4776
+DEBUG - 2017-05-31 16:45:27 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:27 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:27 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:27 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:27 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:27 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:27 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:28 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:28 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:28 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:28 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:28 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:29 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:29 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:29 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:45:29 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:29 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:29 --> Total execution time: 0.4178
+DEBUG - 2017-05-31 16:45:29 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:29 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:29 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:29 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:29 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:34 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:34 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:34 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:34 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:34 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:34 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:34 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:34 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:34 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:34 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:45:35 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:35 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:35 --> Total execution time: 0.4062
+DEBUG - 2017-05-31 16:45:35 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:35 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:35 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:35 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:35 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:37 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:37 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Router Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Output Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Security Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Input Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 16:45:37 --> Language Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Loader Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 16:45:37 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 16:45:37 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Session Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 16:45:37 --> Session routines successfully run
+DEBUG - 2017-05-31 16:45:37 --> Controller Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Model Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 16:45:37 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 16:45:37 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 16:45:37 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 16:45:37 --> Final output sent to browser
+DEBUG - 2017-05-31 16:45:37 --> Total execution time: 0.4598
+DEBUG - 2017-05-31 16:45:37 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:37 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:37 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:37 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 16:45:38 --> Config Class Initialized
+DEBUG - 2017-05-31 16:45:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 16:45:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 16:45:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 16:45:38 --> URI Class Initialized
+DEBUG - 2017-05-31 16:45:38 --> Router Class Initialized
+ERROR - 2017-05-31 16:45:38 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:07:52 --> Config Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:07:52 --> URI Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Router Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Output Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Security Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Input Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:07:52 --> Language Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:07:52 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:07:52 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Session Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:07:52 --> Session routines successfully run
+DEBUG - 2017-05-31 17:07:52 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:07:52 --> Model Class Initialized
+ERROR - 2017-05-31 17:07:52 --> Severity: Notice  --> Undefined property: Home::$perPage C:\xampp\htdocs\baliyoghar\application\controllers\Home.php 230
+DEBUG - 2017-05-31 17:07:52 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:07:52 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:07:52 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:07:52 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:07:52 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:07:52 --> Final output sent to browser
+DEBUG - 2017-05-31 17:07:52 --> Total execution time: 0.6072
+DEBUG - 2017-05-31 17:07:53 --> Config Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:07:53 --> URI Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Router Class Initialized
+ERROR - 2017-05-31 17:07:53 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:07:53 --> Config Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:07:53 --> URI Class Initialized
+DEBUG - 2017-05-31 17:07:53 --> Router Class Initialized
+ERROR - 2017-05-31 17:07:53 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:08:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:08:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:08:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Router Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Output Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Security Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Input Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:08:29 --> Language Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:08:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:08:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Session Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:08:29 --> Session routines successfully run
+DEBUG - 2017-05-31 17:08:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:08:29 --> Model Class Initialized
+ERROR - 2017-05-31 17:08:29 --> Severity: Notice  --> Undefined property: Event::$perPage C:\xampp\htdocs\baliyoghar\application\controllers\Event.php 1082
+DEBUG - 2017-05-31 17:08:29 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:08:29 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:08:29 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:08:29 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:08:29 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:08:29 --> Final output sent to browser
+DEBUG - 2017-05-31 17:08:29 --> Total execution time: 0.6397
+DEBUG - 2017-05-31 17:08:30 --> Config Class Initialized
+DEBUG - 2017-05-31 17:08:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:08:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:08:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:08:30 --> URI Class Initialized
+DEBUG - 2017-05-31 17:08:30 --> Router Class Initialized
+ERROR - 2017-05-31 17:08:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:08:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:08:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:08:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:08:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:08:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:08:33 --> Router Class Initialized
+ERROR - 2017-05-31 17:08:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:12:48 --> Config Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:12:48 --> URI Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Router Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Output Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Security Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Input Class Initialized
+DEBUG - 2017-05-31 17:12:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:12:48 --> Language Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:12:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:12:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Session Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:12:49 --> Session routines successfully run
+DEBUG - 2017-05-31 17:12:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:12:49 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:12:49 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:13:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:13:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Router Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Output Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Security Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Input Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:13:14 --> Language Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:13:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:13:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Session Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:13:14 --> Session routines successfully run
+DEBUG - 2017-05-31 17:13:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:13:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:13:15 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:13:15 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:13:15 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:13:15 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:13:15 --> Final output sent to browser
+DEBUG - 2017-05-31 17:13:15 --> Total execution time: 0.6398
+DEBUG - 2017-05-31 17:13:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:13:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:13:15 --> Router Class Initialized
+ERROR - 2017-05-31 17:13:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:13:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:13:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:13:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:13:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:13:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:13:16 --> Router Class Initialized
+ERROR - 2017-05-31 17:13:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:14:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:14:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Router Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Output Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Security Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Input Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:14:14 --> Language Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:14:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:14:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Session Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:14:14 --> Session routines successfully run
+DEBUG - 2017-05-31 17:14:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:14:15 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:14:15 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:14:15 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:14:15 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:14:15 --> Final output sent to browser
+DEBUG - 2017-05-31 17:14:15 --> Total execution time: 0.7542
+DEBUG - 2017-05-31 17:14:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:14:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Router Class Initialized
+ERROR - 2017-05-31 17:14:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:14:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:14:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:14:15 --> Router Class Initialized
+ERROR - 2017-05-31 17:14:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:15:52 --> Config Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:15:52 --> URI Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Router Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Output Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Security Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Input Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:15:52 --> Language Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:15:52 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:15:52 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Session Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:15:52 --> Session routines successfully run
+DEBUG - 2017-05-31 17:15:52 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:15:52 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:15:52 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:15:52 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:15:52 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:15:52 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:15:52 --> Final output sent to browser
+DEBUG - 2017-05-31 17:15:52 --> Total execution time: 0.6892
+DEBUG - 2017-05-31 17:15:53 --> Config Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:15:53 --> URI Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Router Class Initialized
+ERROR - 2017-05-31 17:15:53 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:15:53 --> Config Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:15:53 --> URI Class Initialized
+DEBUG - 2017-05-31 17:15:53 --> Router Class Initialized
+ERROR - 2017-05-31 17:15:53 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:16:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:16:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Router Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Output Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Security Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Input Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:16:33 --> Language Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:16:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:16:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Session Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:16:33 --> Session routines successfully run
+DEBUG - 2017-05-31 17:16:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:16:34 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:16:34 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:16:34 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:16:34 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:16:34 --> Final output sent to browser
+DEBUG - 2017-05-31 17:16:34 --> Total execution time: 0.4128
+DEBUG - 2017-05-31 17:16:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:16:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:16:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:16:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:16:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:16:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:16:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:16:36 --> Config Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:16:36 --> URI Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Router Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Output Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Security Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Input Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:16:36 --> Language Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:16:36 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:16:36 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Session Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:16:36 --> Session routines successfully run
+DEBUG - 2017-05-31 17:16:36 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:16:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Config Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:17:43 --> URI Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Router Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Output Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Security Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Input Class Initialized
+DEBUG - 2017-05-31 17:17:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:17:43 --> Language Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:17:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:17:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:17:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:17:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:17:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Config Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:19:09 --> URI Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Router Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Output Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Security Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Input Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:19:09 --> Language Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:19:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:19:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:19:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Session Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:19:10 --> Session routines successfully run
+DEBUG - 2017-05-31 17:19:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:56 --> Config Class Initialized
+DEBUG - 2017-05-31 17:19:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:19:57 --> URI Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Router Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Output Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Security Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Input Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:19:57 --> Language Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:19:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:19:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Session Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:19:57 --> Session routines successfully run
+DEBUG - 2017-05-31 17:19:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:19:57 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:19:57 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:19:57 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:19:57 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:19:57 --> Final output sent to browser
+DEBUG - 2017-05-31 17:19:57 --> Total execution time: 0.4745
+DEBUG - 2017-05-31 17:19:57 --> Config Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:19:57 --> URI Class Initialized
+DEBUG - 2017-05-31 17:19:57 --> Router Class Initialized
+ERROR - 2017-05-31 17:19:57 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:19:58 --> Config Class Initialized
+DEBUG - 2017-05-31 17:19:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:19:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:19:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:19:58 --> URI Class Initialized
+DEBUG - 2017-05-31 17:19:58 --> Router Class Initialized
+ERROR - 2017-05-31 17:19:58 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:19:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:19:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Router Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Output Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Security Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Input Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:19:59 --> Language Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:19:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:19:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Session Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:19:59 --> Session routines successfully run
+DEBUG - 2017-05-31 17:19:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:19:59 --> Model Class Initialized
+ERROR - 2017-05-31 17:19:59 --> Severity: Notice  --> Undefined property: Event::$ajax_pagination C:\xampp\htdocs\baliyoghar\application\controllers\Event.php 1185
+DEBUG - 2017-05-31 17:21:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Router Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Output Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Security Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Input Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:21:14 --> Language Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:21:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:21:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Session Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:21:14 --> Session routines successfully run
+DEBUG - 2017-05-31 17:21:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:21:14 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:21:14 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:21:14 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:21:14 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:21:14 --> Final output sent to browser
+DEBUG - 2017-05-31 17:21:14 --> Total execution time: 0.5267
+DEBUG - 2017-05-31 17:21:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Router Class Initialized
+ERROR - 2017-05-31 17:21:14 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:21:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:15 --> Router Class Initialized
+ERROR - 2017-05-31 17:21:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:21:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Router Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Output Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Security Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Input Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:21:16 --> Language Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:21:16 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:21:16 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Session Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:21:16 --> Session routines successfully run
+DEBUG - 2017-05-31 17:21:16 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:16 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:21:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Router Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Output Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Security Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Input Class Initialized
+DEBUG - 2017-05-31 17:21:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:21:34 --> Language Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:21:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:21:35 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Session Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:21:35 --> Session routines successfully run
+DEBUG - 2017-05-31 17:21:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:35 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:21:56 --> Config Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:21:56 --> URI Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Router Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Output Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Security Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Input Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:21:56 --> Language Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:21:56 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:21:56 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Session Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:21:56 --> Session routines successfully run
+DEBUG - 2017-05-31 17:21:56 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Model Class Initialized
+DEBUG - 2017-05-31 17:21:56 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:21:56 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:21:56 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:21:56 --> Final output sent to browser
+DEBUG - 2017-05-31 17:21:57 --> Total execution time: 0.5083
+DEBUG - 2017-05-31 17:23:06 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:06 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Router Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Output Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Security Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Input Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:23:06 --> Language Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:23:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:23:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Session Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:23:06 --> Session routines successfully run
+DEBUG - 2017-05-31 17:23:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:06 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:23:06 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:23:06 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:23:06 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:23:06 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:23:06 --> Final output sent to browser
+DEBUG - 2017-05-31 17:23:06 --> Total execution time: 0.6213
+DEBUG - 2017-05-31 17:23:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Router Class Initialized
+ERROR - 2017-05-31 17:23:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:23:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:07 --> Router Class Initialized
+ERROR - 2017-05-31 17:23:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:23:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:28 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Router Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Output Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Security Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Input Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:23:28 --> Language Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:23:28 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:23:28 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Session Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:23:28 --> Session routines successfully run
+DEBUG - 2017-05-31 17:23:28 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:28 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:23:28 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:23:28 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:23:28 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:23:28 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:23:28 --> Final output sent to browser
+DEBUG - 2017-05-31 17:23:28 --> Total execution time: 0.5938
+DEBUG - 2017-05-31 17:23:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Router Class Initialized
+ERROR - 2017-05-31 17:23:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:23:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:29 --> Router Class Initialized
+ERROR - 2017-05-31 17:23:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:23:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:23:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Router Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Output Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Security Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Input Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:23:59 --> Language Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:23:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:23:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Session Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:23:59 --> Session routines successfully run
+DEBUG - 2017-05-31 17:23:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:23:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:24:00 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:24:00 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:24:00 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:24:00 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:24:00 --> Final output sent to browser
+DEBUG - 2017-05-31 17:24:00 --> Total execution time: 0.7045
+DEBUG - 2017-05-31 17:24:00 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:00 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Router Class Initialized
+ERROR - 2017-05-31 17:24:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:24:00 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:00 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:00 --> Router Class Initialized
+ERROR - 2017-05-31 17:24:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:24:22 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:22 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Router Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Output Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Security Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Input Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:24:22 --> Language Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:24:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:24:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Session Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:24:22 --> Session routines successfully run
+DEBUG - 2017-05-31 17:24:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:23 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:24:23 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:24:23 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:24:23 --> Final output sent to browser
+DEBUG - 2017-05-31 17:24:23 --> Total execution time: 0.5041
+DEBUG - 2017-05-31 17:24:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Router Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Output Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Security Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Input Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:24:44 --> Language Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:24:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:24:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:24:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:24:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:44 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:24:44 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:24:44 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:24:44 --> Final output sent to browser
+DEBUG - 2017-05-31 17:24:44 --> Total execution time: 0.5903
+DEBUG - 2017-05-31 17:24:52 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:52 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Router Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Output Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Security Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Input Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:24:52 --> Language Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:24:52 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:24:52 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Session Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:24:52 --> Session routines successfully run
+DEBUG - 2017-05-31 17:24:52 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:52 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:53 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:24:53 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:24:53 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:24:53 --> Final output sent to browser
+DEBUG - 2017-05-31 17:24:53 --> Total execution time: 0.9644
+DEBUG - 2017-05-31 17:24:57 --> Config Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:24:57 --> URI Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Router Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Output Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Security Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Input Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:24:57 --> Language Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:24:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:24:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Session Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:24:57 --> Session routines successfully run
+DEBUG - 2017-05-31 17:24:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Model Class Initialized
+DEBUG - 2017-05-31 17:24:57 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:24:57 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:24:57 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:24:57 --> Final output sent to browser
+DEBUG - 2017-05-31 17:24:57 --> Total execution time: 0.4921
+DEBUG - 2017-05-31 17:25:03 --> Config Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:25:03 --> URI Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Router Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Output Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Security Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Input Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:25:03 --> Language Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:25:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:25:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Session Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:25:03 --> Session garbage collection performed.
+DEBUG - 2017-05-31 17:25:03 --> Session routines successfully run
+DEBUG - 2017-05-31 17:25:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:03 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:25:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:04 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:25:04 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:25:04 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:25:04 --> Final output sent to browser
+DEBUG - 2017-05-31 17:25:04 --> Total execution time: 0.6292
+DEBUG - 2017-05-31 17:25:55 --> Config Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:25:55 --> URI Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Router Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Output Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Security Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Input Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:25:55 --> Language Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:25:55 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:25:55 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:25:58 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Session Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:25:58 --> Session routines successfully run
+DEBUG - 2017-05-31 17:25:58 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:25:59 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:25:59 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:25:59 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:25:59 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:25:59 --> Final output sent to browser
+DEBUG - 2017-05-31 17:25:59 --> Total execution time: 3.5501
+DEBUG - 2017-05-31 17:25:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:25:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Router Class Initialized
+ERROR - 2017-05-31 17:25:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:25:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:25:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:00 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:00 --> Router Class Initialized
+ERROR - 2017-05-31 17:26:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:26:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:28 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Router Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Output Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Security Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Input Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:26:28 --> Language Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:26:28 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:26:28 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Session Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:26:28 --> Session routines successfully run
+DEBUG - 2017-05-31 17:26:28 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:28 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:26:28 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:26:28 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:26:28 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:26:28 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:26:28 --> Final output sent to browser
+DEBUG - 2017-05-31 17:26:28 --> Total execution time: 0.6195
+DEBUG - 2017-05-31 17:26:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Router Class Initialized
+ERROR - 2017-05-31 17:26:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:26:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:29 --> Router Class Initialized
+ERROR - 2017-05-31 17:26:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:26:36 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:36 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Router Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Output Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Security Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Input Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:26:36 --> Language Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:26:36 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:26:36 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Session Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:26:36 --> Session routines successfully run
+DEBUG - 2017-05-31 17:26:36 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:26:37 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:26:37 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:26:37 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:26:37 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:26:37 --> Final output sent to browser
+DEBUG - 2017-05-31 17:26:37 --> Total execution time: 0.5361
+DEBUG - 2017-05-31 17:26:37 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:37 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Router Class Initialized
+ERROR - 2017-05-31 17:26:37 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:26:37 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:37 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:37 --> Router Class Initialized
+ERROR - 2017-05-31 17:26:37 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:26:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:26:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Router Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Output Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Security Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Input Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:26:39 --> Language Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:26:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:26:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:26:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:26:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:26:40 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:26:40 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:26:40 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 17:26:40 --> Final output sent to browser
+DEBUG - 2017-05-31 17:26:40 --> Total execution time: 0.4225
+DEBUG - 2017-05-31 17:28:32 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:32 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Router Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Output Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Security Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Input Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:28:32 --> Language Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:28:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:28:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Session Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:28:32 --> Session routines successfully run
+DEBUG - 2017-05-31 17:28:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:32 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:28:32 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:28:32 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:28:32 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:28:32 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:28:32 --> Final output sent to browser
+DEBUG - 2017-05-31 17:28:32 --> Total execution time: 0.4353
+DEBUG - 2017-05-31 17:28:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:33 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:33 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Router Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Output Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Security Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Input Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:28:39 --> Language Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:28:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:28:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:28:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:28:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:28:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:28:39 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:28:39 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:28:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:28:39 --> Final output sent to browser
+DEBUG - 2017-05-31 17:28:39 --> Total execution time: 0.4681
+DEBUG - 2017-05-31 17:28:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:43 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Router Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Output Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Security Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Input Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:28:44 --> Language Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:28:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:28:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:28:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:28:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:28:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:28:44 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 17:28:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:28:44 --> Final output sent to browser
+DEBUG - 2017-05-31 17:28:44 --> Total execution time: 0.5032
+DEBUG - 2017-05-31 17:28:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:44 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:55 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:55 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Router Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Output Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Security Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Input Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:28:55 --> Language Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:28:55 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:28:55 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Session Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:28:55 --> Session routines successfully run
+DEBUG - 2017-05-31 17:28:55 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:28:55 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:28:55 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:28:55 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:28:55 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:28:55 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:28:55 --> Final output sent to browser
+DEBUG - 2017-05-31 17:28:55 --> Total execution time: 0.5496
+DEBUG - 2017-05-31 17:28:56 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:56 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:56 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:28:56 --> Config Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:28:56 --> URI Class Initialized
+DEBUG - 2017-05-31 17:28:56 --> Router Class Initialized
+ERROR - 2017-05-31 17:28:56 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:29:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Router Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Output Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Security Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Input Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:29:14 --> Language Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:29:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:29:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Session Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:29:14 --> Session routines successfully run
+DEBUG - 2017-05-31 17:29:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:14 --> DB Transaction Failure
+ERROR - 2017-05-31 17:29:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FULL JOIN participated_in t ON e.event_id = t.event_id) AS et JOIN person p ON p' at line 38
+DEBUG - 2017-05-31 17:29:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2017-05-31 17:29:27 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:27 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Router Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Output Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Security Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Input Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:29:27 --> Language Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:29:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:29:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Session Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:29:27 --> Session routines successfully run
+DEBUG - 2017-05-31 17:29:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:29:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:29:27 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:29:27 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:29:28 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:29:28 --> Final output sent to browser
+DEBUG - 2017-05-31 17:29:28 --> Total execution time: 0.5634
+DEBUG - 2017-05-31 17:29:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:28 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:28 --> Router Class Initialized
+ERROR - 2017-05-31 17:29:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:29:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:29 --> Router Class Initialized
+ERROR - 2017-05-31 17:29:29 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:29:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Router Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Output Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Security Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Input Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:29:44 --> Language Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:29:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:29:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:29:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:29:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:29:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:29:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:29:44 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:29:44 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:29:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:29:44 --> Final output sent to browser
+DEBUG - 2017-05-31 17:29:44 --> Total execution time: 0.5118
+DEBUG - 2017-05-31 17:29:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:29:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:29:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:29:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:29:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:29:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:30:08 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:08 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Router Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Output Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Security Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Input Class Initialized
+DEBUG - 2017-05-31 17:30:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:30:09 --> Language Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:30:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:30:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Session Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:30:09 --> Session routines successfully run
+DEBUG - 2017-05-31 17:30:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:09 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:30:09 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:30:09 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:30:09 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:30:09 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:30:09 --> Final output sent to browser
+DEBUG - 2017-05-31 17:30:09 --> Total execution time: 0.8229
+DEBUG - 2017-05-31 17:30:10 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:10 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Router Class Initialized
+ERROR - 2017-05-31 17:30:10 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:30:10 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:10 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:10 --> Router Class Initialized
+ERROR - 2017-05-31 17:30:10 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:30:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Router Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Output Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Security Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Input Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:30:15 --> Language Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:30:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:30:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Session Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:30:15 --> Session routines successfully run
+DEBUG - 2017-05-31 17:30:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:30:15 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:30:15 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:30:15 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:30:15 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:30:15 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:30:15 --> Final output sent to browser
+DEBUG - 2017-05-31 17:30:15 --> Total execution time: 0.4373
+DEBUG - 2017-05-31 17:30:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Router Class Initialized
+ERROR - 2017-05-31 17:30:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:30:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:30:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:30:16 --> Router Class Initialized
+ERROR - 2017-05-31 17:30:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:31:49 --> Config Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:31:49 --> URI Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Router Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Output Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Security Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Input Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:31:49 --> Language Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:31:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:31:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Session Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:31:49 --> Session routines successfully run
+DEBUG - 2017-05-31 17:31:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:31:49 --> DB Transaction Failure
+ERROR - 2017-05-31 17:31:49 --> Query error: Unknown column 'person_id' in 'field list'
+DEBUG - 2017-05-31 17:31:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2017-05-31 17:32:50 --> Config Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:32:50 --> URI Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Router Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Output Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Security Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Input Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:32:50 --> Language Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:32:50 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:32:50 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Session Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:32:50 --> Session routines successfully run
+DEBUG - 2017-05-31 17:32:50 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> Model Class Initialized
+DEBUG - 2017-05-31 17:32:50 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:32:50 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:32:50 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:32:50 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:32:50 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:32:50 --> Final output sent to browser
+DEBUG - 2017-05-31 17:32:50 --> Total execution time: 0.5573
+DEBUG - 2017-05-31 17:32:51 --> Config Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:32:51 --> URI Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Router Class Initialized
+ERROR - 2017-05-31 17:32:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:32:51 --> Config Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:32:51 --> URI Class Initialized
+DEBUG - 2017-05-31 17:32:51 --> Router Class Initialized
+ERROR - 2017-05-31 17:32:51 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:33:19 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:19 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Router Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Output Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Security Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Input Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:33:19 --> Language Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:33:19 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:33:19 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Session Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:33:19 --> Session routines successfully run
+DEBUG - 2017-05-31 17:33:19 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:19 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:33:19 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:33:19 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:33:19 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:33:19 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:33:19 --> Final output sent to browser
+DEBUG - 2017-05-31 17:33:19 --> Total execution time: 0.6167
+DEBUG - 2017-05-31 17:33:20 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:20 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Router Class Initialized
+ERROR - 2017-05-31 17:33:20 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:33:20 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:20 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:20 --> Router Class Initialized
+ERROR - 2017-05-31 17:33:20 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:33:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Router Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Output Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Security Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Input Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:33:39 --> Language Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:33:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:33:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:33:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:33:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:39 --> Model Class Initialized
+ERROR - 2017-05-31 17:33:39 --> 404 Page Not Found --> Home/event_list_pagination
+DEBUG - 2017-05-31 17:33:54 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:54 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Router Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Output Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Security Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Input Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:33:54 --> Language Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:33:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:33:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Session Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:33:54 --> Session routines successfully run
+DEBUG - 2017-05-31 17:33:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:33:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:33:55 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:33:55 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:33:55 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:33:55 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:33:55 --> Final output sent to browser
+DEBUG - 2017-05-31 17:33:55 --> Total execution time: 0.4585
+DEBUG - 2017-05-31 17:33:55 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:55 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Router Class Initialized
+ERROR - 2017-05-31 17:33:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:33:55 --> Config Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:33:55 --> URI Class Initialized
+DEBUG - 2017-05-31 17:33:55 --> Router Class Initialized
+ERROR - 2017-05-31 17:33:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:34:26 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:26 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Router Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Output Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Security Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Input Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:34:26 --> Language Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:34:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:34:26 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Session Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:34:26 --> Session routines successfully run
+DEBUG - 2017-05-31 17:34:26 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:26 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:34:26 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:34:26 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:34:26 --> Final output sent to browser
+DEBUG - 2017-05-31 17:34:26 --> Total execution time: 0.4129
+DEBUG - 2017-05-31 17:34:31 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:31 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Router Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Output Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Security Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Input Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:34:31 --> Language Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:34:31 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:34:31 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Session Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:34:31 --> Session routines successfully run
+DEBUG - 2017-05-31 17:34:31 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:31 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:34:31 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:34:31 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:34:31 --> Final output sent to browser
+DEBUG - 2017-05-31 17:34:31 --> Total execution time: 0.4839
+DEBUG - 2017-05-31 17:34:35 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:35 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Router Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Output Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Security Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Input Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:34:35 --> Language Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:34:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:34:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:34:36 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Session Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:34:36 --> Session routines successfully run
+DEBUG - 2017-05-31 17:34:36 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:36 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:34:36 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:34:36 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:34:36 --> Final output sent to browser
+DEBUG - 2017-05-31 17:34:36 --> Total execution time: 0.4650
+DEBUG - 2017-05-31 17:34:58 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:58 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Router Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Output Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Security Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Input Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:34:58 --> Language Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:34:58 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:34:58 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Session Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:34:58 --> Session routines successfully run
+DEBUG - 2017-05-31 17:34:58 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> Model Class Initialized
+DEBUG - 2017-05-31 17:34:58 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:34:58 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:34:58 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 17:34:58 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:34:58 --> Final output sent to browser
+DEBUG - 2017-05-31 17:34:58 --> Total execution time: 0.5163
+DEBUG - 2017-05-31 17:34:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Router Class Initialized
+ERROR - 2017-05-31 17:34:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:34:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:34:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:34:59 --> Router Class Initialized
+ERROR - 2017-05-31 17:34:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:37:12 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:12 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:12 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:12 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:12 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:12 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:12 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:37:12 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:37:12 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:12 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:37:12 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:37:12 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:12 --> Total execution time: 0.5740
+DEBUG - 2017-05-31 17:37:13 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:13 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Router Class Initialized
+ERROR - 2017-05-31 17:37:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:37:13 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:13 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:13 --> Router Class Initialized
+ERROR - 2017-05-31 17:37:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:37:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:16 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:16 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:16 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:16 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:16 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:16 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:37:16 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:37:16 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:16 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:37:16 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:37:16 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:16 --> Total execution time: 0.5081
+DEBUG - 2017-05-31 17:37:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Router Class Initialized
+ERROR - 2017-05-31 17:37:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:37:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:17 --> Router Class Initialized
+ERROR - 2017-05-31 17:37:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:37:26 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:26 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:26 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:26 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:26 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:26 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:26 --> Total execution time: 0.3810
+DEBUG - 2017-05-31 17:37:26 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:26 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:26 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:27 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:27 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:37:27 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:27 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:37:27 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:27 --> Total execution time: 0.3972
+DEBUG - 2017-05-31 17:37:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:29 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:29 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:29 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:29 --> Total execution time: 0.3806
+DEBUG - 2017-05-31 17:37:30 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:30 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:30 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:30 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:30 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:30 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:30 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:30 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:37:30 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:30 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:37:30 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:30 --> Total execution time: 0.4207
+DEBUG - 2017-05-31 17:37:32 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:32 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:32 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:32 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:32 --> Total execution time: 0.3773
+DEBUG - 2017-05-31 17:37:32 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:32 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:32 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:32 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:32 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:37:33 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:33 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:37:33 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:33 --> Total execution time: 0.4038
+DEBUG - 2017-05-31 17:37:36 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:36 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:36 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:36 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:36 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:36 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:36 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:36 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:37:37 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:37 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:37:37 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:37 --> Total execution time: 0.3998
+DEBUG - 2017-05-31 17:37:59 --> Config Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:37:59 --> URI Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Router Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Output Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Security Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Input Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:37:59 --> Language Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:37:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:37:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Session Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:37:59 --> Session routines successfully run
+DEBUG - 2017-05-31 17:37:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Model Class Initialized
+DEBUG - 2017-05-31 17:37:59 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:37:59 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:37:59 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:37:59 --> Final output sent to browser
+DEBUG - 2017-05-31 17:37:59 --> Total execution time: 0.4188
+DEBUG - 2017-05-31 17:38:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:07 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:07 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:07 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:38:07 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:38:07 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:38:07 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 17:38:07 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:38:07 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:07 --> Total execution time: 0.4155
+DEBUG - 2017-05-31 17:38:08 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:08 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:08 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:08 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:08 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:08 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:08 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:11 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:11 --> Session garbage collection performed.
+DEBUG - 2017-05-31 17:38:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:11 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:38:11 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:38:11 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:38:11 --> File loaded: application/views/EditEvent.php
+DEBUG - 2017-05-31 17:38:11 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:38:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:11 --> Total execution time: 0.4897
+DEBUG - 2017-05-31 17:38:12 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:12 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:12 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:12 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:12 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:12 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:12 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:25 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:25 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:25 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:25 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:25 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:25 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:25 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:25 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:25 --> Total execution time: 0.4389
+DEBUG - 2017-05-31 17:38:28 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:28 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:28 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:28 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:29 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:29 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:29 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:29 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:29 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:38:29 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:38:29 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:38:29 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 17:38:29 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:38:29 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:29 --> Total execution time: 0.4021
+DEBUG - 2017-05-31 17:38:30 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:30 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:30 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:30 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:30 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:30 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:33 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:33 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:33 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:38:33 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:38:33 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:38:33 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:38:33 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:38:33 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:33 --> Total execution time: 0.5055
+DEBUG - 2017-05-31 17:38:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:38:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:38:37 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:37 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:37 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:37 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:37 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:37 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:37 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:37 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:37 --> Total execution time: 0.4225
+DEBUG - 2017-05-31 17:38:38 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:38 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:38 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:39 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:38:39 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:38:39 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:38:39 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:39 --> Total execution time: 0.4917
+DEBUG - 2017-05-31 17:38:54 --> Config Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:38:54 --> URI Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Router Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Output Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Security Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Input Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:38:54 --> Language Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:38:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:38:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Session Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:38:54 --> Session routines successfully run
+DEBUG - 2017-05-31 17:38:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Model Class Initialized
+DEBUG - 2017-05-31 17:38:54 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:38:54 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:38:54 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:38:54 --> Final output sent to browser
+DEBUG - 2017-05-31 17:38:54 --> Total execution time: 0.4465
+DEBUG - 2017-05-31 17:39:01 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:01 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:01 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:02 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:02 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:02 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:39:02 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:39:02 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:39:02 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:02 --> Total execution time: 0.4281
+DEBUG - 2017-05-31 17:39:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:07 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:07 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:07 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:39:07 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:39:07 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:39:07 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:07 --> Total execution time: 0.5048
+DEBUG - 2017-05-31 17:39:10 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:10 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:10 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:10 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:11 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:39:11 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:39:11 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:39:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:11 --> Total execution time: 0.5278
+DEBUG - 2017-05-31 17:39:14 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:14 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:14 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:15 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:15 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:15 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:39:15 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:39:15 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:39:15 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:15 --> Total execution time: 0.4490
+DEBUG - 2017-05-31 17:39:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:17 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:17 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:17 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:17 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:18 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:18 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:18 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:39:18 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:39:18 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:39:18 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:18 --> Total execution time: 0.4572
+DEBUG - 2017-05-31 17:39:38 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:38 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:38 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:38 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:38 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:39:38 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:39:38 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 17:39:38 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 17:39:38 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:39:38 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:38 --> Total execution time: 0.4072
+DEBUG - 2017-05-31 17:39:38 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:39 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:40 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:40 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:41 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:41 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:41 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:41 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:41 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:39:41 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:39:41 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:39:41 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 17:39:41 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:39:41 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:41 --> Total execution time: 0.5069
+DEBUG - 2017-05-31 17:39:41 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:41 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:41 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:42 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:42 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:42 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:42 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:44 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:44 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:39:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:39:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:39:44 --> File loaded: application/views/EditEvent.php
+DEBUG - 2017-05-31 17:39:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:39:44 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:44 --> Total execution time: 0.4272
+DEBUG - 2017-05-31 17:39:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:47 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:47 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:47 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:47 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:48 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Router Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Output Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Security Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Input Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:39:48 --> Language Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:39:48 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:39:48 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Session Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:39:48 --> Session routines successfully run
+DEBUG - 2017-05-31 17:39:48 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:39:48 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:39:48 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:39:48 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 17:39:48 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:39:48 --> Final output sent to browser
+DEBUG - 2017-05-31 17:39:48 --> Total execution time: 0.4061
+DEBUG - 2017-05-31 17:39:48 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:48 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:48 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:39:49 --> Config Class Initialized
+DEBUG - 2017-05-31 17:39:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:39:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:39:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:39:49 --> URI Class Initialized
+DEBUG - 2017-05-31 17:39:49 --> Router Class Initialized
+ERROR - 2017-05-31 17:39:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:40:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:40:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Router Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Output Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Security Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Input Class Initialized
+DEBUG - 2017-05-31 17:40:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:40:33 --> Language Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:40:34 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:40:34 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Session Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:40:34 --> Session routines successfully run
+DEBUG - 2017-05-31 17:40:34 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Model Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:40:34 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:40:34 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:40:34 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:40:34 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:40:34 --> Final output sent to browser
+DEBUG - 2017-05-31 17:40:34 --> Total execution time: 0.4889
+DEBUG - 2017-05-31 17:40:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:40:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:40:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:40:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:40:35 --> Config Class Initialized
+DEBUG - 2017-05-31 17:40:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:40:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:40:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:40:35 --> URI Class Initialized
+DEBUG - 2017-05-31 17:40:35 --> Router Class Initialized
+ERROR - 2017-05-31 17:40:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:44:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Router Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Output Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Security Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Input Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:44:39 --> Language Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:44:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:44:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:44:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:44:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:44:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:44:39 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:44:39 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:44:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:44:39 --> Final output sent to browser
+DEBUG - 2017-05-31 17:44:39 --> Total execution time: 0.6628
+DEBUG - 2017-05-31 17:44:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:44:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:44:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:44:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:44:47 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:47 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Router Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Output Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Security Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Input Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:44:47 --> Language Class Initialized
+DEBUG - 2017-05-31 17:44:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:44:48 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:44:48 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Session Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:44:48 --> Session routines successfully run
+DEBUG - 2017-05-31 17:44:48 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:44:48 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:44:48 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:44:48 --> File loaded: application/views/includes/Navigation.php
+ERROR - 2017-05-31 17:44:48 --> Severity: Notice  --> Undefined variable: total_pages C:\xampp\htdocs\baliyoghar\application\views\EventManagement.php 99
+DEBUG - 2017-05-31 17:44:48 --> File loaded: application/views/EventManagement.php
+DEBUG - 2017-05-31 17:44:48 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:44:48 --> Final output sent to browser
+DEBUG - 2017-05-31 17:44:48 --> Total execution time: 0.5830
+DEBUG - 2017-05-31 17:44:48 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:48 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Router Class Initialized
+ERROR - 2017-05-31 17:44:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:44:48 --> Config Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:44:48 --> URI Class Initialized
+DEBUG - 2017-05-31 17:44:48 --> Router Class Initialized
+ERROR - 2017-05-31 17:44:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:46:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:16 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:16 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:16 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:16 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:16 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:46:17 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:46:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:17 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:17 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:17 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:17 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:17 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:17 --> Model Class Initialized
+ERROR - 2017-05-31 17:46:17 --> 404 Page Not Found --> event/event_list_pagignation
+DEBUG - 2017-05-31 17:46:33 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:33 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:33 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:33 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:33 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:46:34 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:46:34 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:46:34 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:46:34 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:46:34 --> Final output sent to browser
+DEBUG - 2017-05-31 17:46:34 --> Total execution time: 0.5692
+DEBUG - 2017-05-31 17:46:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:46:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:46:34 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:34 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:34 --> Router Class Initialized
+ERROR - 2017-05-31 17:46:34 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:46:38 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:38 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:38 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:38 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:38 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:46:38 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:46:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:39 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:39 --> Session garbage collection performed.
+DEBUG - 2017-05-31 17:46:39 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:46:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:46:39 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:46:39 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:46:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:46:39 --> Final output sent to browser
+DEBUG - 2017-05-31 17:46:39 --> Total execution time: 0.4897
+DEBUG - 2017-05-31 17:46:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:39 --> Router Class Initialized
+ERROR - 2017-05-31 17:46:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:46:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:46:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:46:47 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:47 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:47 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:47 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:47 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:48 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:48 --> Final output sent to browser
+DEBUG - 2017-05-31 17:46:48 --> Total execution time: 0.3888
+DEBUG - 2017-05-31 17:46:49 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:49 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:49 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:49 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:49 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:46:49 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:46:49 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:46:49 --> Final output sent to browser
+DEBUG - 2017-05-31 17:46:49 --> Total execution time: 0.4271
+DEBUG - 2017-05-31 17:46:54 --> Config Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:46:54 --> URI Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Router Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Output Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Security Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Input Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:46:54 --> Language Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:46:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:46:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Session Class Initialized
+DEBUG - 2017-05-31 17:46:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:46:54 --> Session routines successfully run
+DEBUG - 2017-05-31 17:46:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Model Class Initialized
+DEBUG - 2017-05-31 17:46:55 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:46:55 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:46:55 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:46:55 --> Final output sent to browser
+DEBUG - 2017-05-31 17:46:55 --> Total execution time: 0.4389
+DEBUG - 2017-05-31 17:47:00 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:00 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:00 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:00 --> Session garbage collection performed.
+DEBUG - 2017-05-31 17:47:00 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:00 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:00 --> Total execution time: 0.3907
+DEBUG - 2017-05-31 17:47:03 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:03 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:03 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:03 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:03 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:47:03 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:47:03 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:47:03 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:03 --> Total execution time: 0.4035
+DEBUG - 2017-05-31 17:47:06 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:06 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:06 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:06 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:07 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:47:07 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:47:07 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:47:07 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:07 --> Total execution time: 0.4279
+DEBUG - 2017-05-31 17:47:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:11 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:11 --> Total execution time: 0.4637
+DEBUG - 2017-05-31 17:47:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:11 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:11 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:12 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:12 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:47:12 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:47:12 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:47:12 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:12 --> Total execution time: 0.4037
+DEBUG - 2017-05-31 17:47:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:15 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:15 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:47:15 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:47:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:15 --> Router Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Output Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Security Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Input Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:47:16 --> Language Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:47:16 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:47:16 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Session Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:47:16 --> Session routines successfully run
+DEBUG - 2017-05-31 17:47:16 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:47:16 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:47:16 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:47:16 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:47:16 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:47:16 --> Final output sent to browser
+DEBUG - 2017-05-31 17:47:16 --> Total execution time: 0.4509
+DEBUG - 2017-05-31 17:47:16 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:16 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:16 --> Router Class Initialized
+ERROR - 2017-05-31 17:47:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:47:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:47:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:47:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:47:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:47:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:47:17 --> Router Class Initialized
+ERROR - 2017-05-31 17:47:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:00 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:00 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:00 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:00 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:01 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:01 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 17:49:01 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:49:01 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 17:49:01 --> Final output sent to browser
+DEBUG - 2017-05-31 17:49:01 --> Total execution time: 0.5708
+DEBUG - 2017-05-31 17:49:06 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:06 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:06 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:06 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:49:06 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:49:06 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:06 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:06 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:06 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:06 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:49:06 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:49:06 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:49:06 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:49:06 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:49:06 --> Final output sent to browser
+DEBUG - 2017-05-31 17:49:06 --> Total execution time: 0.4515
+DEBUG - 2017-05-31 17:49:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:07 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:07 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:07 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:10 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:10 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:10 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:10 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:49:10 --> XSS Filtering completed
+DEBUG - 2017-05-31 17:49:10 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:10 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:10 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:10 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:49:11 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:49:11 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:49:11 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:49:11 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:49:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:49:11 --> Total execution time: 0.5743
+DEBUG - 2017-05-31 17:49:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:11 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:12 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:12 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:12 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:12 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:12 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:44 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:44 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Router Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Output Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Security Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Input Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:49:44 --> Language Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:49:44 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:49:44 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Session Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:49:44 --> Session routines successfully run
+DEBUG - 2017-05-31 17:49:44 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> Model Class Initialized
+DEBUG - 2017-05-31 17:49:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:49:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:49:44 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:49:44 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:49:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:49:45 --> Final output sent to browser
+DEBUG - 2017-05-31 17:49:45 --> Total execution time: 0.5178
+DEBUG - 2017-05-31 17:49:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:49:45 --> Config Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:49:45 --> URI Class Initialized
+DEBUG - 2017-05-31 17:49:45 --> Router Class Initialized
+ERROR - 2017-05-31 17:49:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:51:41 --> Config Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:51:41 --> URI Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Router Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Output Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Security Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Input Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:51:41 --> Language Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:51:41 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:51:41 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:51:41 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Session Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:51:42 --> Session routines successfully run
+DEBUG - 2017-05-31 17:51:42 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Model Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:51:42 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:51:42 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:51:42 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:51:42 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:51:42 --> Final output sent to browser
+DEBUG - 2017-05-31 17:51:42 --> Total execution time: 0.6872
+DEBUG - 2017-05-31 17:51:42 --> Config Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:51:42 --> URI Class Initialized
+DEBUG - 2017-05-31 17:51:42 --> Router Class Initialized
+ERROR - 2017-05-31 17:51:42 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:51:43 --> Config Class Initialized
+DEBUG - 2017-05-31 17:51:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:51:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:51:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:51:43 --> URI Class Initialized
+DEBUG - 2017-05-31 17:51:43 --> Router Class Initialized
+ERROR - 2017-05-31 17:51:43 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:55:01 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:01 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Router Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Output Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Security Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Input Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:55:01 --> Language Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:55:01 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:55:01 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Session Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:55:01 --> Session routines successfully run
+DEBUG - 2017-05-31 17:55:01 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:01 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:55:01 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:55:01 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 17:55:01 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 17:55:01 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:55:01 --> Final output sent to browser
+DEBUG - 2017-05-31 17:55:01 --> Total execution time: 0.6710
+DEBUG - 2017-05-31 17:55:02 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:02 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Router Class Initialized
+ERROR - 2017-05-31 17:55:02 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:55:02 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:02 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:02 --> Router Class Initialized
+ERROR - 2017-05-31 17:55:02 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:55:15 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:15 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Router Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Output Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Security Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Input Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:55:15 --> Language Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:55:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:55:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Session Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:55:15 --> Session routines successfully run
+DEBUG - 2017-05-31 17:55:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:15 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> Model Class Initialized
+DEBUG - 2017-05-31 17:55:16 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:55:16 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:55:16 --> File loaded: application/views/Events.php
+DEBUG - 2017-05-31 17:55:16 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:55:16 --> Final output sent to browser
+DEBUG - 2017-05-31 17:55:16 --> Total execution time: 0.5683
+DEBUG - 2017-05-31 17:55:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Router Class Initialized
+ERROR - 2017-05-31 17:55:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:55:17 --> Config Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:55:17 --> URI Class Initialized
+DEBUG - 2017-05-31 17:55:17 --> Router Class Initialized
+ERROR - 2017-05-31 17:55:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:56:08 --> Config Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:56:08 --> URI Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Router Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Output Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Security Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Input Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:56:08 --> Language Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:56:08 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:56:08 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Session Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:56:08 --> Session routines successfully run
+DEBUG - 2017-05-31 17:56:08 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:08 --> Final output sent to browser
+DEBUG - 2017-05-31 17:56:08 --> Total execution time: 0.3603
+DEBUG - 2017-05-31 17:56:18 --> Config Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:56:18 --> URI Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Router Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Output Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Security Class Initialized
+DEBUG - 2017-05-31 17:56:18 --> Input Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:56:19 --> Language Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:56:19 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:56:19 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Session Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:56:19 --> Session routines successfully run
+DEBUG - 2017-05-31 17:56:19 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:19 --> Final output sent to browser
+DEBUG - 2017-05-31 17:56:19 --> Total execution time: 0.3762
+DEBUG - 2017-05-31 17:56:22 --> Config Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:56:22 --> URI Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Router Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Output Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Security Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Input Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:56:22 --> Language Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:56:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:56:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Session Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:56:22 --> Session routines successfully run
+DEBUG - 2017-05-31 17:56:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:22 --> Final output sent to browser
+DEBUG - 2017-05-31 17:56:22 --> Total execution time: 0.3980
+DEBUG - 2017-05-31 17:56:26 --> Config Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:56:26 --> URI Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Router Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Output Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Security Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Input Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:56:26 --> Language Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:56:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:56:26 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Session Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:56:26 --> Session routines successfully run
+DEBUG - 2017-05-31 17:56:26 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Model Class Initialized
+DEBUG - 2017-05-31 17:56:26 --> Final output sent to browser
+DEBUG - 2017-05-31 17:56:26 --> Total execution time: 0.3550
+DEBUG - 2017-05-31 17:57:38 --> Config Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:57:38 --> URI Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Router Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Output Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Security Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Input Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:57:38 --> Language Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:57:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:57:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Session Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:57:38 --> Session routines successfully run
+DEBUG - 2017-05-31 17:57:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Model Class Initialized
+DEBUG - 2017-05-31 17:57:38 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 17:57:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 17:57:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 17:57:39 --> File loaded: application/views/People.php
+DEBUG - 2017-05-31 17:57:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 17:57:39 --> Final output sent to browser
+DEBUG - 2017-05-31 17:57:39 --> Total execution time: 0.7617
+DEBUG - 2017-05-31 17:57:39 --> Config Class Initialized
+DEBUG - 2017-05-31 17:57:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:57:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:57:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:57:39 --> URI Class Initialized
+DEBUG - 2017-05-31 17:57:39 --> Router Class Initialized
+ERROR - 2017-05-31 17:57:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:57:40 --> Config Class Initialized
+DEBUG - 2017-05-31 17:57:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:57:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:57:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:57:40 --> URI Class Initialized
+DEBUG - 2017-05-31 17:57:40 --> Router Class Initialized
+ERROR - 2017-05-31 17:57:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 17:58:01 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:01 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:01 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:02 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:02 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:02 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:02 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:02 --> Total execution time: 0.5466
+DEBUG - 2017-05-31 17:58:02 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:02 --> Total execution time: 0.5869
+DEBUG - 2017-05-31 17:58:04 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:04 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:04 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:04 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:04 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:04 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:05 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:05 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:05 --> Total execution time: 0.5568
+DEBUG - 2017-05-31 17:58:05 --> Total execution time: 0.5540
+DEBUG - 2017-05-31 17:58:09 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:09 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:09 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:09 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:09 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:09 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:09 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:09 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:09 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:09 --> Total execution time: 0.5102
+DEBUG - 2017-05-31 17:58:09 --> Total execution time: 0.5180
+DEBUG - 2017-05-31 17:58:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:11 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:11 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:11 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:11 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:11 --> Total execution time: 0.5417
+DEBUG - 2017-05-31 17:58:11 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:11 --> Total execution time: 0.5419
+DEBUG - 2017-05-31 17:58:21 --> Config Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Hooks Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 17:58:21 --> URI Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Router Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Output Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Security Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Input Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 17:58:21 --> Language Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Loader Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 17:58:21 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 17:58:21 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Session Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 17:58:21 --> Session routines successfully run
+DEBUG - 2017-05-31 17:58:21 --> Controller Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> User Agent Class Initialized
+DEBUG - 2017-05-31 17:58:21 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:22 --> Model Class Initialized
+DEBUG - 2017-05-31 17:58:22 --> Final output sent to browser
+DEBUG - 2017-05-31 17:58:22 --> Total execution time: 0.3845
+DEBUG - 2017-05-31 18:01:33 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:33 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Router Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Output Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Security Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Input Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:01:33 --> Language Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:01:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:01:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:01:34 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:34 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:34 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2017-05-31 18:01:34 --> Upload Class Initialized
+DEBUG - 2017-05-31 18:01:34 --> Image Lib Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Router Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Output Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Security Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Input Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:01:35 --> Language Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:01:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:01:35 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:01:35 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> File loaded: application/views/Login.php
+DEBUG - 2017-05-31 18:01:35 --> Final output sent to browser
+DEBUG - 2017-05-31 18:01:35 --> Total execution time: 0.3518
+DEBUG - 2017-05-31 18:01:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:35 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:35 --> 404 Page Not Found --> css
+DEBUG - 2017-05-31 18:01:36 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:36 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:36 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:36 --> 404 Page Not Found --> css
+DEBUG - 2017-05-31 18:01:43 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:43 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Router Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Output Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Security Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Input Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:01:43 --> Language Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:01:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:01:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:01:43 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:01:44 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:01:44 --> File loaded: application/views/Home.php
+DEBUG - 2017-05-31 18:01:44 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:01:44 --> Final output sent to browser
+DEBUG - 2017-05-31 18:01:44 --> Total execution time: 0.5606
+DEBUG - 2017-05-31 18:01:44 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:45 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:01:45 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:45 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:45 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:01:47 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:47 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Router Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Output Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Security Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Input Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:01:47 --> Language Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:01:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:01:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:01:47 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:47 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:01:47 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:01:47 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:01:47 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:01:47 --> Final output sent to browser
+DEBUG - 2017-05-31 18:01:47 --> Total execution time: 0.4024
+DEBUG - 2017-05-31 18:01:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:01:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:48 --> Router Class Initialized
+ERROR - 2017-05-31 18:01:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:01:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:01:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Router Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Output Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Security Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Input Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:01:59 --> Language Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:01:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:01:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:01:59 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Session routines successfully run
+DEBUG - 2017-05-31 18:01:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:01:59 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:01:59 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:01:59 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:01:59 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:01:59 --> Final output sent to browser
+DEBUG - 2017-05-31 18:01:59 --> Total execution time: 0.7010
+DEBUG - 2017-05-31 18:02:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:00 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:02 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:02 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:02 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:02 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:03 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:03 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:02:03 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:03 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:03 --> Total execution time: 0.6439
+DEBUG - 2017-05-31 18:02:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:03 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:06 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:06 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:06 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:06 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:06 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:06 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:07 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:07 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:02:07 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:07 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:07 --> Total execution time: 0.6594
+DEBUG - 2017-05-31 18:02:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:07 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:09 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:09 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:09 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:09 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:10 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:10 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:02:10 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:10 --> Total execution time: 0.8211
+DEBUG - 2017-05-31 18:02:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:10 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:10 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:10 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:12 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:12 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:12 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:12 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:12 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:12 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:13 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:13 --> File loaded: application/views/PeopleManagement.php
+DEBUG - 2017-05-31 18:02:13 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:13 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:13 --> Total execution time: 0.6734
+DEBUG - 2017-05-31 18:02:13 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:13 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:13 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:13 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:13 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:13 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:18 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:18 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:18 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:19 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:19 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:19 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:19 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:19 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:19 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:02:19 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:02:19 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:19 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:19 --> Total execution time: 0.5720
+DEBUG - 2017-05-31 18:02:19 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:19 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:19 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:19 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:19 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:22 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:22 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Router Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Output Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Security Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Input Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:02:22 --> Language Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:02:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:02:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Session Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:02:22 --> Session routines successfully run
+DEBUG - 2017-05-31 18:02:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:02:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:02:23 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:02:23 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:02:23 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:02:23 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:02:23 --> Final output sent to browser
+DEBUG - 2017-05-31 18:02:23 --> Total execution time: 0.5203
+DEBUG - 2017-05-31 18:02:23 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:23 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:02:23 --> Config Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:02:23 --> URI Class Initialized
+DEBUG - 2017-05-31 18:02:23 --> Router Class Initialized
+ERROR - 2017-05-31 18:02:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Router Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Output Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Security Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Input Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:04:01 --> Language Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:04:01 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:04:01 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Session Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:04:01 --> Session routines successfully run
+DEBUG - 2017-05-31 18:04:01 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:04:02 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:04:02 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:04:02 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:04:02 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:04:02 --> Final output sent to browser
+DEBUG - 2017-05-31 18:04:02 --> Total execution time: 0.7018
+DEBUG - 2017-05-31 18:04:02 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:02 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:02 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:02 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:02 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:03 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:09 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:09 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Router Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Output Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Security Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Input Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:04:09 --> Language Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:04:09 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:04:09 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Session Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:04:09 --> Session routines successfully run
+DEBUG - 2017-05-31 18:04:09 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:09 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:04:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:10 --> Model Class Initialized
+ERROR - 2017-05-31 18:04:10 --> Severity: Notice  --> Use of undefined constant h - assumed 'h' C:\xampp\htdocs\baliyoghar\application\views\event\_editParticipationForm_async.php 29
+DEBUG - 2017-05-31 18:04:10 --> File loaded: application/views/event/_editParticipationForm_async.php
+DEBUG - 2017-05-31 18:04:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:04:10 --> Total execution time: 0.3734
+DEBUG - 2017-05-31 18:04:38 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:38 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Router Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Output Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Security Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Input Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:04:38 --> Language Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:04:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:04:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Session Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:04:38 --> Session routines successfully run
+DEBUG - 2017-05-31 18:04:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:04:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:04:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:04:39 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:04:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:04:39 --> Final output sent to browser
+DEBUG - 2017-05-31 18:04:39 --> Total execution time: 0.4493
+DEBUG - 2017-05-31 18:04:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:56 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:56 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Router Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Output Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Security Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Input Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:04:56 --> Language Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:04:56 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:04:56 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Session Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:04:56 --> Session routines successfully run
+DEBUG - 2017-05-31 18:04:56 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> Model Class Initialized
+DEBUG - 2017-05-31 18:04:56 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:04:56 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:04:56 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:04:56 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:04:56 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:04:56 --> Final output sent to browser
+DEBUG - 2017-05-31 18:04:56 --> Total execution time: 0.6143
+DEBUG - 2017-05-31 18:04:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:57 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:04:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:04:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:04:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:04:58 --> Router Class Initialized
+ERROR - 2017-05-31 18:04:58 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:05:04 --> Config Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:05:04 --> URI Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Router Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Output Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Security Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Input Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:05:04 --> Language Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:05:04 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:05:04 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Session Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:05:04 --> Session routines successfully run
+DEBUG - 2017-05-31 18:05:04 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:04 --> Model Class Initialized
+ERROR - 2017-05-31 18:05:04 --> Severity: Notice  --> Use of undefined constant h - assumed 'h' C:\xampp\htdocs\baliyoghar\application\views\event\_editParticipationForm_async.php 29
+DEBUG - 2017-05-31 18:05:04 --> File loaded: application/views/event/_editParticipationForm_async.php
+DEBUG - 2017-05-31 18:05:04 --> Final output sent to browser
+DEBUG - 2017-05-31 18:05:04 --> Total execution time: 0.4388
+DEBUG - 2017-05-31 18:05:09 --> Config Class Initialized
+DEBUG - 2017-05-31 18:05:09 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:05:09 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:05:09 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:05:09 --> URI Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Router Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Output Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Security Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Input Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:05:10 --> Language Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:05:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:05:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Session Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:05:10 --> Session routines successfully run
+DEBUG - 2017-05-31 18:05:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:05:10 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:05:10 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:05:10 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:05:10 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:05:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:05:10 --> Total execution time: 0.4813
+DEBUG - 2017-05-31 18:05:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:05:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:05:10 --> Router Class Initialized
+ERROR - 2017-05-31 18:05:10 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:05:11 --> Config Class Initialized
+DEBUG - 2017-05-31 18:05:11 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:05:11 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:05:11 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:05:11 --> URI Class Initialized
+DEBUG - 2017-05-31 18:05:11 --> Router Class Initialized
+ERROR - 2017-05-31 18:05:11 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:05:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:05:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:05:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:01 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:21 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:21 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:25 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:06:25 --> Language Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:06:25 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:06:25 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Session Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:06:25 --> Session routines successfully run
+DEBUG - 2017-05-31 18:06:25 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:06:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:06:25 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:06:25 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:06:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:06:25 --> Final output sent to browser
+DEBUG - 2017-05-31 18:06:25 --> Total execution time: 0.5111
+DEBUG - 2017-05-31 18:06:25 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:26 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:26 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:26 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:26 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:26 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:06:35 --> Language Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:06:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:06:35 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Session Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:06:35 --> Session routines successfully run
+DEBUG - 2017-05-31 18:06:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:06:35 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:06:35 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:06:35 --> File loaded: application/views/EditEvent.php
+DEBUG - 2017-05-31 18:06:35 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:06:35 --> Final output sent to browser
+DEBUG - 2017-05-31 18:06:35 --> Total execution time: 0.4519
+DEBUG - 2017-05-31 18:06:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:36 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:36 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:36 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:36 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:36 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:36 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:36 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:38 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:38 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:06:38 --> Language Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:06:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:06:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Session Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:06:38 --> Session routines successfully run
+DEBUG - 2017-05-31 18:06:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:38 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:06:38 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:06:38 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:06:38 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:06:38 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:06:38 --> Final output sent to browser
+DEBUG - 2017-05-31 18:06:38 --> Total execution time: 0.4136
+DEBUG - 2017-05-31 18:06:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:06:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:06:49 --> Config Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:06:49 --> URI Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Router Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Output Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Security Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Input Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:06:49 --> Language Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:06:49 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:06:49 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Session Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:06:49 --> Session routines successfully run
+DEBUG - 2017-05-31 18:06:49 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+DEBUG - 2017-05-31 18:06:49 --> Model Class Initialized
+ERROR - 2017-05-31 18:06:49 --> Severity: Notice  --> Use of undefined constant h - assumed 'h' C:\xampp\htdocs\baliyoghar\application\views\event\_editParticipationForm_async.php 29
+DEBUG - 2017-05-31 18:06:49 --> File loaded: application/views/event/_editParticipationForm_async.php
+DEBUG - 2017-05-31 18:06:49 --> Final output sent to browser
+DEBUG - 2017-05-31 18:06:49 --> Total execution time: 0.3690
+DEBUG - 2017-05-31 18:07:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:07 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:07 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:08 --> File loaded: application/views/event/_editParticipationRow.php
+DEBUG - 2017-05-31 18:07:08 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:08 --> Total execution time: 0.4739
+DEBUG - 2017-05-31 18:07:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:10 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:10 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:10 --> Model Class Initialized
+ERROR - 2017-05-31 18:07:10 --> Severity: Notice  --> Use of undefined constant h - assumed 'h' C:\xampp\htdocs\baliyoghar\application\views\event\_editParticipationForm_async.php 29
+DEBUG - 2017-05-31 18:07:10 --> File loaded: application/views/event/_editParticipationForm_async.php
+DEBUG - 2017-05-31 18:07:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:10 --> Total execution time: 0.5135
+DEBUG - 2017-05-31 18:07:12 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:12 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:12 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:12 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:12 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:12 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:07:12 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:12 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:12 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:13 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:13 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:13 --> File loaded: application/views/event/_editParticipationRow.php
+DEBUG - 2017-05-31 18:07:13 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:13 --> Total execution time: 0.4016
+DEBUG - 2017-05-31 18:07:14 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:14 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:14 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:14 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:14 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:14 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:07:14 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:07:14 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:07:14 --> File loaded: application/views/PersonDetail.php
+DEBUG - 2017-05-31 18:07:14 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:07:14 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:14 --> Total execution time: 0.6153
+DEBUG - 2017-05-31 18:07:15 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:15 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:15 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:15 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:15 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:15 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:27 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:27 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:27 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:27 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:07:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:07:27 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:07:27 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:07:27 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:07:27 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:27 --> Total execution time: 0.4527
+DEBUG - 2017-05-31 18:07:28 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:28 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:28 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:28 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:28 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:31 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:31 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:31 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:31 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:31 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:31 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:31 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:31 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:07:31 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:07:31 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:07:31 --> File loaded: application/views/EventDetail.php
+DEBUG - 2017-05-31 18:07:31 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:07:31 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:31 --> Total execution time: 0.5536
+DEBUG - 2017-05-31 18:07:32 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:32 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:32 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:32 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:32 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:32 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:32 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:37 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:37 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:37 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:37 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:37 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:37 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:37 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:37 --> Model Class Initialized
+ERROR - 2017-05-31 18:07:37 --> Severity: Notice  --> Use of undefined constant h - assumed 'h' C:\xampp\htdocs\baliyoghar\application\views\event\_editParticipationForm_async.php 29
+DEBUG - 2017-05-31 18:07:37 --> File loaded: application/views/event/_editParticipationForm_async.php
+DEBUG - 2017-05-31 18:07:37 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:37 --> Total execution time: 0.3472
+DEBUG - 2017-05-31 18:07:40 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:40 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:40 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:40 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:40 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:40 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:07:40 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:40 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:07:40 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:40 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:07:40 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:07:40 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:07:40 --> File loaded: application/views/EditPerson.php
+DEBUG - 2017-05-31 18:07:40 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:07:40 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:40 --> Total execution time: 0.5690
+DEBUG - 2017-05-31 18:07:40 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:40 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:40 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:41 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:41 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:41 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:41 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:41 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:41 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:42 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:42 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:42 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:43 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:43 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:07:43 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:07:43 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:07:43 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:07:43 --> File loaded: application/views/ChangePicture.php
+DEBUG - 2017-05-31 18:07:43 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:07:43 --> Final output sent to browser
+DEBUG - 2017-05-31 18:07:43 --> Total execution time: 0.5688
+DEBUG - 2017-05-31 18:07:43 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:43 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:43 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:43 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:44 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:44 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:44 --> Router Class Initialized
+ERROR - 2017-05-31 18:07:44 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:07:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:07:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Router Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Output Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Security Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Input Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:07:59 --> Language Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:07:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:07:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:07:59 --> Session routines successfully run
+DEBUG - 2017-05-31 18:07:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:07:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Upload Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Image Lib Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Router Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Output Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Security Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Input Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:08:00 --> Language Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:08:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:08:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:08:00 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:08:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:01 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:08:01 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:08:01 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:08:01 --> File loaded: application/views/EditPerson.php
+DEBUG - 2017-05-31 18:08:01 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:08:01 --> Final output sent to browser
+DEBUG - 2017-05-31 18:08:01 --> Total execution time: 0.5827
+DEBUG - 2017-05-31 18:08:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:01 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:01 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:08:02 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:02 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:02 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:02 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:08:05 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:05 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Router Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Output Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Security Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Input Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:08:05 --> Language Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:08:05 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:08:05 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:08:05 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:05 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:05 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:08:05 --> XSS Filtering completed
+DEBUG - 2017-05-31 18:08:05 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:08:05 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:08:05 --> File loaded: application/views/ChangePicture.php
+DEBUG - 2017-05-31 18:08:05 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:08:05 --> Final output sent to browser
+DEBUG - 2017-05-31 18:08:05 --> Total execution time: 0.4980
+DEBUG - 2017-05-31 18:08:05 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:05 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:05 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:08:06 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:06 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:06 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:06 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:08:22 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:22 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Router Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Output Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Security Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Input Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:08:22 --> Language Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:08:22 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:08:22 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Session Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:08:22 --> Session routines successfully run
+DEBUG - 2017-05-31 18:08:22 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> Model Class Initialized
+DEBUG - 2017-05-31 18:08:22 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:08:22 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:08:22 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:08:22 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:08:22 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:08:22 --> Final output sent to browser
+DEBUG - 2017-05-31 18:08:22 --> Total execution time: 0.5372
+DEBUG - 2017-05-31 18:08:23 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:23 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:08:23 --> Config Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:08:23 --> URI Class Initialized
+DEBUG - 2017-05-31 18:08:23 --> Router Class Initialized
+ERROR - 2017-05-31 18:08:23 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:09:15 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:15 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Router Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Output Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Security Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Input Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:09:15 --> Language Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:09:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:09:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Session Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:09:15 --> Session routines successfully run
+DEBUG - 2017-05-31 18:09:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:15 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:09:15 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:09:15 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:09:15 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:09:15 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:09:15 --> Final output sent to browser
+DEBUG - 2017-05-31 18:09:15 --> Total execution time: 0.4559
+DEBUG - 2017-05-31 18:09:16 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:16 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Router Class Initialized
+ERROR - 2017-05-31 18:09:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:09:16 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:16 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:16 --> Router Class Initialized
+ERROR - 2017-05-31 18:09:16 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:09:18 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:18 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Router Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Output Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Security Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Input Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:09:18 --> Language Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:09:18 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:09:18 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Session Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:09:18 --> Session routines successfully run
+DEBUG - 2017-05-31 18:09:18 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> Model Class Initialized
+DEBUG - 2017-05-31 18:09:18 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:09:19 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:09:19 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:09:19 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:09:19 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:09:19 --> Final output sent to browser
+DEBUG - 2017-05-31 18:09:19 --> Total execution time: 0.4901
+DEBUG - 2017-05-31 18:09:19 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:19 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Router Class Initialized
+ERROR - 2017-05-31 18:09:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:09:19 --> Config Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:09:19 --> URI Class Initialized
+DEBUG - 2017-05-31 18:09:19 --> Router Class Initialized
+ERROR - 2017-05-31 18:09:19 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:10:06 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:06 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:06 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:06 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Router Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Output Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Security Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Input Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:10:07 --> Language Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:10:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:10:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Session Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:10:07 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:10:07 --> Session routines successfully run
+DEBUG - 2017-05-31 18:10:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:10:07 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:10:07 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:10:07 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:10:07 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:10:07 --> Final output sent to browser
+DEBUG - 2017-05-31 18:10:07 --> Total execution time: 0.5731
+DEBUG - 2017-05-31 18:10:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Router Class Initialized
+ERROR - 2017-05-31 18:10:07 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:10:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:08 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:08 --> Router Class Initialized
+ERROR - 2017-05-31 18:10:08 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:10:38 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:38 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> Router Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> Output Class Initialized
+DEBUG - 2017-05-31 18:10:38 --> Security Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Input Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:10:39 --> Language Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:10:39 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:10:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Session Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:10:39 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:10:39 --> Session routines successfully run
+DEBUG - 2017-05-31 18:10:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:39 --> Final output sent to browser
+DEBUG - 2017-05-31 18:10:39 --> Total execution time: 0.4494
+DEBUG - 2017-05-31 18:10:47 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:47 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Router Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Output Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Security Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Input Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:10:47 --> Language Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:10:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:10:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Session Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:10:47 --> Session routines successfully run
+DEBUG - 2017-05-31 18:10:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:10:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:48 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:10:48 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:10:48 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:10:48 --> Final output sent to browser
+DEBUG - 2017-05-31 18:10:48 --> Total execution time: 0.4796
+DEBUG - 2017-05-31 18:10:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:10:53 --> Language Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:10:53 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:10:53 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Session Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:10:53 --> Session routines successfully run
+DEBUG - 2017-05-31 18:10:53 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:53 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:10:53 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:10:53 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:10:53 --> Final output sent to browser
+DEBUG - 2017-05-31 18:10:53 --> Total execution time: 0.4602
+DEBUG - 2017-05-31 18:10:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:10:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Router Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Output Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Security Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Input Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:10:57 --> Language Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:10:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:10:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Session Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:10:57 --> Session routines successfully run
+DEBUG - 2017-05-31 18:10:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:10:57 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:10:57 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:10:57 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:10:57 --> Final output sent to browser
+DEBUG - 2017-05-31 18:10:57 --> Total execution time: 0.4429
+DEBUG - 2017-05-31 18:11:13 --> Config Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:11:13 --> URI Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Router Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Output Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Security Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Input Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:11:13 --> Language Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:11:13 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:11:13 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Session Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:11:13 --> Session routines successfully run
+DEBUG - 2017-05-31 18:11:13 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:13 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:14 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:11:14 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:11:14 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:11:14 --> Final output sent to browser
+DEBUG - 2017-05-31 18:11:14 --> Total execution time: 0.4332
+DEBUG - 2017-05-31 18:11:30 --> Config Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:11:30 --> URI Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Router Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Output Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Security Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Input Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:11:30 --> Language Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:11:30 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:11:30 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Session Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:11:30 --> Session routines successfully run
+DEBUG - 2017-05-31 18:11:30 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:30 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:11:30 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:11:30 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:11:30 --> Final output sent to browser
+DEBUG - 2017-05-31 18:11:30 --> Total execution time: 0.3796
+DEBUG - 2017-05-31 18:11:32 --> Config Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:11:32 --> URI Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Router Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Output Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Security Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Input Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:11:32 --> Language Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:11:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:11:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Session Class Initialized
+DEBUG - 2017-05-31 18:11:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:11:33 --> Session routines successfully run
+DEBUG - 2017-05-31 18:11:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Final output sent to browser
+DEBUG - 2017-05-31 18:11:33 --> Total execution time: 0.4905
+DEBUG - 2017-05-31 18:11:33 --> Config Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:11:33 --> URI Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Router Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Output Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Security Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Input Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:11:33 --> Language Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:11:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:11:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Session Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:11:33 --> Session routines successfully run
+DEBUG - 2017-05-31 18:11:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:11:34 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:11:34 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:11:34 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:11:34 --> Final output sent to browser
+DEBUG - 2017-05-31 18:11:34 --> Total execution time: 0.3983
+DEBUG - 2017-05-31 18:12:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Router Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Output Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Security Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Input Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:12:07 --> Language Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:12:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:12:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Session Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:12:07 --> Session routines successfully run
+DEBUG - 2017-05-31 18:12:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:07 --> Final output sent to browser
+DEBUG - 2017-05-31 18:12:07 --> Total execution time: 0.3675
+DEBUG - 2017-05-31 18:12:16 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:16 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:16 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:16 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:16 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Router Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Output Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Security Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Input Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:12:17 --> Language Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:12:17 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:12:17 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Session Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:12:17 --> Session routines successfully run
+DEBUG - 2017-05-31 18:12:17 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:12:17 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:12:17 --> File loaded: application/views/Courses.php
+DEBUG - 2017-05-31 18:12:17 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:12:17 --> Final output sent to browser
+DEBUG - 2017-05-31 18:12:17 --> Total execution time: 0.4405
+DEBUG - 2017-05-31 18:12:17 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:17 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:17 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:12:17 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:17 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:17 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:18 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:12:47 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:47 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Router Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Output Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Security Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Input Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:12:47 --> Language Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:12:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:12:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Session Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:12:47 --> Session routines successfully run
+DEBUG - 2017-05-31 18:12:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:47 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:12:47 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:12:47 --> File loaded: application/views/Courses.php
+DEBUG - 2017-05-31 18:12:47 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:12:47 --> Final output sent to browser
+DEBUG - 2017-05-31 18:12:47 --> Total execution time: 0.4957
+DEBUG - 2017-05-31 18:12:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:12:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:48 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:48 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:12:54 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:54 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Router Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Output Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Security Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Input Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:12:54 --> Language Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:12:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:12:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Session Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:12:54 --> Session routines successfully run
+DEBUG - 2017-05-31 18:12:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:12:54 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:12:54 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:12:54 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:12:54 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:12:54 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:12:54 --> Final output sent to browser
+DEBUG - 2017-05-31 18:12:54 --> Total execution time: 0.4010
+DEBUG - 2017-05-31 18:12:55 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:55 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:12:55 --> Config Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:12:55 --> URI Class Initialized
+DEBUG - 2017-05-31 18:12:55 --> Router Class Initialized
+ERROR - 2017-05-31 18:12:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:13:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:13:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Router Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Output Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Security Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Input Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:13:03 --> Language Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:13:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:13:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Session Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:13:03 --> Session routines successfully run
+DEBUG - 2017-05-31 18:13:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:03 --> Final output sent to browser
+DEBUG - 2017-05-31 18:13:03 --> Total execution time: 0.4197
+DEBUG - 2017-05-31 18:13:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:13:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Router Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Output Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Security Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Input Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:13:10 --> Language Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:13:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:13:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Session Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:13:10 --> Session routines successfully run
+DEBUG - 2017-05-31 18:13:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:10 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:13:10 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:13:10 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:13:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:13:11 --> Total execution time: 0.4826
+DEBUG - 2017-05-31 18:13:17 --> Config Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:13:17 --> URI Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Router Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Output Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Security Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Input Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:13:17 --> Language Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:13:17 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:13:17 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Session Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:13:17 --> Session routines successfully run
+DEBUG - 2017-05-31 18:13:17 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Model Class Initialized
+DEBUG - 2017-05-31 18:13:17 --> Final output sent to browser
+DEBUG - 2017-05-31 18:13:17 --> Total execution time: 0.3558
+DEBUG - 2017-05-31 18:14:24 --> Config Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:14:24 --> URI Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Router Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Output Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Security Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Input Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:14:24 --> Language Class Initialized
+DEBUG - 2017-05-31 18:14:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:14:25 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:14:25 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Session Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:14:25 --> Session routines successfully run
+DEBUG - 2017-05-31 18:14:25 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:14:25 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:14:25 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:14:25 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:14:25 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:14:25 --> Final output sent to browser
+DEBUG - 2017-05-31 18:14:25 --> Total execution time: 0.6197
+DEBUG - 2017-05-31 18:14:25 --> Config Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:14:25 --> URI Class Initialized
+DEBUG - 2017-05-31 18:14:25 --> Router Class Initialized
+ERROR - 2017-05-31 18:14:25 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:14:26 --> Config Class Initialized
+DEBUG - 2017-05-31 18:14:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:14:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:14:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:14:26 --> URI Class Initialized
+DEBUG - 2017-05-31 18:14:26 --> Router Class Initialized
+ERROR - 2017-05-31 18:14:26 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:15:26 --> Config Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:15:26 --> URI Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Router Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Output Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Security Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Input Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:15:26 --> Language Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:15:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:15:26 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Session Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:15:26 --> Session routines successfully run
+DEBUG - 2017-05-31 18:15:26 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:15:27 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:15:27 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:15:27 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:15:27 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:15:27 --> Final output sent to browser
+DEBUG - 2017-05-31 18:15:27 --> Total execution time: 0.6467
+DEBUG - 2017-05-31 18:15:27 --> Config Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:15:27 --> URI Class Initialized
+DEBUG - 2017-05-31 18:15:27 --> Router Class Initialized
+ERROR - 2017-05-31 18:15:27 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:15:28 --> Config Class Initialized
+DEBUG - 2017-05-31 18:15:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:15:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:15:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:15:28 --> URI Class Initialized
+DEBUG - 2017-05-31 18:15:28 --> Router Class Initialized
+ERROR - 2017-05-31 18:15:28 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:15:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:15:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Router Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Output Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Security Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Input Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:15:59 --> Language Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:15:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:15:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:15:59 --> Session routines successfully run
+DEBUG - 2017-05-31 18:15:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:15:59 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:15:59 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:15:59 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:15:59 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:15:59 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:15:59 --> Final output sent to browser
+DEBUG - 2017-05-31 18:15:59 --> Total execution time: 0.4611
+DEBUG - 2017-05-31 18:16:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:16:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Router Class Initialized
+ERROR - 2017-05-31 18:16:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:16:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:16:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:16:00 --> Router Class Initialized
+ERROR - 2017-05-31 18:16:00 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:16:02 --> Config Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:16:02 --> URI Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Router Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Output Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Security Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Input Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:16:02 --> Language Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:16:02 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:16:02 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Session Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:16:02 --> Session routines successfully run
+DEBUG - 2017-05-31 18:16:02 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:02 --> Final output sent to browser
+DEBUG - 2017-05-31 18:16:02 --> Total execution time: 0.4346
+DEBUG - 2017-05-31 18:16:07 --> Config Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:16:07 --> URI Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Router Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Output Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Security Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Input Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:16:07 --> Language Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:16:07 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:16:07 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Session Class Initialized
+DEBUG - 2017-05-31 18:16:07 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:16:07 --> Session routines successfully run
+DEBUG - 2017-05-31 18:16:07 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Model Class Initialized
+DEBUG - 2017-05-31 18:16:08 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:16:08 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:16:08 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:16:08 --> Final output sent to browser
+DEBUG - 2017-05-31 18:16:08 --> Total execution time: 0.4763
+DEBUG - 2017-05-31 18:35:51 --> Config Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:35:51 --> URI Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Router Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Output Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Security Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Input Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:35:51 --> Language Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:35:51 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:35:51 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Session Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:35:51 --> Session routines successfully run
+DEBUG - 2017-05-31 18:35:51 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:51 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:35:51 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:35:51 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:35:51 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:35:52 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:35:52 --> Final output sent to browser
+DEBUG - 2017-05-31 18:35:52 --> Total execution time: 0.5808
+DEBUG - 2017-05-31 18:35:52 --> Config Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:35:52 --> URI Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Router Class Initialized
+ERROR - 2017-05-31 18:35:52 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:35:52 --> Config Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:35:52 --> URI Class Initialized
+DEBUG - 2017-05-31 18:35:52 --> Router Class Initialized
+ERROR - 2017-05-31 18:35:52 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:35:56 --> Config Class Initialized
+DEBUG - 2017-05-31 18:35:56 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:35:56 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:35:56 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:35:56 --> URI Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Router Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Output Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Security Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Input Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:35:57 --> Language Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:35:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:35:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Session Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:35:57 --> Session routines successfully run
+DEBUG - 2017-05-31 18:35:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:35:57 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:35:57 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:35:57 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:35:57 --> Final output sent to browser
+DEBUG - 2017-05-31 18:35:57 --> Total execution time: 0.4497
+DEBUG - 2017-05-31 18:36:44 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:44 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> Router Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> Output Class Initialized
+DEBUG - 2017-05-31 18:36:44 --> Security Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Input Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:36:45 --> Language Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:36:45 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:36:45 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Session Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:36:45 --> Session routines successfully run
+DEBUG - 2017-05-31 18:36:45 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:45 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:36:45 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:36:45 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:36:45 --> File loaded: application/views/report/aggregate/main.php
+DEBUG - 2017-05-31 18:36:45 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:36:45 --> Final output sent to browser
+DEBUG - 2017-05-31 18:36:45 --> Total execution time: 0.6391
+DEBUG - 2017-05-31 18:36:46 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:46 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Router Class Initialized
+ERROR - 2017-05-31 18:36:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:36:46 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:46 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:46 --> Router Class Initialized
+ERROR - 2017-05-31 18:36:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:36:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Router Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Output Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Security Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Input Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:36:48 --> Language Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:36:48 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:36:48 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Session Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:36:48 --> Session routines successfully run
+DEBUG - 2017-05-31 18:36:48 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:48 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:36:48 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:36:48 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:36:48 --> Final output sent to browser
+DEBUG - 2017-05-31 18:36:48 --> Total execution time: 0.4940
+DEBUG - 2017-05-31 18:36:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:36:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:36:54 --> Language Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:36:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:36:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Session Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:36:54 --> Session routines successfully run
+DEBUG - 2017-05-31 18:36:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:36:54 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:36:54 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:36:54 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:36:54 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:36:54 --> Final output sent to browser
+DEBUG - 2017-05-31 18:36:54 --> Total execution time: 0.5384
+DEBUG - 2017-05-31 18:36:54 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:54 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:54 --> Router Class Initialized
+ERROR - 2017-05-31 18:36:54 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:36:55 --> Config Class Initialized
+DEBUG - 2017-05-31 18:36:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:36:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:36:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:36:55 --> URI Class Initialized
+DEBUG - 2017-05-31 18:36:55 --> Router Class Initialized
+ERROR - 2017-05-31 18:36:55 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:37:00 --> Config Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:37:00 --> URI Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Router Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Output Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Security Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Input Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:37:00 --> Language Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:37:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:37:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Session Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:37:00 --> Session routines successfully run
+DEBUG - 2017-05-31 18:37:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:01 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:37:01 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:37:01 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:37:01 --> Final output sent to browser
+DEBUG - 2017-05-31 18:37:01 --> Total execution time: 0.4904
+DEBUG - 2017-05-31 18:37:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:37:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Router Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Output Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Security Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Input Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:37:10 --> Language Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:37:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:37:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Session Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:37:10 --> Session routines successfully run
+DEBUG - 2017-05-31 18:37:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:10 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:37:10 --> File loaded: application/views/report/aggregate/_list.php
+DEBUG - 2017-05-31 18:37:10 --> File loaded: application/views/report/aggregate/ajax.php
+DEBUG - 2017-05-31 18:37:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:37:10 --> Total execution time: 0.4363
+DEBUG - 2017-05-31 18:37:43 --> Config Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:37:43 --> URI Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Router Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Output Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Security Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Input Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:37:43 --> Language Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:37:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:37:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Session Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:37:43 --> Session routines successfully run
+DEBUG - 2017-05-31 18:37:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:37:43 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:37:43 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:37:43 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:37:44 --> Final output sent to browser
+DEBUG - 2017-05-31 18:37:44 --> Total execution time: 0.7507
+DEBUG - 2017-05-31 18:45:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:45:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:45:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:45:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:45:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:45:59 --> Router Class Initialized
+DEBUG - 2017-05-31 18:45:59 --> Output Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Security Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Input Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:46:00 --> Language Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:46:00 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:46:00 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Session Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:46:00 --> Session routines successfully run
+DEBUG - 2017-05-31 18:46:00 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:00 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:46:00 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:46:38 --> Config Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:46:38 --> URI Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Router Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Output Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Security Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Input Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:46:38 --> Language Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:46:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:46:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:46:39 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Session Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:46:39 --> Session routines successfully run
+DEBUG - 2017-05-31 18:46:39 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Model Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:46:39 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:46:39 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:46:39 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:46:39 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:46:39 --> Final output sent to browser
+DEBUG - 2017-05-31 18:46:39 --> Total execution time: 0.6125
+DEBUG - 2017-05-31 18:46:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:46:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:46:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:46:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:46:40 --> Config Class Initialized
+DEBUG - 2017-05-31 18:46:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:46:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:46:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:46:40 --> URI Class Initialized
+DEBUG - 2017-05-31 18:46:40 --> Router Class Initialized
+ERROR - 2017-05-31 18:46:40 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:47:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:47:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:47:53 --> Language Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:47:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:47:54 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:47:54 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Session Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:47:54 --> Session routines successfully run
+DEBUG - 2017-05-31 18:47:54 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:47:54 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:47:54 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:48:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Router Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Output Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Security Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Input Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:48:03 --> Language Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:48:03 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:48:03 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Session Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:48:03 --> Session routines successfully run
+DEBUG - 2017-05-31 18:48:03 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:48:03 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:48:03 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:48:03 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:48:03 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:48:03 --> Final output sent to browser
+DEBUG - 2017-05-31 18:48:03 --> Total execution time: 0.4024
+DEBUG - 2017-05-31 18:48:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Router Class Initialized
+ERROR - 2017-05-31 18:48:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:48:03 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:03 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:03 --> Router Class Initialized
+ERROR - 2017-05-31 18:48:03 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:48:45 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:45 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Router Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Output Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Security Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Input Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:48:45 --> Language Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:48:45 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:48:45 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Session Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:48:45 --> Session routines successfully run
+DEBUG - 2017-05-31 18:48:45 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Model Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:48:45 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:48:45 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:48:45 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:48:45 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:48:45 --> Final output sent to browser
+DEBUG - 2017-05-31 18:48:45 --> Total execution time: 0.5713
+DEBUG - 2017-05-31 18:48:45 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:45 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:45 --> Router Class Initialized
+ERROR - 2017-05-31 18:48:45 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:48:46 --> Config Class Initialized
+DEBUG - 2017-05-31 18:48:46 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:48:46 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:48:46 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:48:46 --> URI Class Initialized
+DEBUG - 2017-05-31 18:48:46 --> Router Class Initialized
+ERROR - 2017-05-31 18:48:46 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:49:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:49:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:49:53 --> Language Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:49:53 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:49:53 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Session Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:49:53 --> Session routines successfully run
+DEBUG - 2017-05-31 18:49:53 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:49:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Model Class Initialized
+DEBUG - 2017-05-31 18:49:54 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:49:54 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:49:54 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:49:54 --> Final output sent to browser
+DEBUG - 2017-05-31 18:49:54 --> Total execution time: 0.7533
+DEBUG - 2017-05-31 18:50:32 --> Config Class Initialized
+DEBUG - 2017-05-31 18:50:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:50:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:50:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:50:32 --> URI Class Initialized
+DEBUG - 2017-05-31 18:50:32 --> Router Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Output Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Security Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Input Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:50:33 --> Language Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:50:33 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:50:33 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Session Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:50:33 --> Session routines successfully run
+DEBUG - 2017-05-31 18:50:33 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:33 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:50:33 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:50:33 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:50:33 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:50:33 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:50:33 --> Final output sent to browser
+DEBUG - 2017-05-31 18:50:33 --> Total execution time: 0.7073
+DEBUG - 2017-05-31 18:50:34 --> Config Class Initialized
+DEBUG - 2017-05-31 18:50:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:50:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:50:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:50:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:50:35 --> Router Class Initialized
+ERROR - 2017-05-31 18:50:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:50:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:50:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:50:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:50:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:50:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:50:35 --> Router Class Initialized
+ERROR - 2017-05-31 18:50:35 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:50:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:50:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Router Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Output Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Security Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Input Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:50:59 --> Language Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:50:59 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:50:59 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Session Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:50:59 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:50:59 --> Session routines successfully run
+DEBUG - 2017-05-31 18:50:59 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:50:59 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:50:59 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:50:59 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:50:59 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:51:00 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:51:00 --> Final output sent to browser
+DEBUG - 2017-05-31 18:51:00 --> Total execution time: 0.6155
+DEBUG - 2017-05-31 18:51:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:51:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Router Class Initialized
+ERROR - 2017-05-31 18:51:01 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:51:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:51:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:51:01 --> Router Class Initialized
+ERROR - 2017-05-31 18:51:01 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:53:37 --> Config Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:53:37 --> URI Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Router Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Output Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Security Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Input Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:53:37 --> Language Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:53:37 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:53:37 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Session Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:53:37 --> Session routines successfully run
+DEBUG - 2017-05-31 18:53:37 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:38 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:53:38 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:53:38 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:53:38 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:53:38 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:53:38 --> Final output sent to browser
+DEBUG - 2017-05-31 18:53:38 --> Total execution time: 0.7484
+DEBUG - 2017-05-31 18:53:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:53:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:53:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:53:39 --> Config Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:53:39 --> URI Class Initialized
+DEBUG - 2017-05-31 18:53:39 --> Router Class Initialized
+ERROR - 2017-05-31 18:53:39 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:53:43 --> Config Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:53:43 --> URI Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Router Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Output Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Security Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Input Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:53:43 --> Language Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:53:43 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:53:43 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Session Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:53:43 --> Session routines successfully run
+DEBUG - 2017-05-31 18:53:43 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:43 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:44 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:53:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:53:44 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Config Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:54:55 --> URI Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Router Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Output Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Security Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Input Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:54:55 --> Language Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:54:55 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:54:55 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Session Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:54:55 --> Session routines successfully run
+DEBUG - 2017-05-31 18:54:55 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> Model Class Initialized
+DEBUG - 2017-05-31 18:54:55 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:54:55 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:54:55 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:54:55 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:54:55 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:54:55 --> Final output sent to browser
+DEBUG - 2017-05-31 18:54:55 --> Total execution time: 0.6047
+DEBUG - 2017-05-31 18:54:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:54:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Router Class Initialized
+ERROR - 2017-05-31 18:54:57 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:54:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:54:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:54:57 --> Router Class Initialized
+ERROR - 2017-05-31 18:54:57 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:55:01 --> Config Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:55:01 --> URI Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Router Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Output Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Security Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Input Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:55:01 --> Language Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:55:01 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:55:01 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Session Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:55:01 --> Session routines successfully run
+DEBUG - 2017-05-31 18:55:01 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Model Class Initialized
+DEBUG - 2017-05-31 18:55:01 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:55:01 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:55:01 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:55:01 --> Final output sent to browser
+DEBUG - 2017-05-31 18:55:01 --> Total execution time: 0.5294
+DEBUG - 2017-05-31 18:56:47 --> Config Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:56:47 --> URI Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Router Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Output Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Security Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Input Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:56:47 --> Language Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:56:47 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:56:47 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Session Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:56:47 --> Session routines successfully run
+DEBUG - 2017-05-31 18:56:47 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:47 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:56:47 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:56:47 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:56:47 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:56:47 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:56:47 --> Final output sent to browser
+DEBUG - 2017-05-31 18:56:47 --> Total execution time: 0.5467
+DEBUG - 2017-05-31 18:56:49 --> Config Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:56:49 --> URI Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Router Class Initialized
+ERROR - 2017-05-31 18:56:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:56:49 --> Config Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:56:49 --> URI Class Initialized
+DEBUG - 2017-05-31 18:56:49 --> Router Class Initialized
+ERROR - 2017-05-31 18:56:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:56:53 --> Config Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:56:53 --> URI Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Router Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Output Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Security Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Input Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:56:53 --> Language Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:56:53 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:56:53 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Session Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:56:53 --> Session garbage collection performed.
+DEBUG - 2017-05-31 18:56:53 --> Session routines successfully run
+DEBUG - 2017-05-31 18:56:53 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:53 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:56:53 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:56:54 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:56:54 --> Final output sent to browser
+DEBUG - 2017-05-31 18:56:54 --> Total execution time: 0.5749
+DEBUG - 2017-05-31 18:56:58 --> Config Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:56:58 --> URI Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Router Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Output Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Security Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Input Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:56:58 --> Language Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:56:58 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:56:58 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Session Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:56:58 --> Session routines successfully run
+DEBUG - 2017-05-31 18:56:58 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:58 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Model Class Initialized
+DEBUG - 2017-05-31 18:56:59 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:56:59 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:56:59 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:56:59 --> Final output sent to browser
+DEBUG - 2017-05-31 18:56:59 --> Total execution time: 0.6239
+DEBUG - 2017-05-31 18:57:48 --> Config Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:57:48 --> URI Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Router Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Output Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Security Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Input Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:57:48 --> Language Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:57:48 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:57:48 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Session Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:57:48 --> Session routines successfully run
+DEBUG - 2017-05-31 18:57:48 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> Model Class Initialized
+DEBUG - 2017-05-31 18:57:48 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:57:48 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:57:48 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:57:48 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:57:48 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:57:48 --> Final output sent to browser
+DEBUG - 2017-05-31 18:57:48 --> Total execution time: 0.5765
+DEBUG - 2017-05-31 18:57:49 --> Config Class Initialized
+DEBUG - 2017-05-31 18:57:49 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:57:49 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:57:49 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:57:49 --> URI Class Initialized
+DEBUG - 2017-05-31 18:57:49 --> Router Class Initialized
+ERROR - 2017-05-31 18:57:49 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:57:50 --> Config Class Initialized
+DEBUG - 2017-05-31 18:57:50 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:57:50 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:57:50 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:57:50 --> URI Class Initialized
+DEBUG - 2017-05-31 18:57:50 --> Router Class Initialized
+ERROR - 2017-05-31 18:57:50 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:58:57 --> Config Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:58:57 --> URI Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Router Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Output Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Security Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Input Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:58:57 --> Language Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:58:57 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:58:57 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Session Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:58:57 --> Session routines successfully run
+DEBUG - 2017-05-31 18:58:57 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> Model Class Initialized
+DEBUG - 2017-05-31 18:58:57 --> File loaded: application/views/includes/Header.php
+DEBUG - 2017-05-31 18:58:57 --> File loaded: application/views/includes/Navigation.php
+DEBUG - 2017-05-31 18:58:57 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:58:57 --> File loaded: application/views/event/list_pagination/main.php
+DEBUG - 2017-05-31 18:58:57 --> File loaded: application/views/includes/Footer.php
+DEBUG - 2017-05-31 18:58:57 --> Final output sent to browser
+DEBUG - 2017-05-31 18:58:57 --> Total execution time: 0.5825
+DEBUG - 2017-05-31 18:58:58 --> Config Class Initialized
+DEBUG - 2017-05-31 18:58:58 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:58:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> Router Class Initialized
+ERROR - 2017-05-31 18:58:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:58:59 --> Config Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:58:59 --> URI Class Initialized
+DEBUG - 2017-05-31 18:58:59 --> Router Class Initialized
+ERROR - 2017-05-31 18:58:59 --> 404 Page Not Found --> font
+DEBUG - 2017-05-31 18:59:10 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:10 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:10 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:10 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:10 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:10 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:10 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:10 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:10 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:10 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:10 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:10 --> Total execution time: 0.4541
+DEBUG - 2017-05-31 18:59:15 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:15 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:15 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:15 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:15 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:15 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:15 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:15 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:16 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:16 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:16 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:16 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:16 --> Total execution time: 0.4442
+DEBUG - 2017-05-31 18:59:21 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:21 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:21 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:21 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:21 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:21 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:21 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:21 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:21 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:21 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:21 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:21 --> Total execution time: 0.4866
+DEBUG - 2017-05-31 18:59:23 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:23 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:23 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:23 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:23 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:23 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:23 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:23 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:23 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:23 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:23 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:23 --> Total execution time: 0.4389
+DEBUG - 2017-05-31 18:59:24 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:24 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:24 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:24 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:24 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:24 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:24 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:24 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:25 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:25 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:25 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:25 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:25 --> Total execution time: 0.4468
+DEBUG - 2017-05-31 18:59:26 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:26 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:26 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:26 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:26 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:26 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:26 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:26 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:26 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:26 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:26 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:26 --> Total execution time: 0.4684
+DEBUG - 2017-05-31 18:59:27 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:27 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:27 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:27 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:27 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:27 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:27 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:27 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:27 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:27 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:27 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:27 --> Total execution time: 0.5279
+DEBUG - 2017-05-31 18:59:28 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:28 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:28 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:28 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:28 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:28 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:28 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:28 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:28 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:28 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:28 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:28 --> Total execution time: 0.4386
+DEBUG - 2017-05-31 18:59:29 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:29 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:29 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:29 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:29 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:29 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:29 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:29 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:29 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:29 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:29 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:29 --> Total execution time: 0.4799
+DEBUG - 2017-05-31 18:59:30 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:30 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:30 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:30 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:30 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:30 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:30 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:30 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:31 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:31 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:31 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:31 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:31 --> Total execution time: 0.4527
+DEBUG - 2017-05-31 18:59:32 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:32 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:32 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:32 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:32 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:32 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:32 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:32 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:32 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:32 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:32 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:32 --> Total execution time: 0.4504
+DEBUG - 2017-05-31 18:59:34 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:34 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:34 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:34 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:34 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:34 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:34 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:34 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:34 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:34 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:34 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:34 --> Total execution time: 0.5085
+DEBUG - 2017-05-31 18:59:35 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:35 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:35 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:35 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:35 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:35 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:35 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:35 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:36 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:36 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:36 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:36 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:36 --> Total execution time: 0.6646
+DEBUG - 2017-05-31 18:59:37 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:37 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:37 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:37 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:37 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:37 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:37 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:37 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:37 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:37 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:37 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:37 --> Total execution time: 0.5137
+DEBUG - 2017-05-31 18:59:38 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:38 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:38 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:38 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:38 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:38 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:38 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:38 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:39 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:39 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:39 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:39 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:39 --> Total execution time: 0.4449
+DEBUG - 2017-05-31 18:59:40 --> Config Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Hooks Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Utf8 Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-31 18:59:40 --> URI Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Router Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Output Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Security Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Input Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2017-05-31 18:59:40 --> Language Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Loader Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Helper loaded: url_helper
+DEBUG - 2017-05-31 18:59:40 --> Database Driver Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Helper loaded: form_helper
+DEBUG - 2017-05-31 18:59:40 --> Form Validation Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Session Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Helper loaded: string_helper
+DEBUG - 2017-05-31 18:59:40 --> Session routines successfully run
+DEBUG - 2017-05-31 18:59:40 --> Controller Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> User Agent Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:40 --> Model Class Initialized
+DEBUG - 2017-05-31 18:59:41 --> Helper loaded: english_dates_helper
+DEBUG - 2017-05-31 18:59:41 --> File loaded: application/views/event/list_pagination/_list.php
+DEBUG - 2017-05-31 18:59:41 --> File loaded: application/views/event/list_pagination/ajax.php
+DEBUG - 2017-05-31 18:59:41 --> Final output sent to browser
+DEBUG - 2017-05-31 18:59:41 --> Total execution time: 0.4614
