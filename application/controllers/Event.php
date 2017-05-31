@@ -2,7 +2,7 @@
 
 class Event extends CI_Controller
 {
-	public $perPage=10;
+	public $perPage=30;
 	public function __construct()
 	{
 		parent::__construct();
