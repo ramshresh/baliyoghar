@@ -15,6 +15,7 @@ if (!$this->session->userdata('username')) {
         <meta name="author" content="">
 
         <script type="text/javascript" src="../js/jquery-1.9.1.js"></script>
+        <script type="text/javascript" src="../js/jquery.serialize-object.min.js"></script>
         <script type="text/javascript" src="../js/modernizr.custom.28468.js"></script>
         <script type="text/javascript" src="../bootstrap/js/bootstrap.js"></script>
 

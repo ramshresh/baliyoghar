@@ -157,28 +157,22 @@
 </div>
 
 <script>
+  window.searchFilter; //function used by Ajax_pagination library
 
   $('#searchForm').on('submit', function (e) {
-    e.preventDefault();
-    searchFilter(0);
-  });
-  function searchFilter(page_num) {
-    page_num = (page_num ) ? page_num : 0;
-    var keywords = $('#keywords').val();
-    var sortBy = $('#sortBy').val();
-    var formData = $('#searchForm').serialize();
-    var data = formData + "&page=" + page_num;
-    $.ajax({
-      type: 'POST',
-      url: '<?php echo base_url(); ?>Report/ajaxAggregateData/' + page_num,
-      data: data,
-      beforeSend: function () {
-        $('.loading').show();
-      },
-      success: function (html) {
-        $('#eventsList').html(html);
-        $('.loading').fadeOut("slow");
+      e.preventDefault();
+      //defined in js/scripts.js --> Ajax_pagination
+      var ajax_pagination = new Ajax_pagination({
+        url_route: '<?php echo base_url(); ?>' + 'Report/ajaxAggregateData',
+        form_selector: '#searchForm',
+        contentDiv_selector: '#eventsList',
+        loading_selector: '.loading',
+        keywords_selector: '#keywords',
+      });
+      window.searchFilter =function(page_num) {
+        ajax_pagination.searchFilter(page_num);
       }
+
+      searchFilter(0);
     });
-  }
 </script>

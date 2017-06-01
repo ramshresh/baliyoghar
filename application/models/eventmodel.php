@@ -667,9 +667,10 @@ class eventmodel extends CI_Model
 
     function getCoverageLevelName($coverage_level_id)
     {
-
-
-        return $this->db->query("select coverage_level from coverage_level where coverage_level_id=" . $coverage_level_id)->row()->coverage_level;
+        $query=$this->db->query(
+            "select coverage_level from coverage_level where coverage_level_id=" . $coverage_level_id
+        );
+        return ($query->num_rows()>0)?$query->row()->coverage_level:$coverage_level_id;
     }
 
     /*
@@ -1049,6 +1050,7 @@ class eventmodel extends CI_Model
         $event_district =(isset($params['event_district']))?$params['event_district']:'';
         $event_vdc =(isset($params['event_vdc']))?$params['event_vdc']:'';
         $event_ward_no =(isset($params['event_ward_no']))?$params['event_ward_no']:'';
+        $keywords =(isset($params['keywords']))?$params['keywords']:'';
         $event_course_cat_id =(isset($params['event_course_cat_id']))?$params['event_course_cat_id']:'';
         //$event_course_cat_id =;//(isset($params['event_course_cat_id']))?$params['event_course_cat_id']:'';
 
@@ -1069,34 +1071,60 @@ class eventmodel extends CI_Model
         }
         */
 
-        $wh_expr_arr = array();
+        //||*********************Keywords Joined with OR
+        $wh_keywords_expr_arr = array();
+        if(isset($keywords) && $keywords!='' && $keywords!=null){
+            array_push($wh_keywords_expr_arr,"event_district LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_vdc LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_ward_no LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_address LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_venue LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_code LIKE '%".$keywords."%'" );
+        }
+        $wh_keywords_expr_str = implode(' OR ',$wh_keywords_expr_arr );
+        $wh_keywords_expr_str=(''!=$wh_keywords_expr_str)?'('.$wh_keywords_expr_str.')':$wh_keywords_expr_str;
+        //||END*********************Keywords
+
+        //||*********************Fields Joined with AND
+        $wh_params_expr_arr = array();
         if(isset($deleted) && $deleted!='' && $deleted!=null){
-            array_push($wh_expr_arr,"event_deleted = '.".$deleted."'" );
-            array_push($wh_expr_arr,"person_deleted = '.".$deleted."'" );
-            array_push($wh_expr_arr,"participation_deleted = '.".$deleted."'" );
+            array_push($wh_params_expr_arr,"event_deleted = '".$deleted."'" );
+            array_push($wh_params_expr_arr,"person_deleted = '".$deleted."'" );
+            array_push($wh_params_expr_arr,"participation_deleted = '".$deleted."'" );
         }
 
         if(isset($event_month) && $event_month!='' && $event_month!=null){
-            array_push($wh_expr_arr,"event_sd_month = ".$event_month );
+            array_push($wh_params_expr_arr,"event_sd_month = ".$event_month );
         }
         if(isset($event_year) && $event_year!='' && $event_year!=null){
-            array_push($wh_expr_arr,"event_sd_year = ".$event_year );
+            array_push($wh_params_expr_arr,"event_sd_year = ".$event_year );
         }
         if(isset($event_course_cat_id) && $event_course_cat_id!='' && $event_course_cat_id!=null){
-            array_push($wh_expr_arr,"event_course_cat_id = ".$event_course_cat_id );
+            array_push($wh_params_expr_arr,"event_course_cat_id = ".$event_course_cat_id );
         }
 
         if(isset($event_district) && $event_district!='' && $event_district!=null){
-            array_push($wh_expr_arr,"event_district = '".$event_district."'" );
+            array_push($wh_params_expr_arr,"event_district = '".$event_district."'" );
         }
         if(isset($event_vdc) && $event_vdc!='' && $event_vdc!=null){
-            array_push($wh_expr_arr,"event_vdc = '".$event_vdc."'" );
+            array_push($wh_params_expr_arr,"event_vdc = '".$event_vdc."'" );
         }if(isset($event_ward_no) && $event_ward_no!='' && $event_ward_no!=null){
-        array_push($wh_expr_arr,"event_ward_no = '".$event_ward_no."'" );
+        array_push($wh_params_expr_arr,"event_ward_no = '".$event_ward_no."'" );
     }
-        $wh_expr_str = implode(' AND ',$wh_expr_arr );
-        $wh_clause_str = ($wh_expr_str!='')?'WHERE '.$wh_expr_str:'';
 
+        $wh_params_expr_str = implode(' AND ',$wh_params_expr_arr );
+        $wh_params_expr_str=(''!=$wh_params_expr_str)?'('.$wh_params_expr_str.')':$wh_params_expr_str;
+        //||END *********************Fields
+
+        $wh_clause_expr_arr = array();
+        if($wh_params_expr_str!=''){
+            array_push($wh_clause_expr_arr,$wh_params_expr_str);
+        }
+        if($wh_keywords_expr_str!=''){
+            array_push($wh_clause_expr_arr,$wh_keywords_expr_str);
+        }
+        $wh_clause_expr_str = implode(' AND ',$wh_clause_expr_arr);
+        $wh_clause_str = ($wh_clause_expr_str!='')?'WHERE '.$wh_clause_expr_str:'';
 
         $select_str = <<<SQL
 		SELECT 
@@ -1139,6 +1167,7 @@ t.deleted as participation_deleted, t.person_id as participation_person_id, t.pe
 FROM events  e LEFT JOIN participated_in t ON e.event_id = t.event_id) AS et LEFT JOIN person p ON p.person_id  = et.participation_person_id
 ) as agg 
 SQL;
+
 
         $sql =$select_str.' '.$wh_clause_str.' '.' GROUP BY event_event_id '.' '.$order_clause_str.' '.$limit_str;
 

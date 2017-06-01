@@ -1365,6 +1365,51 @@ function getPopUpTable(location, level_id) {
   return string;
 }
 
+//||------------Ajax_pagination
+(function ($){
+// Define a class like this
+this.Ajax_pagination=function (opts) {
+  // Add object properties like this
+  this.opts = $.extend({
+    //url_route:'Event/event_list_pagination_ajax',
+    //form_selector:'#searchForm',
+    //contentDiv_selector:'#eventsList',
+    //loading_selector:'.loading'
+    //keywords_selector:'#keywords'
+  }, opts);
+  this.url_route = opts.url_route;
+  this.form_selector = opts.form_selector;
+  this.contentDiv_selector = opts.contentDiv_selector;
+  this.loading_selector = opts.loading_selector;
+  this.keywords_selector = opts.keywords_selector;
+}
+// Add methods like this.  All Person objects will be able to invoke this
+this.Ajax_pagination.prototype.searchFilter = function (page_num) {
+  var url_route = this.url_route;
+  var form_selector = this.form_selector;
+  var contentDivSelector = this.contentDiv_selector;
+  var loading_selector = this.loading_selector;
+  var keywords_selector = this.keywords_selector;
+  page_num = (page_num ) ? page_num : 0;
+  var keywords = $(keywords_selector).val();
+  var sortBy = $('#sortBy').val();
+  var formData = $(form_selector).serialize();
+  var data = formData + "&page=" + page_num;
+  $.ajax({
+    type: 'POST',
+    url: url_route + '/' + page_num,
+    data: data,
+    beforeSend: function () {
+      $(loading_selector).show();
+    },
+    success: function (html) {
+      $(contentDivSelector).html(html);
+      $(loading_selector).fadeOut("slow");
+    }
+  });
+};
+})(window.$);
+//||END------------Ajax_pagination
 
 $(document).ready(function () {
 
@@ -1443,7 +1488,6 @@ $(document).ready(function () {
 //}}} [1]
 
 
-
   //||--------Event Year  and Event Month -------||//
   (function ($) {
     $(document.body).on('change', '#event_year', function () {
@@ -1451,16 +1495,16 @@ $(document).ready(function () {
 
       setEventMonthSelects(event_year);
 
-      function setEventMonthSelects(event_year){
-        if(typeof event_year !='undefined' && event_year!=''){
+      function setEventMonthSelects(event_year) {
+        if (typeof event_year != 'undefined' && event_year != '') {
           $('#mandatory_msg-event_year_month').hide();
           $('#span_event_month').show();
           $('#event_month').removeAttr('disabled');
 
-        }else{
+        } else {
           $('#mandatory_msg-event_year_month').show();
           $('#span_event_month').hide();
-          $('#event_month').attr('disabled','disabled');
+          $('#event_month').attr('disabled', 'disabled');
         }
       }
 
@@ -1497,7 +1541,7 @@ $(document).ready(function () {
         );
       }
       //Initialize old vdc value for editing
-      if (typeof oldDistrict != 'undefined'  && typeof oldVdc != 'undefined') {
+      if (typeof oldDistrict != 'undefined' && typeof oldVdc != 'undefined') {
         setVdcSelectList(oldDistrict, oldVdc);
       }
       //Initialize old ward_no value for editing
@@ -1523,10 +1567,10 @@ $(document).ready(function () {
           })
         };
 
-		if(district!='' ){
-			$("#loading_image-district").show();
-		}
-        
+        if (district != '') {
+          $("#loading_image-district").show();
+        }
+
         //var district = $.trim($('#district>option:selected').text());
         if (district == '') {
           $('#mandatory_msg-district').show();
@@ -1543,7 +1587,7 @@ $(document).ready(function () {
           if (Object.size(filteredVdcs) > 0) {
             var string = '<select name="vdc" id="vdc">';
             var defaultOption = '<option value="">' + '----select----' + '</option>';
-            var options='';
+            var options = '';
             for (i  in filteredVdcs) {
               var value = filteredVdcs[i]['label'];
               var label = filteredVdcs[i]['label'];
@@ -1628,12 +1672,7 @@ $(document).ready(function () {
     }
   })(window.$, window.districtAndVdc);
 
-
-
-
-
-
-
-
 });
+
+
 

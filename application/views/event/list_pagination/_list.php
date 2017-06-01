@@ -21,8 +21,8 @@
                 <strong>Showing Results for :</strong>
                 <br>
                 <strong>Year :</strong> <?= (isset($applied_filters['event_year']) && $applied_filters['event_year'] != '') ? $applied_filters['event_year'] : 'ALL'; ?>
-                <strong>Month :</strong> <?= (isset($applied_filters['event_month']) && $applied_filters['event_month'] != '') ? $applied_filters['event_month'] : 'ALL'; ?><br/>
-                <strong>Event Type :</strong> <?= (isset($applied_filters['event_type']) && $applied_filters['event_type'] != '') ? $applied_filters['event_type'] : 'ALL'; ?>
+                <strong>Month :</strong> <?= (isset($applied_filters['event_month_name']) && $applied_filters['event_month'] != '') ? $applied_filters['event_month'] : 'ALL'; ?><br/>
+                <strong>Event Type :</strong> <?= (isset($applied_filters['event_type_name']) && $applied_filters['event_type'] != '') ? $applied_filters['event_type'] : 'ALL'; ?>
                 <br>
                 <strong>District :</strong> <?= (isset($applied_filters['event_district']) && $applied_filters['event_district'] != '') ? $applied_filters['event_district'] : 'All'; ?>
                 <br/>
@@ -34,7 +34,35 @@
     </div>
 <?php endif; ?>
 <div class="row">
-    <div class="col-md-12 ">
+
+    <div class="col-xs-4 ">
+        <div class="tbl-toolbar">
+            <div class="pull-left">
+                <?= form_open_multipart('','id="keywords_searchForm"'); ?>
+                <input type="hidden" name="event_year" value="<?=isset($applied_filters['event_year'])?$applied_filters['event_year']:''?>" />
+                <input type="hidden" name="event_month" value="<?=isset($applied_filters['event_month'])?$applied_filters['event_month']:''?>" />
+                <input type="hidden" name="event_month_name" value="<?=isset($applied_filters['event_month_name'])?$applied_filters['event_month_name']:''?>" />
+                <input type="hidden" name="event_course_category" value="<?=isset($applied_filters['event_type'])?$applied_filters['event_type']:''?>" />
+                <input type="hidden" name="event_course_category_name" value="<?=isset($applied_filters['event_type_name'])?$applied_filters['event_type_name']:''?>" />
+                <input type="hidden" name="event_district" value="<?=isset($applied_filters['event_district'])?$applied_filters['event_district']:''?>" />
+                <input type="hidden" name="event_vdc" value="<?=isset($applied_filters['event_vdc'])?$applied_filters['event_vdc']:''?>" />
+                <input type="hidden" name="event_ward_no" value="<?=isset($applied_filters['event_ward_no'])?$applied_filters['event_ward_no']:''?>" />
+                <div class="input-group">
+                    <input id="keywords" name="keywords" class="form-control" placeholder="Search Keywords..." aria-label="Search..." value="<?=isset($applied_filters['keywords'])?$applied_filters['keywords']:''?>">
+                    <div class="input-group-btn">
+                        <button id="keywords_clearBtn" type="button" class="btn btn-default" aria-label="Clear">
+                            <span class="glyphicon glyphicon-remove"></span>
+                        </button>
+                        <button id="keywords_searchBtn" type="submit" class="btn btn-default" aria-label="Search">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </div>
+                </div>
+                <?= form_close();?>
+            </div>
+        </div>
+    </div>
+    <div class="col-xs-8 ">
         <div class="tbl-toolbar">
             <div class="pull-right">
                 <button id="btnExport" class="">Export to xls</button>
@@ -62,6 +90,9 @@
                     </th>
                     <th align="left" width="3%">
                         Event Type
+                    </th>
+                    <th align="left" width="3%">
+                        Event Code
                     </th>
                     <th align="left" width="8%">
                         Title
@@ -116,7 +147,7 @@
 
                         <td><?php echo $event['event_event_id']; ?></td>
                         <td><?php echo isset($courses[$event['event_course_cat_id']]) ? $courses[$event['event_course_cat_id']] : $event['event_course_cat_id']; ?></td>
-
+                        <td><?php echo $event['event_code']; ?></td>
                         <td><?php echo $event['event_title']; ?></td>
                         <td><?php echo $event['event_start_date']; ?></td>
                         <td><?php echo $event['event_end_date']; ?></td>
@@ -153,4 +184,32 @@
       filename: "Summary Report" //do not include extension
     });
   })
+</script>
+
+<script>
+  window.searchFilter; //function used by Ajax_pagination library
+
+    $('#keywords_clearBtn').on('click', function (e) {
+      $('#keywords').val('');
+      $('#keywords_searchForm').submit();
+    });
+    $('#keywords_searchForm').on('submit', function (e) {
+      e.preventDefault();
+
+      //defined in js/scripts.js --> Ajax_pagination
+      var ajax_pagination_list = new Ajax_pagination({
+        url_route: '<?php echo base_url(); ?>' + 'Event/event_list_pagination_ajax',
+        form_selector: '#keywords_searchForm',
+        contentDiv_selector: '#eventsList',
+        loading_selector: '.loading',
+        keywords_selector: '#keywords',
+      });
+      window.searchFilter =function(page_num) {
+        ajax_pagination_list.searchFilter(page_num);
+      }
+
+
+      searchFilter(0);
+    });
+
 </script>

@@ -221,7 +221,6 @@ class Home extends CI_Controller {
     }
 
 
-
     /*
      * from view : header.php
      * when : 

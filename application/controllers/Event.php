@@ -1135,7 +1135,7 @@ class Event extends CI_Controller
         $data['eventYearsContent'] = $eventYearsContent;
 
         //load the view
-        $this->loadpage($data, 'event/list_pagination/main', 'Report | Aggregate');
+        $this->loadpage($data, 'event/list_pagination/main', 'Event | List');
 
     }
 
@@ -1155,6 +1155,7 @@ class Event extends CI_Controller
         $event_district =(null !== $this->input->post('district'))? $this->input->post('district'):'';
         $event_vdc = (null !== $this->input->post('vdc'))?$this->input->post('vdc'):'';
         $event_ward_no = (null !== $this->input->post('ward_no'))?$this->input->post('ward_no'):'';
+        $keywords = (null !== $this->input->post('keywords'))?$this->input->post('keywords'):'';
         $per_page=(null !== $this->input->post('per_page') && '' != $this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
 
         //calc offset number
@@ -1173,6 +1174,7 @@ class Event extends CI_Controller
         $searchParams['event_district']=$event_district;
         $searchParams['event_vdc']=$event_vdc;
         $searchParams['event_ward_no']=$event_ward_no;
+        $searchParams['keywords']=$keywords;
 
 
         $totalRec = count($this->eventmodel->getFilteredEvents(
@@ -1229,12 +1231,15 @@ class Event extends CI_Controller
         $data['applied_filters']=array();
         $data['applied_filters']['event_year'] = $event_year;
         $this->load->helper('english_dates_helper');
-        $data['applied_filters']['event_month'] = numToEngMonth($event_month);
+        $data['applied_filters']['event_month'] = $event_month;
+        $data['applied_filters']['event_month_name'] = numToEngMonth($event_month);
         $data['applied_filters']['event_course_cat_id'] = $event_course_cat_id;
-        $data['applied_filters']['event_type'] = $this->coursemodel->getCourseName($event_course_cat_id);
+        $data['applied_filters']['event_type'] = $event_course_cat_id;
+        $data['applied_filters']['event_type_name'] = $this->coursemodel->getCourseName($event_course_cat_id);
         $data['applied_filters']['event_district'] = $event_district;
         $data['applied_filters']['event_vdc'] = $event_vdc;
         $data['applied_filters']['event_ward_no'] = $event_ward_no;
+        $data['applied_filters']['keywords'] = $keywords;
 
         //load the partial view
         $this->load->view('event/list_pagination/ajax', $data, false);
