@@ -60,18 +60,16 @@ class Event extends CI_Controller
 		$this->form_validation->set_rules('event_title', 'Event title ', 'required');
 		$this->form_validation->set_rules('event_code', 'Event Code ', 'required|is_unique[events.event_code]');
 		$this->form_validation->set_rules('event_start_date', 'Event End Date ', 'required|date');
-		$this->form_validation->set_rules('event_end_date', 'Event End Date ', 'callback_is_valid_end_date['.$event_start_date.']');
+		$this->form_validation->set_rules('event_end_date', 'Event End Date ', 'valid_end_date['.$event_start_date.']');
 		$this->form_validation->set_rules('district', 'District ', 'required');
 		$this->form_validation->set_rules('vdc', 'VDC/Municipality ', 'required');
 		$this->form_validation->set_rules('ward_no', 'Ward No ', 'required');
 		$this->form_validation->set_rules('tole', 'Tole/placename ', '');
 
-		$this->form_validation->set_rules('event_latitude', 'Latitude ', 'latitude');
-		$this->form_validation->set_rules('event_longitude', 'Longitude ', 'longitude');
+		$this->form_validation->set_rules('event_latitude', 'latitude ', 'latitude');
+		$this->form_validation->set_rules('event_longitude', 'longitude ', 'longitude');
 
 		if ($this->form_validation->run() == false) {
-
-
             $this->event();
 		} else {
 			$this->sendDataToModel();
@@ -332,11 +330,16 @@ class Event extends CI_Controller
 
 	public function updateEvent()
 	{
+
+		$this->load->model('eventmodel');
 		/*
 		select * from foo where id = (select max(id) from foo where id < 4)
 		select * from foo where id = (select min(id) from foo where id > 4)
 		*/
 		$event_id = $this->input->post('event_id');
+
+		$saved_event_code = $this->eventmodel->getEventCode($event_id);
+
 		$event_title = $this->input->post('event_title');
 		$event_code = $this->input->post('event_code');
 		/* course category is now event_type */
@@ -358,8 +361,6 @@ class Event extends CI_Controller
 		$district = $this->input->post('district');
 		$vdc = $this->input->post('vdc');
 		$ward_no = $this->input->post('ward_no');
-		
-		
 
 		//if implementing partners are checked
 		$impl_partners = array();
@@ -412,10 +413,32 @@ class Event extends CI_Controller
 			'ward_no' => $ward_no,
 		);
 
-		$this->eventmodel->updateEventData($event_data_update, $event_id, $main_organizers, $impl_partners);
-		
-		redirect('Event/viewEvent?id=' . $event_id);
-		
+
+        $this->form_validation->set_rules('event_title', 'Event title ', 'required');
+
+        if($saved_event_code == $event_code){
+            $this->form_validation->set_rules('event_code', 'Event Code ', 'required');
+        }else{
+            $this->form_validation->set_rules('event_code', 'Event Code ', 'required|is_unique[events.event_code]');
+        }
+        $this->form_validation->set_rules('event_start_date', 'Event End Date ', 'required|date');
+        $this->form_validation->set_rules('event_end_date', 'Event End Date ', 'valid_end_date['.$event_start_date.']');
+        $this->form_validation->set_rules('district', 'District ', 'required');
+        $this->form_validation->set_rules('vdc', 'VDC/Municipality ', 'required');
+        $this->form_validation->set_rules('ward_no', 'Ward No ', 'required');
+        $this->form_validation->set_rules('tole', 'Tole/placename ', '');
+
+        $this->form_validation->set_rules('latitude', 'latitude ', 'latitude');
+        $this->form_validation->set_rules('longitude', 'longitude ', 'longitude');
+
+
+        if ($this->form_validation->run() == false) {
+            $this->session->set_flashdata('error', validation_errors());
+            redirect('Event/editEvent?id=' . $event_id);
+		}else{
+            $this->eventmodel->updateEventData($event_data_update, $event_id, $main_organizers, $impl_partners);
+            redirect('Event/viewEvent?id=' . $event_id);
+        }
 		//http://192.168.100.18/baliyoghar/Event/viewEvent?id=21
 		//$this->viewEvent($event_id);
 	}
@@ -457,6 +480,16 @@ class Event extends CI_Controller
 //------------------------------------------------------------------------------
 	public function editEvent()
 	{
+		//see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter
+        if (!empty($this->session->flashdata('message'))) {
+
+            $data['message'] = $this->session->flashdata('message');
+        } elseif (!empty($this->session->flashdata('error'))) {
+
+            $data['error'] = $this->session->flashdata('error');
+        }
+
+
 		$event_id = $this->input->get('id', TRUE);
 		$eventDetail_array = $this->eventmodel->getEventDetail($event_id);
 		$previous_event_id = $this->eventmodel->getPreviousRecordId($event_id);
@@ -1076,6 +1109,19 @@ class Event extends CI_Controller
 	}
 
     public function event_list_pagination(){
+        $data = $this->event_list_pagination_getViewData();
+        //load the view
+        $this->loadpage($data, 'event/list_pagination/main', 'Event | List');
+    }
+
+    public function event_list_pagination_ajax()
+    {
+        $data = $this->event_list_pagination_getViewData();
+        //load the partial view
+        $this->load->view('event/list_pagination/ajax', $data, false);
+	}
+
+    public function _event_list_pagination(){
 
         $this->load->model('reportmodel');
         $this->load->model('eventmodel');
@@ -1109,7 +1155,6 @@ class Event extends CI_Controller
             array()//searchParams
         );
 
-
         $content = "";
         $query = $this->coursemodel->getCourseResultSet();
         $data['courses'] =array();
@@ -1139,7 +1184,7 @@ class Event extends CI_Controller
 
     }
 
-    public function event_list_pagination_ajax()
+    public function _event_list_pagination_ajax()
     {
         $this->load->model('reportmodel');
         $this->load->model('coursemodel');
@@ -1247,6 +1292,120 @@ class Event extends CI_Controller
         //$this->loadpage($data, 'EventManagement', 'Manage event | BALIYOGHAR');
     }
 
+    public function event_list_pagination_getViewData(){
+        $this->load->model('reportmodel');
+        $this->load->model('eventmodel');
+        $this->load->model('coursemodel');
+        $this->load->library('Ajax_pagination');
+
+        $searchParams = array();
+        $data=array();
+
+
+        //For Ajax POST Request:
+        $event_year =(null !== $this->input->post('event_year'))? $this->input->post('event_year'):'';
+        $event_month =(null !== $this->input->post('event_month'))? $this->input->post('event_month'):'';
+        $event_course_cat_id =(null !== $this->input->post('event_course_category'))? $this->input->post('event_course_category'):'';
+        $event_district =(null !== $this->input->post('district'))? $this->input->post('district'):'';
+        $event_vdc = (null !== $this->input->post('vdc'))?$this->input->post('vdc'):'';
+        $event_ward_no = (null !== $this->input->post('ward_no'))?$this->input->post('ward_no'):'';
+        $keywords = (null !== $this->input->post('keywords'))?$this->input->post('keywords'):'';
+        $per_page=(null !== $this->input->post('per_page') && '' != $this->input->post('per_page'))?$this->input->post('per_page'):$this->perPage;
+
+        //calc offset number
+        $page = $this->input->post('page');
+        if(null ===$page || '' ==$page ){
+            $offset = 0;
+        }else{
+            $offset = $page;
+        }
+
+        //For AJAX POST REquest Only
+        $searchParams['event_year']=$event_year;
+        $searchParams['event_month']=$event_month;
+        $searchParams['event_course_cat_id']=$event_course_cat_id;
+        $searchParams['event_district']=$event_district;
+        $searchParams['event_vdc']=$event_vdc;
+        $searchParams['event_ward_no']=$event_ward_no;
+        $searchParams['keywords']=$keywords;
+
+        $totalRec = count($this->eventmodel->getFilteredEvents(
+            null,//start
+            null,//limit
+            null,//deleted
+            $searchParams//searchParams
+        ));
+
+        //pagination configuration
+        $config['target']      = '#eventsList';
+        $config['base_url']    = base_url().'event/event_list_pagination_ajax';
+        $config['total_rows']  = $totalRec;
+        $config['per_page']    = $per_page;
+        $config['link_func']   = 'searchFilter';
+        $this->ajax_pagination->initialize($config);
+
+        //set start and limit
+        $conditions['start'] = $offset;
+        $conditions['limit'] = $per_page;
+
+        //get event data
+        $data['events']= $this->eventmodel->getFilteredEvents(
+            $offset,//start
+            $per_page,//limit
+            null,//deleted
+            $searchParams//searchParams
+        );
+
+        //For Drop Down of Primary Search Panel Initial Load Only
+        $content = "";
+        $query = $this->coursemodel->getCourseResultSet();
+        $data['courses'] =array();
+        foreach ($query->result() as $row) {
+            $content .= '<option value="' . $row->course_cat_id . '">' . $row->coursename . '</option>';
+            $data['courses'][$row->course_cat_id] = $row->coursename;
+        }
+        $data['CourseContent'] = $content;
+
+        $eventYearsContent = "";
+        $eventYearsResult = $this->eventmodel->getEventYears();
+
+        $data['eventYears'] =array();
+        if($eventYearsResult && is_array($eventYearsResult)){
+            foreach ($eventYearsResult as $eventYearItem) {
+                $eventYear = $eventYearItem['event_year'];
+                $eventYearsContent .= '<option value="' . $eventYear . '">' . $eventYear . '</option>';
+                $data['eventYears'][$eventYear] = $eventYear;
+            }
+        }
+        $data['eventYearsContent'] = $eventYearsContent;
+
+
+        //Selected Filters
+        $data['applied_filters']=array();
+        $data['applied_filters']['event_year'] = $event_year;
+        $this->load->helper('english_dates_helper');
+        $data['applied_filters']['event_month'] = $event_month;
+        $data['applied_filters']['event_month_name'] = numToEngMonth($event_month);
+        $data['applied_filters']['event_course_cat_id'] = $event_course_cat_id;
+        $data['applied_filters']['event_type'] = $event_course_cat_id;
+        $data['applied_filters']['event_type_name'] = $this->coursemodel->getCourseName($event_course_cat_id);
+        $data['applied_filters']['event_district'] = $event_district;
+        $data['applied_filters']['event_vdc'] = $event_vdc;
+        $data['applied_filters']['event_ward_no'] = $event_ward_no;
+        $data['applied_filters']['keywords'] = $keywords;
+
+        return $data;
+	}
+    public function event_list_pagination_deleteEvent_ajax(){
+        $event_id =$this->input->post('id', TRUE);
+        $success = $this->eventmodel->deleteEvent($event_id);
+        if($success){
+			echo json_encode(['success'=>true,'message'=>'success']);exit;
+		}else{
+            echo json_encode(['success'=>false,'message'=>'Failed']);exit;
+		}
+	}
+
 	public function event_pagination()
 	{
 		$item_per_page = 30;
@@ -1269,14 +1428,9 @@ class Event extends CI_Controller
 	}
 
 	//Form Validations
-    function is_valid_end_date($end_date, $start_date)
-    {
-		if($start_date>$end_date){
-            $this->form_validation->set_message('is_valid_end_date', 'Invalid %s : End date must be greater than Start Date');
-            return FALSE;
-		};
-        return TRUE;
-    }
+
+
+
 
 }
 

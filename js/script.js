@@ -351,7 +351,6 @@ $('document').ready(function () {
     }); //end ajax
   });
   //editing subcourses - ajax
-
   $(document.body).on('click', 'button[id^=subcourse_btnedit_]', function () {
     var id = $(this).attr('id');
     var array = id.split("_");
@@ -379,7 +378,6 @@ $('document').ready(function () {
       }
     }); //end ajax
   });
-
   //deleting subcourses - ajax
   $(document.body).on('click', 'button[id^=subcourse_btndelete_]', function () {
     var id = $(this).attr('id');
@@ -412,7 +410,6 @@ $('document').ready(function () {
     }); //end ajax
 
   });
-
 
   // $('input[id^=instructorCheck_]').on('click', function(){
   $(document.body).on('click', 'input[id^=instructorCheck_]', function () {
@@ -671,7 +668,6 @@ $('document').ready(function () {
     $('#csparty-updatespan_' + array[2]).show();
 
   });
-
   $(document.body).on('click', 'a[id^=csparty-cancel_]', function () {
     var id = $(this).attr('id');
     var array = id.split("_");
@@ -682,7 +678,6 @@ $('document').ready(function () {
     $('#csparty-updatespan_' + array[1]).hide();
 
   });
-
   $(document.body).on('click', 'a[id^=csparty-delete_]', function () {
     var confirmation = confirm('Are you sure want to continue?\n If other data are dependent on this data the action will be cancelled.');
     if (confirmation == true) {
@@ -712,7 +707,6 @@ $('document').ready(function () {
       });
     }
   });
-
   $(document.body).on('click', 'a[id^=csparty-save_]', function () {
     var id = $(this).attr('id');
     var array = id.split("_");
@@ -751,9 +745,7 @@ $('document').ready(function () {
       });
     }
   });
-
-
-  //---------------------------------------ADD person to event ajax --------------------------//
+  //--------------------------------------ADD person to event ajax --------------------------//
 
   /*
    * checking the availability of person before adding as participants in the event

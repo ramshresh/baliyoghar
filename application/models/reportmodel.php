@@ -782,6 +782,7 @@ events e where event_id in (" . $event_ids . ") order by course_cat_id,course_su
             array_push($wh_keywords_expr_arr,"event_address LIKE '%".$keywords."%'" );
             array_push($wh_keywords_expr_arr,"event_venue LIKE '%".$keywords."%'" );
             array_push($wh_keywords_expr_arr,"event_code LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_title LIKE '%".$keywords."%'" );
         }
         $wh_keywords_expr_str = implode(' OR ',$wh_keywords_expr_arr );
         $wh_keywords_expr_str=(''!=$wh_keywords_expr_str)?'('.$wh_keywords_expr_str.')':$wh_keywords_expr_str;

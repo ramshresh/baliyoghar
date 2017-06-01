@@ -26,14 +26,14 @@
 
                 <hr/>
                 <h5 class="text-success size16" style="text-align: center">Event detail </h5>
-                <div class="pull-right">
+
 				
 				<?php if(isset($previous_event_id)):?>
 				<a href="<?=base_url()?>Event/viewEvent?id=<?=$previous_event_id?>" class="button">Previous</a>
 				<?php endif;?>
 				<?php if(isset($next_event_id)):?>
 				<a href="<?=base_url()?>Event/viewEvent?id=<?=$next_event_id?>" class="button">Next</a>
-						</div>
+
 						<?php endif;?>
 				<hr/>
 

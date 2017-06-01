@@ -20,15 +20,22 @@
             <div class="well">
                 <strong>Showing Results for :</strong>
                 <br>
-                <strong>Year :</strong> <?= (isset($applied_filters['event_year']) && $applied_filters['event_year'] != '') ? $applied_filters['event_year'] : 'ALL'; ?>
-                <strong>Month :</strong> <?= (isset($applied_filters['event_month_name']) && $applied_filters['event_month'] != '') ? $applied_filters['event_month'] : 'ALL'; ?><br/>
-                <strong>Event Type :</strong> <?= (isset($applied_filters['event_type_name']) && $applied_filters['event_type'] != '') ? $applied_filters['event_type'] : 'ALL'; ?>
+                <strong>Year
+                    :</strong> <?= (isset($applied_filters['event_year']) && $applied_filters['event_year'] != '') ? $applied_filters['event_year'] : 'ALL'; ?>
+                <strong>Month
+                    :</strong> <?= (isset($applied_filters['event_month_name']) && $applied_filters['event_month'] != '') ? $applied_filters['event_month'] : 'ALL'; ?>
+                <br/>
+                <strong>Event Type
+                    :</strong> <?= (isset($applied_filters['event_type_name']) && $applied_filters['event_type'] != '') ? $applied_filters['event_type'] : 'ALL'; ?>
                 <br>
-                <strong>District :</strong> <?= (isset($applied_filters['event_district']) && $applied_filters['event_district'] != '') ? $applied_filters['event_district'] : 'All'; ?>
+                <strong>District
+                    :</strong> <?= (isset($applied_filters['event_district']) && $applied_filters['event_district'] != '') ? $applied_filters['event_district'] : 'All'; ?>
                 <br/>
-                <strong>VDC/Municipality :</strong> <?= (isset($applied_filters['event_vdc']) && $applied_filters['event_vdc'] != '') ? $applied_filters['event_vdc'] : 'ALL'; ?>
+                <strong>VDC/Municipality
+                    :</strong> <?= (isset($applied_filters['event_vdc']) && $applied_filters['event_vdc'] != '') ? $applied_filters['event_vdc'] : 'ALL'; ?>
                 <br/>
-                <strong>Ward No :</strong> <?= (isset($applied_filters['event_ward_no']) && $applied_filters['event_ward_no'] != '') ? $applied_filters['event_ward_no'] : 'ALL'; ?>
+                <strong>Ward No
+                    :</strong> <?= (isset($applied_filters['event_ward_no']) && $applied_filters['event_ward_no'] != '') ? $applied_filters['event_ward_no'] : 'ALL'; ?>
             </div>
         </div>
     </div>
@@ -38,17 +45,27 @@
     <div class="col-xs-4 ">
         <div class="tbl-toolbar">
             <div class="pull-left">
-                <?= form_open_multipart('','id="keywords_searchForm"'); ?>
-                <input type="hidden" name="event_year" value="<?=isset($applied_filters['event_year'])?$applied_filters['event_year']:''?>" />
-                <input type="hidden" name="event_month" value="<?=isset($applied_filters['event_month'])?$applied_filters['event_month']:''?>" />
-                <input type="hidden" name="event_month_name" value="<?=isset($applied_filters['event_month_name'])?$applied_filters['event_month_name']:''?>" />
-                <input type="hidden" name="event_course_category" value="<?=isset($applied_filters['event_type'])?$applied_filters['event_type']:''?>" />
-                <input type="hidden" name="event_course_category_name" value="<?=isset($applied_filters['event_type_name'])?$applied_filters['event_type_name']:''?>" />
-                <input type="hidden" name="event_district" value="<?=isset($applied_filters['event_district'])?$applied_filters['event_district']:''?>" />
-                <input type="hidden" name="event_vdc" value="<?=isset($applied_filters['event_vdc'])?$applied_filters['event_vdc']:''?>" />
-                <input type="hidden" name="event_ward_no" value="<?=isset($applied_filters['event_ward_no'])?$applied_filters['event_ward_no']:''?>" />
+                <?= form_open_multipart('', 'id="keywords_searchForm"'); ?>
+                <input type="hidden" name="event_year"
+                       value="<?= isset($applied_filters['event_year']) ? $applied_filters['event_year'] : '' ?>"/>
+                <input type="hidden" name="event_month"
+                       value="<?= isset($applied_filters['event_month']) ? $applied_filters['event_month'] : '' ?>"/>
+                <input type="hidden" name="event_month_name"
+                       value="<?= isset($applied_filters['event_month_name']) ? $applied_filters['event_month_name'] : '' ?>"/>
+                <input type="hidden" name="event_course_category"
+                       value="<?= isset($applied_filters['event_type']) ? $applied_filters['event_type'] : '' ?>"/>
+                <input type="hidden" name="event_course_category_name"
+                       value="<?= isset($applied_filters['event_type_name']) ? $applied_filters['event_type_name'] : '' ?>"/>
+                <input type="hidden" name="event_district"
+                       value="<?= isset($applied_filters['event_district']) ? $applied_filters['event_district'] : '' ?>"/>
+                <input type="hidden" name="event_vdc"
+                       value="<?= isset($applied_filters['event_vdc']) ? $applied_filters['event_vdc'] : '' ?>"/>
+                <input type="hidden" name="event_ward_no"
+                       value="<?= isset($applied_filters['event_ward_no']) ? $applied_filters['event_ward_no'] : '' ?>"/>
                 <div class="input-group">
-                    <input id="keywords" name="keywords" class="form-control" placeholder="Search Keywords..." aria-label="Search..." value="<?=isset($applied_filters['keywords'])?$applied_filters['keywords']:''?>">
+                    <input id="keywords" name="keywords" class="form-control" placeholder="Search Keywords..."
+                           aria-label="Search..."
+                           value="<?= isset($applied_filters['keywords']) ? $applied_filters['keywords'] : '' ?>">
                     <div class="input-group-btn">
                         <button id="keywords_clearBtn" type="button" class="btn btn-default" aria-label="Clear">
                             <span class="glyphicon glyphicon-remove"></span>
@@ -58,7 +75,7 @@
                         </button>
                     </div>
                 </div>
-                <?= form_close();?>
+                <?= form_close(); ?>
             </div>
         </div>
     </div>
@@ -79,7 +96,7 @@
                 <tr>
                     <th style="width:160px" rowspan="3">Actions</th>
                     <th rowspan="3"><input type="checkbox" id="checkAll"/></th>
-                    <th colspan="12" rowspan="2">Event Details</th>
+                    <th colspan="13" rowspan="2">Event Details</th>
                 </tr>
                 <tr>
                     <th colspan="1" rowspan="2">Total Participants</th>
@@ -130,16 +147,21 @@
 
                 <?php foreach ($events as $event) { ?>
                     <?php
-                        //["event_deleted","event_event_id","event_title","event_course_cat_id","event_district","event_vdc","event_ward_no","event_year","event_start_date","event_end_date","event_venue","event_address","event_latitude","event_longitude","event_code","participation_deleted","participation_person_id","participation_person_age","participation_is_instructor","participation_beneficiary_type","participation_certification_status","person_deleted","person_work_type_id","person_fullname","person_dob_en","person_gender","person_p_address","person_c_address","person_photo","person_country","person_phone","person_mobile"
-                        //,"age_below_14","age_15_19","age_20_24","age_25_29","age_30_34","age_35_above",
-                        //"Other","Daily Wages","Business","Student","Service","Housewife","Agriculture","Sub\/Asst. engineers","Contractors","Architects","Engineers","House Owner","Non House Owner","Existing Mason","New Mason"]
+                    //["event_deleted","event_event_id","event_title","event_course_cat_id","event_district","event_vdc","event_ward_no","event_year","event_start_date","event_end_date","event_venue","event_address","event_latitude","event_longitude","event_code","participation_deleted","participation_person_id","participation_person_age","participation_is_instructor","participation_beneficiary_type","participation_certification_status","person_deleted","person_work_type_id","person_fullname","person_dob_en","person_gender","person_p_address","person_c_address","person_photo","person_country","person_phone","person_mobile"
+                    //,"age_below_14","age_15_19","age_20_24","age_25_29","age_30_34","age_35_above",
+                    //"Other","Daily Wages","Business","Student","Service","Housewife","Agriculture","Sub\/Asst. engineers","Contractors","Architects","Engineers","House Owner","Non House Owner","Existing Mason","New Mason"]
                     ; ?>
                     <tr>
                         <td>
-                            <a href="<?= base_url() ?>Event/viewEvent?id=<?= $event['event_event_id'] ?>" >view</a>
-                            <a href="<?= base_url() ?>Event/editEvent?id=<?= $event['event_event_id'] ?>" onclick="return confirm('Are you sure?')">Edit</a>
-                            <a href="<?= base_url() ?>Event/deleteEvent?id=<?= $event['event_event_id'] ?>" onclick="return confirm('Are you sure?')">Delete</a>
+                            <a href="<?= base_url() ?>Event/viewEvent?id=<?= $event['event_event_id'] ?>">view</a>
+                            <a href="<?= base_url() ?>Event/editEvent?id=<?= $event['event_event_id'] ?>"
+                               onclick="return confirm('Are you sure?')">Edit</a>
+                            <a onclick="event_list_pagination_deleteEvent_ajax(<?= $event['event_event_id'] ?>)">Delete</a>
 
+                            <!--<form class="" method="post" action="<? /*= base_url() */ ?>Event/event_list_pagination_deleteEvent">
+                                <input name="id" type="hidden" value="<? /*= $event['event_event_id'] */ ?>"/>
+                                <button  type="submit" onclick="return confirm('Are you sure?')">Delete</button>
+                            </form>-->
                         </td>
                         <td><input class="row-event" type="checkbox"
                                    data-event_id="<?php echo $event['event_event_id'] ?>"/></td>
@@ -187,29 +209,52 @@
 </script>
 
 <script>
-  window.searchFilter; //function used by Ajax_pagination library
+  window.searchFilter;
 
-    $('#keywords_clearBtn').on('click', function (e) {
-      $('#keywords').val('');
-      $('#keywords_searchForm').submit();
-    });
-    $('#keywords_searchForm').on('submit', function (e) {
-      e.preventDefault();
+  function event_list_pagination_deleteEvent_ajax(eventId) {
+    var url_route = '<?php echo base_url(); ?>' + 'Event/event_list_pagination_deleteEvent_ajax';
+    var data = {
+      'id':eventId
+    };
+    if(confirm('Are You Sure?')){
+      $.ajax({
+        type: 'POST',
+        url: url_route,
+        data: data,
+        beforeSend: function () {
 
-      //defined in js/scripts.js --> Ajax_pagination
-      var ajax_pagination_list = new Ajax_pagination({
-        url_route: '<?php echo base_url(); ?>' + 'Event/event_list_pagination_ajax',
-        form_selector: '#keywords_searchForm',
-        contentDiv_selector: '#eventsList',
-        loading_selector: '.loading',
-        keywords_selector: '#keywords',
+        },
+        success: function (response) {
+          var responseObj =(typeof response != 'object')?JSON.parse(response):response;
+          if(responseObj.success){
+            $('#keywords_searchForm').submit();
+          }else{
+            alert(responseObj.message);
+          }
+        }
       });
-      window.searchFilter =function(page_num) {
-        ajax_pagination_list.searchFilter(page_num);
-      }
+    }
+  }
 
+  $('#keywords_clearBtn').on('click', function (e) {
+    $('#keywords').val('');
+    $('#keywords_searchForm').submit();
+  });
+  $('#keywords_searchForm').on('submit', function (e) {
+    e.preventDefault();
 
-      searchFilter(0);
+    //defined in js/scripts.js --> Ajax_pagination
+    var ajax_pagination_list = new Ajax_pagination({
+      url_route: '<?php echo base_url(); ?>' + 'Event/event_list_pagination_ajax',
+      form_selector: '#keywords_searchForm',
+      contentDiv_selector: '#eventsList',
+      loading_selector: '.loading',
+      keywords_selector: '#keywords',
     });
+    window.searchFilter = function (page_num) {
+      ajax_pagination_list.searchFilter(page_num);
+    }
+    searchFilter(0);
+  });
 
 </script>

@@ -478,6 +478,14 @@ class eventmodel extends CI_Model
         }
     }
 
+    function getEventCode($event_id)
+    {
+        $query = $this->db->query("SELECT event_code FROM events where event_id=" . $event_id . "  LIMIT 1"); // LIMIT " . $start . " , " . $end);
+        foreach ($query->result() as $row) {
+            return $row->event_code;
+        }
+    }
+
     function getEventDates($event_id)
     {
         $query = $this->db->query("SELECT year,start_date,end_date,venue FROM events where event_id=" . $event_id . "  LIMIT 1"); // LIMIT " . $start . " , " . $end);
@@ -1080,6 +1088,7 @@ class eventmodel extends CI_Model
             array_push($wh_keywords_expr_arr,"event_address LIKE '%".$keywords."%'" );
             array_push($wh_keywords_expr_arr,"event_venue LIKE '%".$keywords."%'" );
             array_push($wh_keywords_expr_arr,"event_code LIKE '%".$keywords."%'" );
+            array_push($wh_keywords_expr_arr,"event_title LIKE '%".$keywords."%'" );
         }
         $wh_keywords_expr_str = implode(' OR ',$wh_keywords_expr_arr );
         $wh_keywords_expr_str=(''!=$wh_keywords_expr_str)?'('.$wh_keywords_expr_str.')':$wh_keywords_expr_str;
@@ -1179,6 +1188,7 @@ SQL;
 
     }
 }
+
 
 ?>
 

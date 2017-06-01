@@ -279,55 +279,70 @@
   //    });
 </script>
 <style>
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
+    a.button {
+        -webkit-appearance: button;
+        -moz-appearance: button;
+        appearance: button;
 
-    text-decoration: none;
-    color: initial;
-}
+        text-decoration: none;
+        color: initial;
+    }
 </style>
 <div class="container">
     <table style="border:1px solid #CCC;margin-top:30px" width="100%" class="getBg">
         <tr>
             <td style="padding:20px">
-			<?php echo form_open('Event/updateEvent', array('id' => 'event_entry_form', 'name' => 'event_entry_form')); ?>
-                
-                <h3 class="uppercase nicefont nicecolor"><b class="icon-globe"></b> 
-				
-				&nbsp;Edit event 
-				<div class="pull-right">
-				<?php if(isset($previous_event_id)):?>
-				<a href="<?=base_url()?>Event/editEvent?id=<?=$previous_event_id?>" class="button">Previous</a>
-				<?php endif;?>
-				<?php if(isset($next_event_id)):?>
-				<a href="<?=base_url()?>Event/editEvent?id=<?=$next_event_id?>" class="button">Next</a>
-						</div>
-						<?php endif;?>
-				</h3>
-                
-				<hr/>
-                <?php echo validation_errors(); ?>
+                <?php echo form_open('Event/updateEvent', array('id' => 'event_entry_form', 'name' => 'event_entry_form')); ?>
+
+                <h3 class="uppercase nicefont nicecolor"><b class="icon-globe"></b>
+                    &nbsp;Edit event
+                    <div class="pull-right">
+                        <?php if (isset($previous_event_id)): ?>
+                            <a href="<?= base_url() ?>Event/editEvent?id=<?= $previous_event_id ?>" class="button">Previous</a>
+                        <?php endif; ?>
+                        <?php if (isset($next_event_id)): ?>
+                        <a href="<?= base_url() ?>Event/editEvent?id=<?= $next_event_id ?>" class="button">Next</a>
+                    </div>
+                    <?php endif; ?>
+                </h3>
+                <hr/>
+                <div class=""row>
+                    <div class="col-xs-12">
+                        <!--                see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter-->
+                        <?php if (isset($message)) {
+                            echo '<div class="alert alert-info">' . $message . '</div>';
+                        } elseif (isset($error)) {
+                            echo '<div class="alert alert-danger"><strong>Error: </strong>' . $error . '</div>';
+                        } ?>
+                    </div>
+                </div>
                 <span style="color:green"><?php if (isset($insert)) echo $insert . "<br />"; ?></span>
                 <input type="hidden" name="event_id" value="<?= $event_id ?>"/>
                 <input type="hidden" name="identifier" value="edit"/>
                 <input type="hidden" id="event_id" value="<?= $event_id ?>"/>
 
                 <!--                Old Values in Hidden Input      -->
-                <input type="hidden" id="old-district" value="<?=  $district?>">
-                <input type="hidden" id="old-vdc" value="<?=  $vdc?>">
-                <input type="hidden" id="old-ward_no" value="<?=  $ward_no?>">
+                <input type="hidden" id="old-district" value="<?= $district ?>">
+                <input type="hidden" id="old-vdc" value="<?= $vdc ?>">
+                <input type="hidden" id="old-ward_no" value="<?= $ward_no ?>">
 
                 <a href="../Event/addParticipant?id=<?= $event_id ?>" class="btn text-success"
                    style="margin-top:-6px;float: right;margin-bottom:0px;margin-right:5px;margin-bottom: 10px;"
                    id=""><img src="../img/add-new.png"/>&nbsp;Add new participant</a>
+
+
+
+
                 <table width="" border="0">
                     <tr>
                         <td><label for="event_title">Title : </label></td>
                         <td colspan="4">
-                            <input type="text" style="width:712px" value="<?= $title ?>" id="event_title"
+                            <input type="text" style="width:712px"
+                                   value="<?= $title ?>"
+                                   id="event_title"
                                    name="event_title" placeholder="Enter title"/>
+                            <?= form_error('event_title', '<label for="event_title" generated="true" class="error">', '</label>') ?>
+
                         </td>
                     </tr>
                     <tr>
@@ -335,6 +350,8 @@ a.button {
                         <td colspan="4">
                             <input type="text" style="width:712px" value="<?= $event_code ?>" id="event_code"
                                    name="event_code" placeholder="Enter Code"/>
+                            <?= form_error('event_code', '<label for="event_code" generated="true" class="error">', '</label>') ?>
+
                         </td>
                     </tr>
                     <tr>
@@ -346,12 +363,16 @@ a.button {
                                         <input type="text" name="event_start_date" value="<?= $start_date ?>"
                                                id="event_start_date" class="datepicker" placeholder="Enter start date"
                                                style="width:150px;"/>
+                                        <?= form_error('event_start_date', '<label for="event_start_date" generated="true" class="error">', '</label>') ?>
+
                                     </td>
                                     <td style="width:90px"><label for="event_end_date">End date : </label></td>
                                     <td style="width:202px">
                                         <input type="text" name="event_end_date" value="<?= $end_date ?>"
                                                id="event_end_date" class="datepicker" placeholder="Enter end date"
                                                style="width:150px;"/>
+                                        <?= form_error('event_end_date', '<label for="event_end_date" generated="true" class="error">', '</label>') ?>
+
                                     </td>
                                     <td style="width:100px"><label for="event_year">Event year : </label></td>
                                     <td>
@@ -383,6 +404,7 @@ a.button {
                                 }
                                 ?>
                             </select>
+                            <?= form_error('event_course_category', '<label for="event_course_category" generated="true" class="error">', '</label>') ?>
                             <span style="width:20px;display:inline-block">
                                 <img src="../img/loading.gif" style="margin-top: -10px; padding:5px;display:none"
                                      id="loading_image"/>
@@ -475,6 +497,8 @@ a.button {
                         <td>
                             <select name="district" id="district">
                             </select>
+                            <?= form_error('district', '<label for="district" generated="true" class="error">', '</label>') ?>
+
                             <span style="width:20px;display:inline-block">
                                 <img id="loading_image-district" style="margin-top: -10px; padding: 5px; display: none;"
                                      src="../img/loading.gif">
@@ -485,6 +509,8 @@ a.button {
                         <td>
                             <span class="text-error size11" id="mandatory_msg-district">*Select district first</span>
                             <span id="select_vdc_content"></span>
+                            <?= form_error('vdc', '<label for="vdc" generated="true" class="error">', '</label>') ?>
+
                         </td>
                     </tr>
                     <tr>
@@ -492,8 +518,10 @@ a.button {
                         <td>
                             <span class="text-error size11" id="mandatory_msg-vdc">*Select vdc first</span>
                             <span id="select_ward_no_content"></span>
+                            <?= form_error('ward_no', '<label for="ward_no" generated="true" class="error">', '</label>') ?>
+
                         </td>
-                      
+
                     </tr>
 
                     <tr>
@@ -564,12 +592,16 @@ a.button {
                         <td><label>Venue : </label></td>
                         <td>
                             <input type="text" name="event_venue" value="<?= $venue ?>" placeholder="Enter venue"/>
+                            <?= form_error('event_venue', '<label for="event_venue" generated="true" class="error">', '</label>') ?>
+
                         </td>
                         <td style="width:50px"></td>
                         <td><label>Tole/Placename : </label></td>
                         <td>
                             <input type="text" name="event_address" value="<?= $address ?>"
                                    placeholder="Enter address"/>
+                            <?= form_error('event_address', '<label for="event_address" generated="true" class="error">', '</label>') ?>
+
                         </td>
                     </tr>
 
@@ -577,11 +609,15 @@ a.button {
                         <td><label>Latitude : </label></td>
                         <td>
                             <input type="number" name="latitude" value="<?= $latitude ?>" placeholder="Latitude"/>
+                            <?= form_error('latitude', '<label for="latitude" generated="true" class="error">', '</label>') ?>
+
                         </td>
                         <td style="width:50px"></td>
                         <td><label>Longitude : </label></td>
                         <td>
                             <input type="number" name="longitude" value="<?= $longitude ?>" placeholder="Longitude"/>
+                            <?= form_error('longitude', '<label for="longitude" generated="true" class="error">', '</label>') ?>
+
                         </td>
                     </tr>
                     <tr>

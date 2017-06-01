@@ -184,7 +184,7 @@
 										disabled="disabled">
 									<option value="">-- SELECT --</option>
 								</select>
-                                <?= form_error('event_course_category','<label for="event_course_category" generated="true" class="error">','</label>')?>
+                                <?= form_error('event_course_subcategory','<label for="event_course_category" generated="true" class="error">','</label>')?>
                             </span>
 						</td>
 					</tr>
@@ -548,4 +548,6 @@
       L.marker(pos,{icon: icon}).addTo(map);
     });
   });
+
+ 
 </script>

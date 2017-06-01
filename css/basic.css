@@ -1,5 +1,15 @@
 /* page styles */
-
+.btn-link{
+    border:none !important;
+    outline:none !important;
+    background:none !important;
+    cursor:pointer;
+    color:#0000EE;
+    padding:0;
+    text-decoration:underline;
+    font-family:inherit;
+    font-size:inherit;
+}
 .getBg{
     background: rgba(242,242,242,0.9);/*#e7ebf2 url('../img/bg.png');*/
 }
