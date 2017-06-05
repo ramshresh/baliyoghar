@@ -18,7 +18,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <?= $this->load->view('includes/components/_search_panel.php');?>
+                <?= $this->load->view('includes/components/_search_panel.php'); ?>
             </div>
         </div>
         <div class="events-list" id="eventsList">
@@ -33,20 +33,27 @@
 <script>
   window.searchFilter; //function used by Ajax_pagination library
 
-  $('#searchForm').on('submit', function (e) {
-      e.preventDefault();
-      //defined in js/scripts.js --> Ajax_pagination
-      var ajax_pagination = new Ajax_pagination({
-        url_route: '<?php echo base_url(); ?>' + 'Report/ajaxAggregateData',
-        form_selector: '#searchForm',
-        contentDiv_selector: '#eventsList',
-        loading_selector: '.loading',
-        keywords_selector: '#keywords',
-      });
-      window.searchFilter =function(page_num) {
-        ajax_pagination.searchFilter(page_num);
-      }
+  var ajax_pagination_main = new Ajax_pagination({
+    url_route: '<?php echo base_url(); ?>' + 'Report/ajaxAggregateData',
+    form_selector: '#searchForm',
+    contentDiv_selector: '#eventsList',
+    loading_selector: '.loading',
+    keywords_selector: '#keywords',
+  });
 
-      searchFilter(0);
-    });
+  var searchFilter_main = function (page_num) {
+    ajax_pagination_main.searchFilter(page_num);
+  };
+
+  if (typeof searchFilter == 'undefined') {
+    window.searchFilter = searchFilter_main;
+  }
+
+  $('#searchForm').on('submit', function (e) {
+    e.preventDefault();
+    //defined in js/scripts.js --> Ajax_pagination
+    window.searchFilter = searchFilter_main;
+
+    searchFilter(0);
+  });
 </script>

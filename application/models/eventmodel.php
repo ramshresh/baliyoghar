@@ -359,6 +359,15 @@ class eventmodel extends CI_Model
         return $participants_array;
     }
 
+    function getSingleParticipationDerail($event_id, $person_id)
+    {
+        $participations = $this->getAllParticipation($person_id);
+        $fPs =array_filter($participations,function ($participation) use($event_id){
+            return   $participation[6] = $event_id;
+        });
+        return isset($fPs[0])?$fPs[0]:false;
+    }
+
     function getParticipation($event_id, $person_id)
     {
         $query = $this->db->query("SELECT * FROM participated_in where event_id= " . $event_id . " AND person_id=" . $person_id . " AND deleted =0 ORDER BY is_instructor DESC");
@@ -411,10 +420,9 @@ class eventmodel extends CI_Model
                 $event_array[$i][6] = $row->event_id; //event_id
                 $event_array[$i][7] = $row->participated_in_id;
                 $event_array[$i][8] = isset($this->BENEFICIARY_TYPES[$row->beneficiary_type]) ? $this->BENEFICIARY_TYPES[$row->beneficiary_type] : '';
+                $event_array[$i][9] = $row->person_id;
                 $i++;
             }
-
-
         }
         return $event_array;
 

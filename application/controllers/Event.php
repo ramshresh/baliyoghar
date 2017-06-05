@@ -66,10 +66,12 @@ class Event extends CI_Controller
 		$this->form_validation->set_rules('ward_no', 'Ward No ', 'required');
 		$this->form_validation->set_rules('tole', 'Tole/placename ', '');
 
-		$this->form_validation->set_rules('event_latitude', 'latitude ', 'latitude');
-		$this->form_validation->set_rules('event_longitude', 'longitude ', 'longitude');
+		$this->form_validation->set_rules('event_latitude', 'Latitude ', 'latitude');
+		$this->form_validation->set_rules('event_longitude', 'Longitude ', 'longitude');
 
 		if ($this->form_validation->run() == false) {
+
+
             $this->event();
 		} else {
 			$this->sendDataToModel();
@@ -330,8 +332,8 @@ class Event extends CI_Controller
 
 	public function updateEvent()
 	{
+        $this->load->model('eventmodel');
 
-		$this->load->model('eventmodel');
 		/*
 		select * from foo where id = (select max(id) from foo where id < 4)
 		select * from foo where id = (select min(id) from foo where id > 4)
@@ -361,6 +363,8 @@ class Event extends CI_Controller
 		$district = $this->input->post('district');
 		$vdc = $this->input->post('vdc');
 		$ward_no = $this->input->post('ward_no');
+		
+		
 
 		//if implementing partners are checked
 		$impl_partners = array();
@@ -422,10 +426,10 @@ class Event extends CI_Controller
             $this->form_validation->set_rules('event_code', 'Event Code ', 'required|is_unique[events.event_code]');
         }
         $this->form_validation->set_rules('event_start_date', 'Event End Date ', 'required|date');
-        $this->form_validation->set_rules('event_end_date', 'Event End Date ', 'valid_end_date['.$event_start_date.']');
+        $this->form_validation->set_rules('event_end_date', 'Event End Date ', 'callback_is_valid_end_date['.$event_start_date.']');
         $this->form_validation->set_rules('district', 'District ', 'required');
         $this->form_validation->set_rules('vdc', 'VDC/Municipality ', 'required');
-        $this->form_validation->set_rules('ward_no', 'Ward No ', 'required');
+        $this->form_validation->set_rules('ward_no', 'Ward No ', '');
         $this->form_validation->set_rules('tole', 'Tole/placename ', '');
 
         $this->form_validation->set_rules('latitude', 'latitude ', 'latitude');
@@ -435,10 +439,11 @@ class Event extends CI_Controller
         if ($this->form_validation->run() == false) {
             $this->session->set_flashdata('error', validation_errors());
             redirect('Event/editEvent?id=' . $event_id);
-		}else{
+        }else{
             $this->eventmodel->updateEventData($event_data_update, $event_id, $main_organizers, $impl_partners);
             redirect('Event/viewEvent?id=' . $event_id);
         }
+		
 		//http://192.168.100.18/baliyoghar/Event/viewEvent?id=21
 		//$this->viewEvent($event_id);
 	}
@@ -480,15 +485,15 @@ class Event extends CI_Controller
 //------------------------------------------------------------------------------
 	public function editEvent()
 	{
-		//see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter
-        if (!empty($this->session->flashdata('message'))) {
 
-            $data['message'] = $this->session->flashdata('message');
-        } elseif (!empty($this->session->flashdata('error'))) {
-
-            $data['error'] = $this->session->flashdata('error');
+        //see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter
+		$flashed_message =$this->session->flashdata('message');
+		$flashed_error =$this->session->flashdata('error');
+		if (!empty($flashed_message)) {
+            $data['message'] = $flashed_message;
+        } elseif (!empty($flashed_error)) {
+            $data['error'] = $flashed_error;
         }
-
 
 		$event_id = $this->input->get('id', TRUE);
 		$eventDetail_array = $this->eventmodel->getEventDetail($event_id);
@@ -740,6 +745,7 @@ class Event extends CI_Controller
 			'beneficiary_type' => $beneficiary_type,
 			'certification_status' => $certification_status,
 		);
+
 		$success = $this->personmodel->updateParticipationInData_participated_in_id($data, $participated_in_id);
 
 		$participantData = $this->eventmodel->getParticipant($event_id, $person_id);
@@ -749,7 +755,6 @@ class Event extends CI_Controller
 		$data['person_id'] = $person_id;
 		$data['participant_array'] = $participantData['participant'];
 		$data['i'] = $participantData['i'];
-
 
 		echo $this->load->view('event/_editParticipationRow', $data, true);
 	}
@@ -1428,9 +1433,14 @@ class Event extends CI_Controller
 	}
 
 	//Form Validations
-
-
-
+    function is_valid_end_date($end_date, $start_date)
+    {
+		if($start_date>$end_date){
+            $this->form_validation->set_message('is_valid_end_date', 'Invalid %s : End date must be greater than Start Date');
+            return FALSE;
+		};
+        return TRUE;
+    }
 
 }
 

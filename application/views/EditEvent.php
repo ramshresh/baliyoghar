@@ -306,16 +306,6 @@
                     <?php endif; ?>
                 </h3>
                 <hr/>
-                <div class=""row>
-                    <div class="col-xs-12">
-                        <!--                see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter-->
-                        <?php if (isset($message)) {
-                            echo '<div class="alert alert-info">' . $message . '</div>';
-                        } elseif (isset($error)) {
-                            echo '<div class="alert alert-danger"><strong>Error: </strong>' . $error . '</div>';
-                        } ?>
-                    </div>
-                </div>
                 <span style="color:green"><?php if (isset($insert)) echo $insert . "<br />"; ?></span>
                 <input type="hidden" name="event_id" value="<?= $event_id ?>"/>
                 <input type="hidden" name="identifier" value="edit"/>

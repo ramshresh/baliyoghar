@@ -13,7 +13,7 @@
     <div class="row">
         <div class="row">
             <div class="col-md-8">
-                <h3 class="uppercase nicefont nicecolor"><b class=""></b> &nbsp;List of Events </h3>
+                <h3 class="uppercase nicefont nicecolor"><b class=""></b> &nbsp;List of People </h3>
             </div>
         </div>
         <div class="row">
@@ -21,8 +21,8 @@
                 <?= $this->load->view('includes/components/_search_panel.php');?>
             </div>
         </div>
-        <div class="events-list" id="eventsList">
-            <?php $this->load->view('event/list_pagination/_list', array('courses' => $courses)); ?>
+        <div class="pagination-table" id="peopleList">
+            <?php $this->load->view('person/list_pagination/_list', array('courses' => $courses)); ?>
         </div>
         <div class="loading" style="display: none;">
             <div class="content"><img src="<?php echo base_url() . 'img/loading.gif'; ?>"/></div>
@@ -36,25 +36,25 @@
 <script>
   window.searchFilter; //function used by Ajax_pagination library
 
-  //defined in js/scripts.js --> Ajax_pagination
+
   var ajax_pagination_main = new Ajax_pagination({
-    url_route:'<?php echo base_url(); ?>' + 'Event/event_list_pagination_ajax',
+    url_route:'<?php echo base_url(); ?>' + 'Person/people_list_pagination_ajax',
     form_selector:'#searchForm',
-    contentDiv_selector:'#eventsList',
+    contentDiv_selector:'#peopleList',
     loading_selector:'.loading',
     keywords_selector:'#keywords',
   });
-
-  var searchFilter_main = function (page_num) {
+  var searchFilter_main =function(page_num) {
     ajax_pagination_main.searchFilter(page_num);
   };
 
-  if (typeof window.searchFilter == 'undefined') {
+  if(typeof searchFilter == 'undefined'){
     window.searchFilter = searchFilter_main;
   }
 
   $('#searchForm').on('submit', function (e) {
     e.preventDefault();
+    //defined in js/scripts.js --> Ajax_pagination
     window.searchFilter = searchFilter_main;
     searchFilter(0);
   });

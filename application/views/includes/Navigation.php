@@ -10,12 +10,48 @@
         text-transform: uppercase;
         text-shadow: 0 2px #475E9E, 0 3px #777;
     }
-    .curve2{margin-top:-4px;width:220px;height:15px;background: url('../img/curve2.png') no-repeat;}
-    .curve1{width:100px;height:99px;background:url('../img/curve1.png');float:left}
-    .curve{background:url('../img/curve.png');float:left;width:100px;height:99px}
-    .upperdiv{width:320px;height:99px;background:#EBE7E7;float:left;color:#5ABFDD}
-    .lowerdiv{width:220px;height:98px;background:#EBE7E7;float:left;border-top:1px solid #ccc;color:#2F96B4}
-    ul.adminmenu{list-style: none;}
+
+    .curve2 {
+        margin-top: -4px;
+        width: 220px;
+        height: 15px;
+        background: url('../img/curve2.png') no-repeat;
+    }
+
+    .curve1 {
+        width: 100px;
+        height: 99px;
+        background: url('../img/curve1.png');
+        float: left
+    }
+
+    .curve {
+        background: url('../img/curve.png');
+        float: left;
+        width: 100px;
+        height: 99px
+    }
+
+    .upperdiv {
+        width: 320px;
+        height: 99px;
+        background: #EBE7E7;
+        float: left;
+        color: #5ABFDD
+    }
+
+    .lowerdiv {
+        width: 220px;
+        height: 98px;
+        background: #EBE7E7;
+        float: left;
+        border-top: 1px solid #ccc;
+        color: #2F96B4
+    }
+
+    ul.adminmenu {
+        list-style: none;
+    }
 
     /* Main */
     #menu {
@@ -50,7 +86,7 @@
         color: #fafafa;
     }
 
-    *html #menu li a:hover { /* IE6 */
+    * html #menu li a:hover { /* IE6 */
         color: #fafafa;
     }
 
@@ -97,12 +133,12 @@
         text-transform: none;
     }
 
-    *html #menu ul a { /* IE6 */
+    * html #menu ul a { /* IE6 */
         height: 10px;
         width: 150px;
     }
 
-    *:first-child+html #menu ul a { /* IE7 */
+    *:first-child + html #menu ul a { /* IE7 */
         height: 10px;
         width: 150px;
     }
@@ -146,8 +182,16 @@
         height: 0;
     }
 
-    * html #menu             { zoom: 1; } /* IE6 */
-    *:first-child+html #menu { zoom: 1; } /* IE7 */
+    * html #menu {
+        zoom: 1;
+    }
+
+    /* IE6 */
+    *:first-child + html #menu {
+        zoom: 1;
+    }
+
+    /* IE7 */
 
 </style>
 
@@ -280,7 +324,7 @@
         border-bottom: 8px solid #005580;
     }
 
-    .nav-pills > li:hover, .nav-pills > li > a:hover{
+    .nav-pills > li:hover, .nav-pills > li > a:hover {
         background-color: #000000;
 
     }
@@ -319,31 +363,31 @@
     /* IE7 */
 </style>
 <script type="text/javascript">
-    $(document).ready(function(){
-        //#EBE7E7
-        $(document.body).on('click',".right_a",function(){
-            $(".table_a").animate({"left": "+=484px"}, "fast");
-            $(this).removeClass('right_a');
-            $(this).addClass('left_a');
-            $(".table_img_a" ).prop( 'src','../img/arrow_lt.png' );
-        });
-        
-        $(document.body).on('mouseover',".right_a",function(){
-            $(".table_a").animate({"left": "+=3px"},0);
-        });
-        $(document.body).on('mouseout',".right_a",function(){
-            $(".table_a").animate({"left": "-=3px"},0);
-        });
- 
-        $(document.body).on('click',".left_a",function(){
-            $(".table_a").animate({"left": "-=484px"}, "fast");
-            $(this).addClass('right_a');
-            $(this).removeClass('left_a');
-            $(".table_img_a" ).prop( 'src','../img/arrow_rt.png' );
-        });
- 
-        
+  $(document).ready(function () {
+    //#EBE7E7
+    $(document.body).on('click', ".right_a", function () {
+      $(".table_a").animate({"left": "+=484px"}, "fast");
+      $(this).removeClass('right_a');
+      $(this).addClass('left_a');
+      $(".table_img_a").prop('src', '../img/arrow_lt.png');
     });
+
+    $(document.body).on('mouseover', ".right_a", function () {
+      $(".table_a").animate({"left": "+=3px"}, 0);
+    });
+    $(document.body).on('mouseout', ".right_a", function () {
+      $(".table_a").animate({"left": "-=3px"}, 0);
+    });
+
+    $(document.body).on('click', ".left_a", function () {
+      $(".table_a").animate({"left": "-=484px"}, "fast");
+      $(this).addClass('right_a');
+      $(this).removeClass('left_a');
+      $(".table_img_a").prop('src', '../img/arrow_rt.png');
+    });
+
+
+  });
 </script>
 <div style="text-align: center">
 
@@ -358,7 +402,8 @@
                             <table border="0" width="100%" style="background:transparent">
                                 <tr>
                                     <td rowspan="2" style="padding-top:5px; text-align: left;width: 33%;">
-                                        <img src="../img/usaid.png"  style="float:left;background:transparent;height: 70px;"/>
+                                        <img src="../img/usaid.png"
+                                             style="float:left;background:transparent;height: 70px;"/>
                                     </td>
                                     <td rowspan="2" style="padding-top:15px; text-align: center;width: 33%;">
                                     <span style="color: #005580;text-shadow:1px 1px 2px rgba(0,0,0,0.5);font-size: 22px;">
@@ -366,7 +411,7 @@
                                     </span>
                                     </td>
                                     <td rowspan="2" style="text-align:right;width: 33%;">
-                                        <img src="../img/nsetlogo.png")}}   style="padding-top:3px;height: 85px;"/>
+                                        <img src="../img/nsetlogo.png" )}} style="padding-top:3px;height: 85px;"/>
                                     </td>
                                 </tr>
                                 <tr>
@@ -404,16 +449,26 @@
         </ul>
     </li>-->
     <li>
-        <a href="../Home/course">Activities</a>
+        <a href="../Home/course">Program Activities</a>
         <ul>
-            <li><a href="../Home/newevents">+Add Events</a></li>
-<!--            <li><a href="../Home/event">View Events</a></li>-->
-            <li><a href="../Event/event_list_pagination">View Events</a></li>
-            <li><a href="../Home/course">Master Event</a></li>
+<!--            <li><a href="../Home/newevents">+Add Events</a></li>-->
+            <!--            <li><a href="../Home/event">View Events</a></li>-->
+<!--            <li><a href="../Event/event_list_pagination">View Events</a></li>-->
+            <li><a href="../Home/course">Events Lists</a></li>
         </ul>
     </li>
-    <li><a href="../Home/people">People</a></li>
-    <li><a href="<?=base_url();?>Report/dashboard">Report</a>
+
+    <li>
+        <a href="#">Manage Data</a>
+        <ul>
+            <li><a href="../Home/newevents">+Add Events</a></li>
+            <li><a href="../Event/event_list_pagination">Manage Events Data</a></li>
+            <li><a href="../Person/people_list_pagination">Manage Participants Data</a></li>
+        </ul>
+    </li>
+<!--    <li><a href="../Home/people">People</a></li>-->
+
+    <li><a href="<?= base_url(); ?>Report/dashboard">Report</a>
         <ul>
             <li><a href="../Report/aggregate">Event Participation Summary</a></li>
             <!--<li><a href="../Report/peoplereport">By People</a></li>
@@ -433,16 +488,34 @@
     </li>
 -->
     <?php if ($this->session->userdata('role') == 'superadmin') { ?>
-    <li><a href="#">Admin</a>
-        <ul>
-<!--            <li><a href="../Home/costSharing">Cost Sharing</a></li>-->
-<!--            <li><a href="../Home/eventOrganizer">Organiser Entry</a></li>-->
-<!--            <li><a href="../Home/newcourses">Event Entry</a></li>-->
-<!--            <li><a href="../Home/newCoverage">Coverage Entry</a></li>-->
-        </ul>
-    </li>
+        <li><a href="#">Admin</a>
+            <ul>
+                <!--            <li><a href="../Home/costSharing">Cost Sharing</a></li>-->
+                <!--            <li><a href="../Home/eventOrganizer">Organiser Entry</a></li>-->
+                <!--            <li><a href="../Home/newcourses">Event Entry</a></li>-->
+                <!--            <li><a href="../Home/newCoverage">Coverage Entry</a></li>-->
+            </ul>
+        </li>
     <?php } ?>
 </ul>
+
+<!--Showing Flashed Error Messages-->
+<!--see https://stackoverflow.com/questions/11031596/how-to-show-validation-errors-using-redirect-in-codeigniter -->
+<div class="row toast-error">
+    <div class="col-md-12">
+        <?php if (isset($message)): ?>
+            <div class="alert alert-info alert-dismissable">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                <strong>Message</strong><?= $message; ?>
+            </div>
+        <?php elseif (isset($error)): ?>
+            <div class="alert alert-danger alert-dismissable">
+                <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                <strong>Error</strong><?= $error; ?>
+            </div>
+        <?php endif; ?>
+    </div>
+</div>
 
 <div style="height:55px;width:500px;position:fixed;left:-484px; margin-top:0px;z-index:100" class="table_a">
     <table style="width:500px;height:55px">
@@ -451,41 +524,45 @@
 
                 <table class="dataListing" width="100%" cellspacing="0" cellpadding="5" border="0">
                     <tbody>
-                        <tr>
-                            <th width="5%" align="center">#</th>
-                            <th width="20%" align="left">Name</th>
-                            <th width="20%" align="left">User Name</th>
-                            <th width="20%" align="left">Logged in as</th>
-                            <th width="25%" align="left">Previous login</th>
-                            <th rowspan="2" class="uppercase nicefont size11">
-                                <a style="background:transparent" href="../Home/logout"><i class="icon-leaf"></i> Logout</a>    
-                            </th>
-                        </tr>
-                        <tr>
-                            <td align="center">1</td>
-                            <td align="left"><?= $this->session->userdata('fullname') ?></td>
-                            <td align="left"><?= $this->session->userdata('username') ?></td>
-                            <td align="left"><?= $this->session->userdata('role') ?></td>
-                            <td align="left"><?= $this->session->userdata('prevlogin') ?></td>
-                        </tr>
+                    <tr>
+                        <th width="5%" align="center">#</th>
+                        <th width="20%" align="left">Name</th>
+                        <th width="20%" align="left">User Name</th>
+                        <th width="20%" align="left">Logged in as</th>
+                        <th width="25%" align="left">Previous login</th>
+                        <th rowspan="2" class="uppercase nicefont size11">
+                            <a style="background:transparent" href="../Home/logout"><i class="icon-leaf"></i> Logout</a>
+                        </th>
+                    </tr>
+                    <tr>
+                        <td align="center">1</td>
+                        <td align="left"><?= $this->session->userdata('fullname') ?></td>
+                        <td align="left"><?= $this->session->userdata('username') ?></td>
+                        <td align="left"><?= $this->session->userdata('role') ?></td>
+                        <td align="left"><?= $this->session->userdata('prevlogin') ?></td>
+                    </tr>
                     </tbody>
                 </table>
 
             </td>
-            <td  style="width:16px; border-bottom-right-radius: 10px; border-top-right-radius: 10px; color:#fff" class="btn-info right_a"><img class="table_img_a" src="../img/arrow_rt.png"  style="margin:0;padding:0"/></td>
+            <td style="width:16px; border-bottom-right-radius: 10px; border-top-right-radius: 10px; color:#fff"
+                class="btn-info right_a"><img class="table_img_a" src="../img/arrow_rt.png" style="margin:0;padding:0"/>
+            </td>
         </tr>
     </table>
     <?php if ($this->session->userdata('role') == 'superadmin') { ?>
         <div class="upperdiv">
             <div style="padding:10px 0 0 20px;">
-                <img src="../img/cms.png" />
+                <img src="../img/cms.png"/>
                 <h5 class="inline-block">Superadmin control Panel </h5>
                 <!--hr style="background:url('../img/hr.jpg');margin:5px 0 5px 0" /-->
                 <ul class="adminmenu">
-                    <li class="nicefont uppercase size11"><b class="icon-picasa"></b><a href="../Home/sliderManager"> manage gallery(slider)</a></li>
-                    <li class="nicefont uppercase size11"><b class="icon-picasa"></b><a href="../Home/help"> manage help content</a></li>
+                    <li class="nicefont uppercase size11"><b class="icon-picasa"></b><a href="../Home/sliderManager">
+                            manage gallery(slider)</a></li>
+                    <li class="nicefont uppercase size11"><b class="icon-picasa"></b><a href="../Home/help"> manage help
+                            content</a></li>
                 </ul>
-            </div> 
+            </div>
         </div>
         <div class="curve">
         </div>
@@ -493,10 +570,15 @@
         <div class="lowerdiv">
             <div style="padding:3px 0 0 20px ;">
                 <ul class="adminmenu">
-                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/dc">Manage Deleted Course <?php if (isset($deleted_count)) echo '(' . $deleted_count[2] . '/' . $deleted_count[3] . ')'; ?></a></li>
-                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/de">Manage Deleted Events <?php if (isset($deleted_count)) echo '(' . $deleted_count[1] . ')'; ?></a></li>
-                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/dp">Manage Deleted People <?php if (isset($deleted_count)) echo '(' . $deleted_count[0] . ')'; ?></a></li>
-                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Home/userManagement">Manage user </a> </li>
+                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/dc">Manage Deleted
+                            Course <?php if (isset($deleted_count)) echo '(' . $deleted_count[2] . '/' . $deleted_count[3] . ')'; ?></a>
+                    </li>
+                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/de">Manage Deleted
+                            Events <?php if (isset($deleted_count)) echo '(' . $deleted_count[1] . ')'; ?></a></li>
+                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Control/dp">Manage Deleted
+                            People <?php if (isset($deleted_count)) echo '(' . $deleted_count[0] . ')'; ?></a></li>
+                    <li class="nicefont size11"><b class="icon-wrench"></b> <a href="../Home/userManagement">Manage
+                            user </a></li>
                 </ul>
             </div>
         </div>

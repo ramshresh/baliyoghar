@@ -36,6 +36,7 @@ class Home extends CI_Controller {
 
     public function login() {
         if ($this->session->userdata('username') !== false) {
+            $this->session->sess_expiration = '14400';
             $this->refresh();
         } else {
             $this->load->View('Login');

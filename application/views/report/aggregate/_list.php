@@ -19,11 +19,14 @@
         <div class="col-md-12">
             <div class="well">
                 <strong>Showing Results for :</strong>
-                <br>
+                <br/>
                 <strong>Year :</strong> <?= (isset($applied_filters['event_year']) && $applied_filters['event_year'] != '') ? $applied_filters['event_year'] : 'ALL'; ?>
-                <strong>Month :</strong> <?= (isset($applied_filters['event_month_name']) && $applied_filters['event_month_name'] != '') ? $applied_filters['event_month_name'] : 'ALL'; ?><br/>
-                <strong>Event Type :</strong> <?= (isset($applied_filters['event_type_name']) && $applied_filters['event_type_name'] != '') ? $applied_filters['event_type_name'] : 'ALL'; ?>
-                <br>
+                <br/>
+                <strong>Month:</strong> <?= (isset($applied_filters['event_month_name']) && $applied_filters['event_month_name'] != '') ? $applied_filters['event_month_name'] : 'ALL'; ?>
+                <br/>
+                <strong>Event Type
+                    :</strong> <?= (isset($applied_filters['event_type_name']) && $applied_filters['event_type_name'] != '') ? $applied_filters['event_type_name'] : 'ALL'; ?>
+                <br/>
                 <strong>District :</strong> <?= (isset($applied_filters['event_district']) && $applied_filters['event_district'] != '') ? $applied_filters['event_district'] : 'All'; ?>
                 <br/>
                 <strong>VDC/Municipality :</strong> <?= (isset($applied_filters['event_vdc']) && $applied_filters['event_vdc'] != '') ? $applied_filters['event_vdc'] : 'ALL'; ?>

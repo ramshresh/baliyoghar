@@ -1018,7 +1018,7 @@ $('document').ready(function () {
       var id = $(this).attr('id');
       var array = id.split("_");
       var person_id = array[1];
-      var event_id = $('#event_id').val();
+      var event_id = ($(this).data('event_id'))?$(this).data('event_id'):$('#event_id').val();
       var path = root + "Event/deleteCandidate_async";
       $.ajax({
         type: "POST",
@@ -1042,17 +1042,19 @@ $('document').ready(function () {
     }
   });
 
+  /*Edit */
+  //-----------------------//
   //EventDetail.php
   var dlg = $("#editCandidateForm"); // Get the dialog container.
-// Get the window dimensions.
+  // Get the window dimensions.
   var width = $(window).width();
   var height = $(window).height();
 
-// Provide some space between the window edges.
+  // Provide some space between the window edges.
   width = width - 50;
   height = height - 150; // iframe height will need to be even less to account for space taken up by dialog title bar, buttons, etc.
 
-// Set the iframe height.
+  // Set the iframe height.
   $(dlg.children("iframe").get(0)).css("height", height + "px");
 
   dlg.dialog({
@@ -1071,19 +1073,15 @@ $('document').ready(function () {
         $('#edit_participation_form').submit();
       }
     }
-
   });
 
-
-  //EventDetail.php
   /* clicked on  edit link to edit participants .. in event detail page*/
   $(document.body).on('click', 'a[id^=editparticipation_]', function (event) {
-
     var elem = $(this);
     var id = $(this).attr('id');
     var array = id.split("_");
     var person_id = array[1];
-    var event_id = $('#event_id').val();
+    var event_id = ($(this).data('event_id'))?$(this).data('event_id'):$('#event_id').val();
     //var path = root+"Event/editCandidateForm_async";
     var path = root + "Event/editParticipationForm_async";
     $.ajax({
@@ -1110,7 +1108,115 @@ $('document').ready(function () {
         }
       }
     });
+  });
 
+  /* clicked on  unselect link to remove participants .. in event detail page*/
+  $(document.body).on('click', 'a[id^=removeevent_]', function () {
+
+    var yes = confirm('Are you sure ?');
+    if (yes == true) {
+      var id = $(this).attr('id');
+      var array = id.split("_");
+      var person_id = array[1];
+      var event_id = ($(this).data('event_id'))?$(this).data('event_id'):$('#event_id').val();
+      var path = root + "Person/unlinkEvent_async";
+      $.ajax({
+        type: "POST",
+        url: path,
+        data: {
+          person_id: person_id,
+          event_id: event_id
+        },
+        cache: false,
+        error: function (xhr, status, error) {
+          alert('Error !\n Please try again.\n(Please check your internet connection.)');
+        },
+        success: function (msg) {
+          if ($.trim(msg) == 'no') {
+            alert('Action failed.\nPlease try again after some time or refresh the page.');
+          } else {
+            $('#event_row_' + person_id).remove();
+          }
+        }
+      });
+    }
+  });
+
+  //---------------------------/
+
+
+
+  //EditPerson.php Edit EventParticipation
+
+  /*Edit */
+  //EventDetail.php
+  var dlgEventParticipation = $("#participationFormDiv"); // Get the dialog container.
+  // Get the window dimensions.
+  var width = $(window).width();
+  var height = $(window).height();
+
+  // Provide some space between the window edges.
+  width = width - 50;
+  height = height - 150; // iframe height will need to be even less to account for space taken up by dialog title bar, buttons, etc.
+
+  // Set the iframe height.
+  $(dlgEventParticipation.children("iframe").get(0)).css("height", height + "px");
+
+  dlgEventParticipation.dialog({
+    autoOpen: false,
+    modal: true,
+    height: 300, // Set the height to auto so that it grows along with the iframe.
+    width: 600,
+    create: function (event, ui) {
+      $(this).siblings('div.ui-dialog-titlebar').remove();
+    },
+    buttons: {
+      'Cancel': function () {
+        $(this).dialog('close');
+      },
+      'Save': function () {
+        $('#edit_event_participation_form').submit();
+      }
+    }
+  });
+
+  /* clicked on  edit link to edit participation .. in person detail page*/
+  $(document.body).on('click', 'a[id^=editparticipation_]', function (event) {
+    var elem = $(this);
+    var id = $(this).attr('id');
+    var array = id.split("_");
+    var person_id = array[1];
+
+    var event_id = ($(this).data('event_id'))?$(this).data('event_id'):$('#event_id').val();
+    var i = $(this).data('i');
+
+    //var path = root+"Event/editCandidateForm_async";
+    var path = root + "Person/editParticipationForm_async";
+    $.ajax({
+      type: "POST",
+      url: path,
+      data: {
+        person_id: person_id,
+        event_id: event_id,
+        i:i
+      },
+      cache: false,
+      error: function (xhr, status, error) {
+        alert('Error !\n Please try again.\n(Please check your internet connection.)');
+      },
+      success: function (msg) {
+        if ($.trim(msg) == 'no') {
+          alert('Action failed.\nPlease try again after some time or refresh the page.');
+        } else {
+          $('#participationFormDiv').empty();
+          $('#participationFormDiv').html(msg);
+          $('#participationFormDiv > form').data("person_id", person_id);
+          $('#participationFormDiv > form').data("dtBase", 'a[id^=editparticipation_]');
+          $('#participationFormDiv > form').data("dt", event.delegateTarget);
+          $("#participationFormDiv").dialog('open');
+        }
+      }
+    });
   });
 
 
