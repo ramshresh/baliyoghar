@@ -25,7 +25,7 @@
 	<?php
 	if (isset($beneficiaryTypeSelect)) {
 		echo $beneficiaryTypeSelect;
-	} h
+	}
 	?>
 </select>
 <br/>
