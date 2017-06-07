@@ -8,6 +8,10 @@ After cloning the repository creating following files:
 3. .htaccess
 ->change-->RewriteRule ^(.*)$ /projects/nset-baliyoghar/index.php/$1 [L]
 
+4. Add folders
+    i. gallery
+    ii. gallery/thumbs
+5. execute SQLs of migration folder sequentially
 --------------------------------------------------------------------------
 #FILE: config.php
 --------------------------------------------------------------------------
