@@ -34,10 +34,6 @@ INSERT INTO `work_type` (`work_type_id`, `work_name`, `course_category_id`, `cre
 (91, 'Other', 33, NULL, NULL, NULL, NULL, 0);
 
 
-
-
-
-
 INSERT INTO `beneficiary_type` (`beneficiary_type_id`, `beneficiary_name`, `course_category_id`, `created_by`, `created_date`, `deleted_by`, `deleted_date`, `deleted`) VALUES
 (10, 'Mason', NULL, 'admin', '2016-09-21 04:11:14', NULL, NULL, 1),
 (11, 'House Owner', 34, 'admin', '2016-09-21 04:11:14', NULL, NULL, 0),
