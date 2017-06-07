@@ -388,6 +388,10 @@ class eventmodel extends CI_Model
 
     function getAllParticipation($person_id)
     {
+        $this->load->model('certificationstatusmodel');
+        $this->load->model('beneficiarytypemodel');
+
+
         $query = $this->db->query("SELECT * FROM participated_in where person_id=" . $person_id . "  ORDER BY event_id DESC"); // LIMIT " . $start . " , " . $end);
 
 
@@ -419,8 +423,10 @@ class eventmodel extends CI_Model
                 $event_array[$i][5] = $event_detail[7]; //venue
                 $event_array[$i][6] = $row->event_id; //event_id
                 $event_array[$i][7] = $row->participated_in_id;
-                $event_array[$i][8] = isset($this->BENEFICIARY_TYPES[$row->beneficiary_type]) ? $this->BENEFICIARY_TYPES[$row->beneficiary_type] : '';
+                $event_array[$i][8] = isset($row->beneficiary_type) ? $this->beneficiarytypemodel->getBeneficiaryName($row->beneficiary_type) : $this->beneficiary_type;
                 $event_array[$i][9] = $row->person_id;
+                $event_array[$i][10] = isset($row->certification_status) ? $this->certificationstatusmodel->getWorkName($row->certification_status) : $this->certificationstatusmodel;
+                $event_array[$i][11] = $row->certification_code;
                 $i++;
             }
         }
@@ -457,6 +463,22 @@ class eventmodel extends CI_Model
     }
 
 
+    public function getCourseCategory($event_id,$type = 'id')
+    {
+        $query = $this->db->query("SELECT events.course_cat_id, course_category.coursename FROM events JOIN course_category where event_id=" . $event_id . "  LIMIT 1"); // LIMIT " . $start . " , " . $end);
+        foreach ($query->result() as $row) {
+            if($type == 'label') {
+                return $row->coursename;
+            }
+            return $row->course_cat_id;
+
+        }
+    }
+
+    public function getCourseCategoryLabel($event_id)
+    {
+        return $this->getCourseCategory($event_id,'label');
+    }
     //for php request form controller
     public function getCourseSubCourses($course_id, $deleted = 0)
     {

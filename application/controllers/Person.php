@@ -490,6 +490,11 @@ class Person extends CI_Controller
 
         $event_id = $this->input->post('event_id');
         $person_id = $this->input->post('person_id');
+
+        $this->load->model('eventmodel');
+        $course_category_id =$this->eventmodel->getCourseCategory($event_id);
+
+
         $i = $this->input->post('i');
 
         $participationDetail = $this->eventmodel->getParticipation($event_id, $person_id);
@@ -515,7 +520,6 @@ class Person extends CI_Controller
             } else {
                 $certificationStatusSelect .= '<option value="' . $row->certification_status_id . '">' . $row->certification_status_name . '</option>';
             }
-
         }
         $data['certificationStatusSelect'] = $certificationStatusSelect;
         //}}
@@ -536,7 +540,7 @@ class Person extends CI_Controller
 
         $data['beneficiary_type_id'] = $participationDetail['beneficiary_type'];
 
-        $query = $this->beneficiarytypemodel->getBeneficiaryTypeTable();
+        $query = $this->beneficiarytypemodel->getBeneficiaryTypeTable(0,$course_category_id);
         $beneficiaryTypeSelect = "";
         foreach ($query->result() as $row) {
             if ($row->beneficiary_type_id == $data['beneficiary_type_id']) {

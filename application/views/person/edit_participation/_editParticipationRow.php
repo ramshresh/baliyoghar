@@ -10,6 +10,7 @@ echo ' <td align="center">' . ($i + 1) . '</td>';
 echo ' <td align="left"><a href="../Event/viewEvent?id=' . $participation[6] . '">' . $participation[0] . '<a></td>';
 echo '<td align="left">' . $participation[1] . '</td>';
 echo '<td align="left">' . $participation[8] . '</td>';
+echo '<td align="left">' . $participation[10] . '</td>';
 echo '<td align="left">' . $participation[2] . '</td>';
 
 echo '<td align="left">' . $participation[3] . '</td>';
