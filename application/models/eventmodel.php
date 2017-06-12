@@ -423,9 +423,9 @@ class eventmodel extends CI_Model
                 $event_array[$i][5] = $event_detail[7]; //venue
                 $event_array[$i][6] = $row->event_id; //event_id
                 $event_array[$i][7] = $row->participated_in_id;
-                $event_array[$i][8] = isset($row->beneficiary_type) ? $this->beneficiarytypemodel->getBeneficiaryName($row->beneficiary_type) : $this->beneficiary_type;
+                $event_array[$i][8] = isset($row->beneficiary_type) ? $this->beneficiarytypemodel->getBeneficiaryName($row->beneficiary_type) : $row->beneficiary_type;
                 $event_array[$i][9] = $row->person_id;
-                $event_array[$i][10] = isset($row->certification_status) ? $this->certificationstatusmodel->getWorkName($row->certification_status) : $this->certificationstatusmodel;
+                $event_array[$i][10] = isset($row->certification_status) ? $this->certificationstatusmodel->getWorkName($row->certification_status) : $row->certification_status;
                 $event_array[$i][11] = $row->certification_code;
                 $i++;
             }
@@ -780,6 +780,32 @@ class eventmodel extends CI_Model
             return 0;
         }
     }
+
+
+    function batch_insert($data)
+    {
+        $this->db->trans_begin();
+
+        $_datas = array_chunk($data, 300);
+
+        foreach ($_datas as $key => $data) {
+            $this->db->insert_batch('events', $data);
+        }
+        $this->db->trans_complete();
+
+        if ($this->db->trans_status() === FALSE) {
+            //if something went wrong, rollback everything
+            $this->db->trans_rollback();
+            return FALSE;
+        } else {
+            //if everything went right, commit the data to the database
+            $this->db->trans_commit();
+            return TRUE;
+        }
+
+        return true;
+    }
+
 
 //-------------------------------------------------------------------------------------------------
     function saveBudget($event_id, $csparty_value, $total_direct_cost, $staff_cost, $travel_cost, $unit)

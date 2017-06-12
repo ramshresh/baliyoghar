@@ -18,7 +18,7 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <?= $this->load->view('includes/components/_search_panel.php');?>
+                <?php $this->load->view('includes/components/_search_panel.php');?>
             </div>
         </div>
         <div class="pagination-table" id="peopleList">

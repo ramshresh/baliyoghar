@@ -597,7 +597,7 @@
 
 
 <!--       START:  use this-->
-       <?= $this->load->view('person/edit_participation/_editParticipationTableList');?>
+       <?php $this->load->view('person/edit_participation/_editParticipationTableList');?>
         <!--       END: use this -->
 
 </div> <!-- end of container tag-->

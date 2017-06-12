@@ -418,6 +418,10 @@ if (file_exists($filename)) {
     {
         $data = [];
 
+        $this->load->model('certificationstatusmodel');
+        $this->load->model('beneficiarytypemodel');
+        $this->load->model('worktypemodel');
+        $this->load->model('educationlevelmodel');
         //{{
         $query = $this->certificationstatusmodel->getCertificationStatusTable();
         $certificationStatusSelect = "";
@@ -455,25 +459,11 @@ if (file_exists($filename)) {
         return $data;
     }
 
-
-    public function getFilteredPeople(
-        $start = null,//start-->offset
-        $limit = null,//limit-->per_page
+    public function makeWhereClause(
         $deleted = null,//deleted
         $params = array()//searchParams
     )
     {
-
-
-        $limit_str = '';
-        if ($start != null && $limit != null) {
-            $limit_str = " LIMIT " . $start . "," . $limit;
-        }
-
-        if ($start == null && $limit != null) {
-            $limit_str = " LIMIT " . $limit;
-        }
-
         $deleted = ($deleted != null) ? $deleted : 0;
         $event_year = (isset($params['event_year'])) ? $params['event_year'] : '';
         $event_month = (isset($params['event_month'])) ? $params['event_month'] : '';
@@ -483,23 +473,6 @@ if (file_exists($filename)) {
         $keywords = (isset($params['keywords'])) ? $params['keywords'] : '';
         $event_course_cat_id = (isset($params['event_course_cat_id'])) ? $params['event_course_cat_id'] : '';
         //$event_course_cat_id =;//(isset($params['event_course_cat_id']))?$params['event_course_cat_id']:'';
-
-
-        $order_arr = array(
-            'event_start_date desc',
-        );
-        $order_expr_str = implode(' , ', $order_arr);
-        $order_clause_str = ($order_expr_str != '') ? ' ORDER BY  ' . $order_expr_str : '';
-
-        // sort data by ascending or desceding order
-        // sortBy 'asc:event_district,event_vdc|desc:person_fullname';
-        /*
-        if (isset($params['search']['sortBy']) && !empty($params['search']['sortBy'])) {
-            $this->db->order_by('title', $params['search']['sortBy']);
-        } else {
-            $this->db->order_by('start_date', 'desc');
-        }
-        */
 
         //||*********************Keywords Joined with OR
         $wh_keywords_expr_arr = array();
@@ -565,6 +538,69 @@ if (file_exists($filename)) {
         }
         $wh_clause_expr_str = implode(' AND ', $wh_clause_expr_arr);
         $wh_clause_str = ($wh_clause_expr_str != '') ? 'WHERE ' . $wh_clause_expr_str : '';
+
+        return $wh_clause_str;
+    }
+
+    public function makeOrderByClause($order_by_arr=array())
+    {
+        if(is_array($order_by_arr) && empty($order_by_arr)){
+            $order_by_arr=array('event_start_date'=> 'desc');
+        }
+
+        $order_by_expr_arr =array();
+        foreach ($order_by_arr as $attribute=>$order) {
+            array_push($order_by_expr_arr, $attribute.' '.$order);
+        }
+        $order_by_expr_str = implode(' , ', $order_by_expr_arr);
+        $order_by_clause_str = ($order_by_expr_str != '') ? ' ORDER BY  ' . $order_by_expr_str : '';
+
+        return $order_by_clause_str;
+    }
+    public function makeGroupByClause($group_arr=array())
+    {
+        if(is_array($group_arr) && empty($group_arr)){
+            $group_arr=array('event_id');
+        }
+        $group_by_expr_str = implode(' , ', $group_arr);
+        $group_by_clause_str = ($group_by_expr_str != '') ? ' GROUP BY  ' . $group_by_expr_str : '';
+
+        return $group_by_clause_str;
+    }
+    public function makeLimitClause(
+        $start = null,//start-->offset
+        $limit = null//limit-->per_page
+    )
+    {
+        $limit_str = '';
+        if ($start != null && $limit != null) {
+            $limit_str = " LIMIT " . $start . "," . $limit;
+        }
+        if ($start == null && $limit != null) {
+            $limit_str = " LIMIT " . $limit;
+        }
+
+        return $limit_str;
+    }
+
+    public function getFilteredPeople(
+        $start = null,//start-->offset
+        $limit = null,//limit-->per_page
+        $deleted = null,//deleted
+        $params = array()//searchParams
+    )
+    {
+        //Make Where Clause
+        $wh_clause_str=$this->makeWhereClause( $deleted, $params);
+
+        //Making GroupBy Clause
+        $group_by_clause_str= $this->makeGroupByClause();
+
+        //Making OrderBy Clause
+        $order_by_clause_str= $this->makeOrderByClause();
+
+        //Making Limit Clause
+        $limit_str=$this->makeLimitClause($start,$limit);
 
         $select_str = <<<SQL
 		SELECT r.* FROM(
@@ -647,8 +683,11 @@ if (file_exists($filename)) {
         ) as r
 SQL;
 
-
-        $sql = $select_str . ' ' . $wh_clause_str . ' ' . ' GROUP BY person_id ' . ' ' . $order_clause_str . ' ' . $limit_str;
+        $sql = $select_str
+            .' '. $wh_clause_str
+            .' '.$group_by_clause_str
+            .' '. $order_by_clause_str
+            .' '. $limit_str;
 
         $query = $this->db->query($sql);
 
@@ -657,7 +696,6 @@ SQL;
         return (count($reports) > 0) ? $query->result_array() : FALSE;
 
     }
-
 }
 
 ?>

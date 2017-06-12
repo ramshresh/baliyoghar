@@ -38,7 +38,7 @@ if (!$this->session->userdata('username')) {
         <!-- end nepali date -->
 
         <!-- ck editor -->
-        <script src="../ckeditor/ckeditor.js"></script>
+<!--        <script src="../ckeditor/ckeditor.js"></script>-->
         <!--link rel="stylesheet" href="sample.css"-->
         <!--end ck editor -->
 
@@ -51,7 +51,7 @@ if (!$this->session->userdata('username')) {
         <link rel="icon" href="../img/favicon.jpg" type="image/x-icon" />
 <!--        <link rel="stylesheet" type="text/css" href="../css/slider.css" />-->
         <link rel="stylesheet" type="text/css" href="../bootstrap/css/bootstrap.css"/>
-        <link rel="stylesheet" type="text/css" href="../css/font-awesome.css"/>
+        <link rel="stylesheet" type="text/css" href="<?= base_url()?>font/css/font-awesome.min.css"/>
         <link rel="stylesheet" type="text/css" href="../css/style.css"/>
         <link rel="stylesheet" type="text/css" href="../css/inline.css"/>
         <link rel="stylesheet" type="text/css" href="../css/basic.css"/>

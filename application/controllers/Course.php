@@ -13,9 +13,12 @@ class Course extends CI_Controller {
 
     public function __construct() {
         parent::__construct();
+
         $this->load->model('coursemodel');
+
         $this->load->model('functionsmodel');
-        $this->homeController = new Home();
+        //$this->homeController = new Home();
+        //exit;
     }
 
 

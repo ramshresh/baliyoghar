@@ -16,7 +16,7 @@ class Home extends CI_Controller {
     }
 
     public function refresh($page = 'Home/home') {
-	redirect($page, 'refresh');
+	    redirect($page, 'refresh');
     }
     
     public function index()
@@ -35,12 +35,14 @@ class Home extends CI_Controller {
     }
 
     public function login() {
-        if ($this->session->userdata('username') !== false) {
+        $this->load->View('Login');
+        $this->session->sess_expiration = '14400';
+        /*if ($this->session->userdata('username') !== false) {
             $this->session->sess_expiration = '14400';
-            $this->refresh();
+            //$this->refresh();
         } else {
             $this->load->View('Login');
-        }
+        }*/
     }
 
     public function costSharing() {
@@ -64,6 +66,7 @@ class Home extends CI_Controller {
         if ($this->session->userdata('username') === FALSE || !$this->session->userdata('username') || $this->session->userdata('username') == '') {
             if (!$this->input->post('username')) {
                 //condition when someon directly copy and pastes the link of homepage
+                //echo 'shh';exit;
                 $this->refresh('Home/login');
             } else {
                 //if post variable is set

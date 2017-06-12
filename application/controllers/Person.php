@@ -42,14 +42,15 @@ class Person extends CI_Controller
 
 
         $this->load->helper('url');
-        $this->homeController = new Home();
+        //$this->homeController = new Home();
     }
 
 
     public function people()
     {
 
-        $this->homeController->people();
+        redirect('Home/people');
+        //$this->homeController->people();
     }
 
     public function addPerson()
@@ -794,6 +795,16 @@ class Person extends CI_Controller
             null,//deleted
             $searchParams//searchParams
         );
+
+        //get event data
+       /* $records =$this->personmodel->getFilteredPeopleSummary(
+            $offset,//start
+            $per_page,//limit
+            null,//deleted
+            $searchParams//searchParams
+        );*/
+
+
 
         if(isset($records) && !empty($records)){
             foreach ($records as $index=>$record){

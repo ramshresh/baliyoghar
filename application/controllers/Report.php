@@ -5,7 +5,7 @@ class Report extends CI_Controller {
 
     public function __construct() {
         parent::__construct();
-        $this->load->model('ReportModel');
+        $this->load->model('reportmodel');
         $this->load->model('functionsmodel');
         $this->load->model('eventmodel');
         $this->load->model('coursemodel');
@@ -468,6 +468,22 @@ $data['name']=$name;
         $this->load->view('report/aggregate/ajax', $data, false);
     }
 
+
+
+    public function summaryReportByDistrict(){
+
+
+        //get the posts data
+        $this->load->model('reportmodel');
+        $records =$this->reportmodel->get_aggregated_report_district(
+            0,//start
+            100,//limit
+            0,//deleted
+            array()//searchParams
+        );
+
+        echo '<pre>'.json_encode($records).'</pre>';
+    }
 }
 
 ?>
